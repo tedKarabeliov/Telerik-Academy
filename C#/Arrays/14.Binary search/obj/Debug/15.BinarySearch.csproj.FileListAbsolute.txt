@@ -1,0 +1,3 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\14.Binary search\bin\Debug\14.Binary search.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\14.Binary search\obj\Debug\14.Binary search.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\14.Binary search\obj\Debug\14.Binary search.pdb

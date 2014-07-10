@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\18.E-mail\bin\Debug\18.E-mail.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\18.E-mail\bin\Debug\18.E-mail.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\18.E-mail\bin\Debug\18.E-mail.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\18.E-mail\obj\Debug\18.E-mail.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\18.E-mail\obj\Debug\18.E-mail.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\18.E-mail\obj\Debug\18.E-mail.pdb

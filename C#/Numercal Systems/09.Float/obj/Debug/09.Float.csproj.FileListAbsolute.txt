@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\09.Float\bin\Debug\09.Float.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\09.Float\bin\Debug\09.Float.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\09.Float\bin\Debug\09.Float.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\09.Float\obj\Debug\09.Float.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\09.Float\obj\Debug\09.Float.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\09.Float\obj\Debug\09.Float.pdb

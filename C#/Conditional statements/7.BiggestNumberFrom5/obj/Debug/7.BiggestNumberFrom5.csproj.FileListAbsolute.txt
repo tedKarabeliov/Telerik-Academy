@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\7.BiggestNumberFrom5\bin\Debug\7.BiggestNumberFrom5.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\7.BiggestNumberFrom5\bin\Debug\7.BiggestNumberFrom5.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\7.BiggestNumberFrom5\bin\Debug\7.BiggestNumberFrom5.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\7.BiggestNumberFrom5\obj\Debug\7.BiggestNumberFrom5.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\7.BiggestNumberFrom5\obj\Debug\7.BiggestNumberFrom5.pdb

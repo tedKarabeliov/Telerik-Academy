@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\17.Greatest divisor\bin\Debug\17.Greatest divisor.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\17.Greatest divisor\bin\Debug\17.Greatest divisor.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\17.Greatest divisor\bin\Debug\17.Greatest divisor.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\17.Greatest divisor\obj\Debug\17.Greatest divisor.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\17.Greatest divisor\obj\Debug\17.Greatest divisor.pdb

@@ -1,0 +1,3 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\N!K! (N-K)!\bin\Debug\N!K! (N-K)!.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\N!K! (N-K)!\obj\Debug\N!K! (N-K)!.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\N!K! (N-K)!\obj\Debug\N!K! (N-K)!.pdb

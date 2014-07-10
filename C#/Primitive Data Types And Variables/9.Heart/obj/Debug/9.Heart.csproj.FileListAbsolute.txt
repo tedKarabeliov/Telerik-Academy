@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\9.Heart\bin\Debug\9.Heart.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\9.Heart\bin\Debug\9.Heart.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\9.Heart\bin\Debug\9.Heart.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\9.Heart\obj\Debug\9.Heart.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\9.Heart\obj\Debug\9.Heart.pdb

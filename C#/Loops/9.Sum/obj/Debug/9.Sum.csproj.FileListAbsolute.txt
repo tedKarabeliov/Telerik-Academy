@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\9.Sum\bin\Debug\9.Sum.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\9.Sum\bin\Debug\9.Sum.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\9.Sum\bin\Debug\9.Sum.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\9.Sum\obj\Debug\9.Sum.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\9.Sum\obj\Debug\9.Sum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\16.ha-ha-ha\bin\Debug\16.ha-ha-ha.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\16.ha-ha-ha\bin\Debug\16.ha-ha-ha.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\16.ha-ha-ha\bin\Debug\16.ha-ha-ha.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\16.ha-ha-ha\obj\Debug\16.ha-ha-ha.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\16.ha-ha-ha\obj\Debug\16.ha-ha-ha.pdb

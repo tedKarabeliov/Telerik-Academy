@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\06.Sum\bin\Debug\06.Sum.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\06.Sum\bin\Debug\06.Sum.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\06.Sum\bin\Debug\06.Sum.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\06.Sum\obj\Debug\06.Sum.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\06.Sum\obj\Debug\06.Sum.pdb

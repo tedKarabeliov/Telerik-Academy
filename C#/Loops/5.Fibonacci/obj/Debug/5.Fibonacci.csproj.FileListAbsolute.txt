@@ -1,0 +1,6 @@
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\5.Fibonacci\bin\Debug\5.Fibonacci.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\5.Fibonacci\bin\Debug\5.Fibonacci.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\5.Fibonacci\bin\Debug\5.Fibonacci.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\5.Fibonacci\obj\Debug\5.Fibonacci.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\5.Fibonacci\obj\Debug\5.Fibonacci.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\5.Fibonacci\obj\Debug\5.Fibonacci.csprojResolveAssemblyReference.cache

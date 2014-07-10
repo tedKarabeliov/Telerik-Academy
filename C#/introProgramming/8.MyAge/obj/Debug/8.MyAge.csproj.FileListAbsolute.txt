@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\8.MyAge\bin\Debug\8.MyAge.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\8.MyAge\bin\Debug\8.MyAge.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\8.MyAge\bin\Debug\8.MyAge.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\8.MyAge\obj\Debug\8.MyAge.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\8.MyAge\obj\Debug\8.MyAge.pdb

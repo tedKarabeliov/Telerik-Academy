@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\05.Workdays\bin\Debug\05.Workdays.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\05.Workdays\bin\Debug\05.Workdays.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\05.Workdays\bin\Debug\05.Workdays.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\05.Workdays\obj\Debug\05.Workdays.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\05.Workdays\obj\Debug\05.Workdays.pdb

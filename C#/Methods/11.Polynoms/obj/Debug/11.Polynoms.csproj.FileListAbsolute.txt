@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.Polynoms\bin\Debug\11.Polynoms.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.Polynoms\bin\Debug\11.Polynoms.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.Polynoms\bin\Debug\11.Polynoms.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.Polynoms\obj\Debug\11.Polynoms.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.Polynoms\obj\Debug\11.Polynoms.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.Polynoms\obj\Debug\11.Polynoms.pdb

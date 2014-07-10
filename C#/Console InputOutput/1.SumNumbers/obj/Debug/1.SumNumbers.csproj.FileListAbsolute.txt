@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\1.SumNumbers\bin\Debug\1.SumNumbers.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\1.SumNumbers\bin\Debug\1.SumNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\1.SumNumbers\bin\Debug\1.SumNumbers.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\1.SumNumbers\obj\Debug\1.SumNumbers.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\1.SumNumbers\obj\Debug\1.SumNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\1.SumNumbers\obj\Debug\1.SumNumbers.pdb

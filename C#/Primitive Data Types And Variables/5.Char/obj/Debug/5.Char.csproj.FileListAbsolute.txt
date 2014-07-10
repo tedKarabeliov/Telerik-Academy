@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\5.Char\bin\Debug\5.Char.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\5.Char\bin\Debug\5.Char.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\5.Char\bin\Debug\5.Char.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\5.Char\obj\Debug\5.Char.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\5.Char\obj\Debug\5.Char.pdb

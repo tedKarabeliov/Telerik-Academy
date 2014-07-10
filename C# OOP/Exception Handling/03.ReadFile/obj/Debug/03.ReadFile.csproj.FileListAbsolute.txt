@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\03.ReadFile\bin\Debug\03.ReadFile.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\03.ReadFile\obj\Debug\03.ReadFile.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\03.ReadFile\bin\Debug\03.ReadFile.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\03.ReadFile\bin\Debug\03.ReadFile.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\03.ReadFile\obj\Debug\03.ReadFile.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\03.ReadFile\obj\Debug\03.ReadFile.pdb

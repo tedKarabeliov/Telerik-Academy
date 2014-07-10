@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\08.SignedShort\bin\Debug\08.SignedShort.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\08.SignedShort\bin\Debug\08.SignedShort.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\08.SignedShort\bin\Debug\08.SignedShort.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\08.SignedShort\obj\Debug\08.SignedShort.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\08.SignedShort\obj\Debug\08.SignedShort.pdb

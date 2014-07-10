@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\BinarySearchTree\obj\Debug\04.BinarySearchTree.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\6.Rectangle\bin\Debug\6.Rectangle.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\6.Rectangle\bin\Debug\6.Rectangle.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\6.Rectangle\bin\Debug\6.Rectangle.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\6.Rectangle\obj\Debug\6.Rectangle.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\6.Rectangle\obj\Debug\6.Rectangle.pdb

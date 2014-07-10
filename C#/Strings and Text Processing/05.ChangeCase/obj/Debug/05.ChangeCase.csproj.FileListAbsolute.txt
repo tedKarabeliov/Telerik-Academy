@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\05.ChangeCase\bin\Debug\05.ChangeCase.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\05.ChangeCase\bin\Debug\05.ChangeCase.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\05.ChangeCase\bin\Debug\05.ChangeCase.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\05.ChangeCase\obj\Debug\05.ChangeCase.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\05.ChangeCase\obj\Debug\05.ChangeCase.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\05.ChangeCase\obj\Debug\05.ChangeCase.pdb

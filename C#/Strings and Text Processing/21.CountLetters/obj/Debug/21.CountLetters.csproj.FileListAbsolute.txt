@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\21.CountLetters\bin\Debug\21.CountLetters.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\21.CountLetters\bin\Debug\21.CountLetters.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\21.CountLetters\bin\Debug\21.CountLetters.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\21.CountLetters\obj\Debug\21.CountLetters.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\21.CountLetters\obj\Debug\21.CountLetters.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\21.CountLetters\obj\Debug\21.CountLetters.csprojResolveAssemblyReference.cache

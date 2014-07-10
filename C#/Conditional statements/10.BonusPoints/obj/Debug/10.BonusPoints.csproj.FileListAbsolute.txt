@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\10.BonusPoints\bin\Debug\10.BonusPoints.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\10.BonusPoints\bin\Debug\10.BonusPoints.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\10.BonusPoints\bin\Debug\10.BonusPoints.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\10.BonusPoints\obj\Debug\10.BonusPoints.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\10.BonusPoints\obj\Debug\10.BonusPoints.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\10.BonusPoints\obj\Debug\10.BonusPoints.csprojResolveAssemblyReference.cache

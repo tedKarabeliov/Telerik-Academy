@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\5.Цифра на български\bin\Debug\5.Цифра на български.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\5.Цифра на български\bin\Debug\5.Цифра на български.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\5.Цифра на български\bin\Debug\5.Цифра на български.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\5.Цифра на български\obj\Debug\5.Цифра на български.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\5.Цифра на български\obj\Debug\5.Цифра на български.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\5.Цифра на български\obj\Debug\5.Цифра на български.pdb

@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\04.Download\bin\Debug\04.Download.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\04.Download\bin\Debug\04.Download.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\04.Download\bin\Debug\04.Download.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\04.Download\obj\Debug\04.Download.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\04.Download\obj\Debug\04.Download.pdb

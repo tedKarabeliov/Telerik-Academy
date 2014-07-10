@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\4.CheckBit\bin\Debug\4.CheckBit.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\4.CheckBit\bin\Debug\4.CheckBit.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\4.CheckBit\bin\Debug\4.CheckBit.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\4.CheckBit\obj\Debug\4.CheckThirdBit.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\4.CheckBit\obj\Debug\4.CheckBit.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\4.CheckBit\obj\Debug\4.CheckBit.pdb

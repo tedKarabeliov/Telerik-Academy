@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\7.Concat\bin\Debug\7.Concat.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\7.Concat\bin\Debug\7.Concat.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\7.Concat\bin\Debug\7.Concat.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\7.Concat\obj\Debug\7.Concat.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\7.Concat\obj\Debug\7.Concat.pdb

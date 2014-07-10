@@ -1,0 +1,6 @@
+C:\Users\Tedski\Desktop\C#1 temp\Using Classes And Objects\07.ExpressionCalculator\bin\Debug\07.TheHardOne.exe.config
+C:\Users\Tedski\Desktop\C#1 temp\Using Classes And Objects\07.ExpressionCalculator\obj\Debug\07.TheHardOne.exe
+C:\Users\Tedski\Desktop\C#1 temp\Using Classes And Objects\07.ExpressionCalculator\obj\Debug\07.TheHardOne.pdb
+C:\Users\Tedski\Desktop\C#1 temp\Using Classes And Objects\07.ExpressionCalculator\bin\Debug\07.TheHardOne.exe
+C:\Users\Tedski\Desktop\C#1 temp\Using Classes And Objects\07.ExpressionCalculator\bin\Debug\07.TheHardOne.pdb
+C:\Users\Tedski\Desktop\C#1 temp\Using Classes And Objects\07.ExpressionCalculator\obj\Debug\07.ExpressionCalculator.csprojResolveAssemblyReference.cache

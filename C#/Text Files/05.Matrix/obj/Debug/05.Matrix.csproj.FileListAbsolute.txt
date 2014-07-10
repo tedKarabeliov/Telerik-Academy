@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\05.Matrix\bin\Debug\05.Matrix.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\05.Matrix\bin\Debug\05.Matrix.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\05.Matrix\bin\Debug\05.Matrix.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\05.Matrix\obj\Debug\05.Matrix.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\05.Matrix\obj\Debug\05.Matrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\23.EraseRepeating\bin\Debug\23.EraseRepeating.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\23.EraseRepeating\bin\Debug\23.EraseRepeating.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\23.EraseRepeating\bin\Debug\23.EraseRepeating.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\23.EraseRepeating\obj\Debug\23.EraseRepeating.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\23.EraseRepeating\obj\Debug\23.EraseRepeating.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\15.HTML\bin\Debug\15.HTML.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\15.HTML\obj\Debug\15.HTML.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\15.HTML\bin\Debug\15.HTML.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\15.HTML\bin\Debug\15.HTML.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\15.HTML\obj\Debug\15.HTML.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\15.HTML\obj\Debug\15.HTML.pdb

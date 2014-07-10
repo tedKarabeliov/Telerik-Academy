@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\16.Random\bin\Debug\16.Random.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\16.Random\bin\Debug\16.Random.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\16.Random\bin\Debug\16.Random.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\16.Random\obj\Debug\16.Random.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\16.Random\obj\Debug\16.Random.pdb

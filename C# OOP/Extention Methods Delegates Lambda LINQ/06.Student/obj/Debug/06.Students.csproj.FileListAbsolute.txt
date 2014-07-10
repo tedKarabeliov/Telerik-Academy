@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\06.Student\bin\Debug\06.Student.exe.config
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\06.Student\bin\Debug\06.Student.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\06.Student\bin\Debug\06.Student.pdb
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\06.Student\obj\Debug\06.Students.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\06.Student\obj\Debug\06.Student.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\06.Student\obj\Debug\06.Student.pdb

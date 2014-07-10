@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\06.BinaryToHexademical\bin\Debug\06.BinaryToHexademical.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\06.BinaryToHexademical\bin\Debug\06.BinaryToHexademical.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\06.BinaryToHexademical\bin\Debug\06.BinaryToHexademical.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\06.BinaryToHexademical\obj\Debug\06.BinaryToHexademical.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\06.BinaryToHexademical\obj\Debug\06.BinaryToHexademical.pdb

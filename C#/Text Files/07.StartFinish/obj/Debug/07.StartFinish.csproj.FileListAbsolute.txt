@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\07.StartFinish\bin\Debug\07.StartFinish.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\07.StartFinish\bin\Debug\07.StartFinish.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\07.StartFinish\bin\Debug\07.StartFinish.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\07.StartFinish\obj\Debug\07.StartFinish.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\07.StartFinish\obj\Debug\07.StartFinish.pdb

@@ -1,0 +1,12 @@
+Line 1: edno
+Line 2: dve
+Line 3: tri
+Line 4: 4etiri
+Line 5: pet
+Line 6: 6est
+Line 7: sedem
+Line 8: osem
+Line 9: devet
+Line 10: deset
+Line 11: edinadeset
+Line 12: dvanadeset

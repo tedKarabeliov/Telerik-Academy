@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\ha-ha-ha\bin\Debug\ha-ha-ha.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\ha-ha-ha\bin\Debug\ha-ha-ha.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\ha-ha-ha\bin\Debug\ha-ha-ha.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\ha-ha-ha\obj\Debug\ha-ha-ha.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\ha-ha-ha\obj\Debug\ha-ha-ha.pdb

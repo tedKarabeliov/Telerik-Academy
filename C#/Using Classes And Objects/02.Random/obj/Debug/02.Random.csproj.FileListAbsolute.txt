@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\02.Random\bin\Debug\02.Random.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\02.Random\bin\Debug\02.Random.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\02.Random\bin\Debug\02.Random.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\02.Random\obj\Debug\02.Random.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\02.Random\obj\Debug\02.Random.pdb

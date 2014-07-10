@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\12.DeleteWords2\bin\Debug\12.DeleteWords2.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\12.DeleteWords2\bin\Debug\12.DeleteWords2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\12.DeleteWords2\bin\Debug\12.DeleteWords2.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\12.DeleteWords2\obj\Debug\12.DeleteWords2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\12.DeleteWords2\obj\Debug\12.DeleteWords2.pdb

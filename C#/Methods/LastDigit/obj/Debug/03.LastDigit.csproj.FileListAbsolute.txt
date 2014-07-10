@@ -1,0 +1,3 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\LastDigit\bin\Debug\LastDigit.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\LastDigit\obj\Debug\LastDigit.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\LastDigit\obj\Debug\LastDigit.pdb

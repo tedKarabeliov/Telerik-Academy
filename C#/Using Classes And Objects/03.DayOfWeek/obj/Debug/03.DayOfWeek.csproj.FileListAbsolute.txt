@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\03.DayOfWeek\bin\Debug\03.DayOfWeek.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\03.DayOfWeek\obj\Debug\03.DayOfWeek.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\03.DayOfWeek\obj\Debug\03.DayOfWeek.pdb

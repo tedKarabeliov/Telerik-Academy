@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\9.FindSum\bin\Debug\9.FindSum.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\9.FindSum\bin\Debug\9.FindSum.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\9.FindSum\bin\Debug\9.FindSum.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\9.FindSum\obj\Debug\9.FindSum.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\9.FindSum\obj\Debug\9.FindSum.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\9.FindSum\obj\Debug\9.FindSum.csprojResolveAssemblyReference.cache

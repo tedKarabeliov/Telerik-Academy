@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\4.SortNumbers\bin\Debug\4.SortNumbers.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\4.SortNumbers\bin\Debug\4.SortNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\4.SortNumbers\bin\Debug\4.SortNumbers.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\4.SortNumbers\obj\Debug\4.SortNumbers.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\4.SortNumbers\obj\Debug\4.SortNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\4.SortNumbers\obj\Debug\4.SortNumbers.pdb

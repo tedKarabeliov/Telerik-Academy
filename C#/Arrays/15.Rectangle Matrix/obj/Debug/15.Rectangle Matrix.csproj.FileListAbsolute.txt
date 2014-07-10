@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\15.Rectangle Matrix\bin\Debug\15.Rectangle Matrix.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\15.Rectangle Matrix\bin\Debug\15.Rectangle Matrix.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\15.Rectangle Matrix\bin\Debug\15.Rectangle Matrix.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\15.Rectangle Matrix\obj\Debug\15.Rectangle Matrix.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\15.Rectangle Matrix\obj\Debug\15.Rectangle Matrix.pdb

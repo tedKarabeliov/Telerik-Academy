@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\04.Triangle\bin\Debug\04.Triangle.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\04.Triangle\bin\Debug\04.Triangle.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\04.Triangle\bin\Debug\04.Triangle.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\04.Triangle\obj\Debug\04.Triangle.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\04.Triangle\obj\Debug\04.Triangle.pdb

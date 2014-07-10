@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\11.Format\bin\Debug\11.Format.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\11.Format\bin\Debug\11.Format.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\11.Format\bin\Debug\11.Format.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\11.Format\obj\Debug\11.Format.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\11.Format\obj\Debug\11.Format.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\11.Format\obj\Debug\11.Format.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\15.Binary5\bin\Debug\15.Binary5.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\15.Binary5\bin\Debug\15.Binary5.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\15.Binary5\bin\Debug\15.Binary5.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\15.Binary5\obj\Debug\15.Binary5.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\15.Binary5\obj\Debug\15.Binary5.pdb

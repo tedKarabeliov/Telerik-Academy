@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\6.MaxSeparatedSubSequence\bin\Debug\6.MaxSeparatedSubSequence.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\6.MaxSeparatedSubSequence\bin\Debug\6.MaxSeparatedSubSequence.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\6.MaxSeparatedSubSequence\bin\Debug\6.MaxSeparatedSubSequence.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\6.MaxSeparatedSubSequence\obj\Debug\6.MaxSeparatedSubSequence.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\6.MaxSeparatedSubSequence\obj\Debug\6.MaxSeparatedSubSequence.pdb

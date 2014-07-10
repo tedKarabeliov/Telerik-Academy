@@ -1,0 +1,3 @@
+C:\Users\Tedski\Documents\visual studio 2013\Projects\Defining Classes Part II\Version Attribute\bin\Debug\Version Attribute.exe.config
+C:\Users\Tedski\Documents\visual studio 2013\Projects\Defining Classes Part II\Version Attribute\obj\Debug\Version Attribute.exe
+C:\Users\Tedski\Documents\visual studio 2013\Projects\Defining Classes Part II\Version Attribute\obj\Debug\Version Attribute.pdb

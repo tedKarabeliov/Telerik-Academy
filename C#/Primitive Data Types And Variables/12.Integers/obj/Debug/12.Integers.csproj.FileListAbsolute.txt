@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\12.Integers\bin\Debug\12.Integers.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\12.Integers\bin\Debug\12.Integers.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\12.Integers\bin\Debug\12.Integers.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\12.Integers\obj\Debug\12.Integers.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\12.Integers\obj\Debug\12.Integers.pdb

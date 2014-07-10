@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\14.MinMaxAverageProduct\bin\Debug\14.MinMaxAverageProduct.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\14.MinMaxAverageProduct\bin\Debug\14.MinMaxAverageProduct.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\14.MinMaxAverageProduct\bin\Debug\14.MinMaxAverageProduct.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\14.MinMaxAverageProduct\obj\Debug\14.MinMaxAverageProduct.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\14.MinMaxAverageProduct\obj\Debug\14.MinMaxAverageProduct.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\14.MinMaxAverageProduct\obj\Debug\14.MinMaxAverageProduct.pdb

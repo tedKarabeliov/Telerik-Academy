@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\08.Sentences\bin\Debug\08.Sentences.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\08.Sentences\bin\Debug\08.Sentences.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\08.Sentences\bin\Debug\08.Sentences.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\08.Sentences\obj\Debug\08.Sentences.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\08.Sentences\obj\Debug\08.Sentences.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestArea\bin\Debug\07.LargestArea.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestArea\bin\Debug\07.LargestArea.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestArea\bin\Debug\07.LargestArea.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestArea\obj\Debug\07.LargestArea.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestArea\obj\Debug\07.LargestArea.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Multidimensional Arrays\07.LargestArea\obj\Debug\07.LargestArea.pdb

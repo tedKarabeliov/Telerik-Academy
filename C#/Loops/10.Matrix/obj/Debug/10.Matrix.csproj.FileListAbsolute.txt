@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\10.Matrix\bin\Debug\10.Matrix.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\10.Matrix\bin\Debug\10.Matrix.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\10.Matrix\bin\Debug\10.Matrix.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\10.Matrix\obj\Debug\10.Matrix.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\10.Matrix\obj\Debug\10.Matrix.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\10.Matrix\obj\Debug\10.Matrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\13.Alphabet\bin\Debug\13.Alphabet.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\13.Alphabet\bin\Debug\13.Alphabet.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\13.Alphabet\bin\Debug\13.Alphabet.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\13.Alphabet\obj\Debug\13.Alphabet.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\13.Alphabet\obj\Debug\13.Alphabet.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\13.Alphabet\obj\Debug\13.Alphabet.pdb

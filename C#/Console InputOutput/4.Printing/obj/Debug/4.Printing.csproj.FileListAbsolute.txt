@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\4.Printing\bin\Debug\4.Printing.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\4.Printing\bin\Debug\4.Printing.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\4.Printing\bin\Debug\4.Printing.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\4.Printing\obj\Debug\4.Printing.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\4.Printing\obj\Debug\4.Printing.pdb

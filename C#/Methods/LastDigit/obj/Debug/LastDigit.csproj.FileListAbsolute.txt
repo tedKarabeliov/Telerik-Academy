@@ -1,0 +1,5 @@
+c:\Users\Tedski\documents\visual studio 2012\Projects\Methods\LastDigit\bin\Debug\LastDigit.exe.config
+c:\Users\Tedski\documents\visual studio 2012\Projects\Methods\LastDigit\bin\Debug\LastDigit.exe
+c:\Users\Tedski\documents\visual studio 2012\Projects\Methods\LastDigit\bin\Debug\LastDigit.pdb
+c:\Users\Tedski\documents\visual studio 2012\Projects\Methods\LastDigit\obj\Debug\LastDigit.exe
+c:\Users\Tedski\documents\visual studio 2012\Projects\Methods\LastDigit\obj\Debug\LastDigit.pdb

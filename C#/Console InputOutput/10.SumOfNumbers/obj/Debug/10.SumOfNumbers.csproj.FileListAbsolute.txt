@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\10.SumOfNumbers\bin\Debug\10.SumOfNumbers.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\10.SumOfNumbers\bin\Debug\10.SumOfNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\10.SumOfNumbers\bin\Debug\10.SumOfNumbers.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\10.SumOfNumbers\obj\Debug\10.SumOfNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\10.SumOfNumbers\obj\Debug\10.SumOfNumbers.pdb

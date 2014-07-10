@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\25.HTML2\bin\Debug\25.HTML2.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\25.HTML2\bin\Debug\25.HTML2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\25.HTML2\bin\Debug\25.HTML2.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\25.HTML2\obj\Debug\25.HTML2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\25.HTML2\obj\Debug\25.HTML2.pdb

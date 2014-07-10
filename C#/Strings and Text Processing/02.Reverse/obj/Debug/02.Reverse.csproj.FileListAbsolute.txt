@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\02.Reverse\bin\Debug\02.Reverse.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\02.Reverse\bin\Debug\02.Reverse.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\02.Reverse\bin\Debug\02.Reverse.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\02.Reverse\obj\Debug\02.Reverse.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\02.Reverse\obj\Debug\02.Reverse.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\02.Reverse\obj\Debug\02.Reverse.pdb

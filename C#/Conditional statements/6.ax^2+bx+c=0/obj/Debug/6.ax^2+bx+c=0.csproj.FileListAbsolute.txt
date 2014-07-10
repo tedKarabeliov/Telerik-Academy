@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\6.ax^2+bx+c=0\bin\Debug\6.ax^2+bx+c=0.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\6.ax^2+bx+c=0\bin\Debug\6.ax^2+bx+c=0.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\6.ax^2+bx+c=0\bin\Debug\6.ax^2+bx+c=0.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\6.ax^2+bx+c=0\obj\Debug\6.ax^2+bx+c=0.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\6.ax^2+bx+c=0\obj\Debug\6.ax^2+bx+c=0.pdb

@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\3.Check7\bin\Debug\3.Check7.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\3.Check7\bin\Debug\3.Check7.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\3.Check7\bin\Debug\3.Check7.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\3.Check7\obj\Debug\3.Check7.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\3.Check7\obj\Debug\3.Check7.pdb

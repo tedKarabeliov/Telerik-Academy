@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\2.IsDivisible\bin\Debug\2.IsDivisible.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\2.IsDivisible\bin\Debug\2.IsDivisible.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\2.IsDivisible\bin\Debug\2.IsDivisible.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\2.IsDivisible\obj\Debug\2.IsDivisible.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\2.IsDivisible\obj\Debug\2.IsDivisible.pdb

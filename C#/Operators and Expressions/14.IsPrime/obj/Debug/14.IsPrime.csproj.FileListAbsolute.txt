@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\14.IsPrime\bin\Debug\14.IsPrime.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\14.IsPrime\bin\Debug\14.IsPrime.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\14.IsPrime\bin\Debug\14.IsPrime.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\14.IsPrime\obj\Debug\14.IsPrime.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\14.IsPrime\obj\Debug\14.IsPrime.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\14.IsPrime\obj\Debug\14.IsPrime.csprojResolveAssemblyReference.cache

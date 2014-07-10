@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\6.IsMale\bin\Debug\6.IsMale.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\6.IsMale\bin\Debug\6.IsMale.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\6.IsMale\bin\Debug\6.IsMale.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\6.IsMale\obj\Debug\6.IsMale.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\6.IsMale\obj\Debug\6.IsMale.pdb

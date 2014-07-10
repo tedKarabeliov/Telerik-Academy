@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\01.Sqrt\bin\Debug\01.Sqrt.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\01.Sqrt\bin\Debug\01.Sqrt.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\01.Sqrt\bin\Debug\01.Sqrt.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\01.Sqrt\obj\Debug\01.Sqrt.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\01.Sqrt\obj\Debug\01.Sqrt.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\01.Sqrt\obj\Debug\01.Sqrt.pdb

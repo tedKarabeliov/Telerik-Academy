@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\3.Names\bin\Debug\3.Names.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\3.Names\bin\Debug\3.Names.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\3.Names\bin\Debug\3.Names.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\3.Names\obj\Debug\3.Names.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\3.Names\obj\Debug\3.Names.pdb

@@ -1,0 +1,5 @@
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\4.Deck\bin\Debug\4.Deck.exe.config
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\4.Deck\bin\Debug\4.Deck.exe
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\4.Deck\bin\Debug\4.Deck.pdb
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\4.Deck\obj\Debug\4.Deck.exe
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\4.Deck\obj\Debug\4.Deck.pdb

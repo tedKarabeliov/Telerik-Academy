@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\1.HelloCSharp!\bin\Debug\1.HelloCSharp!.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\1.HelloCSharp!\bin\Debug\1.HelloCSharp!.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\1.HelloCSharp!\bin\Debug\1.HelloCSharp!.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\1.HelloCSharp!\obj\Debug\1.HelloCSharp!.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\1.HelloCSharp!\obj\Debug\1.HelloCSharp!.pdb

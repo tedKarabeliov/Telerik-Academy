@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\04.Compare\bin\Debug\04.Compare.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\04.Compare\bin\Debug\04.Compare.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\04.Compare\bin\Debug\04.Compare.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\04.Compare\obj\Debug\04.Compare.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\04.Compare\obj\Debug\04.Compare.pdb

@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\13.Invert\bin\Debug\13.Invert.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\13.Invert\bin\Debug\13.Invert.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\13.Invert\bin\Debug\13.Invert.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\13.Invert\obj\Debug\13.Invert.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\13.Invert\obj\Debug\13.Invert.pdb

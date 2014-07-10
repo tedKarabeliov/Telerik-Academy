@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\07.ReversedNumber\bin\Debug\07.ReversedNumber.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\07.ReversedNumber\bin\Debug\07.ReversedNumber.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\07.ReversedNumber\bin\Debug\07.ReversedNumber.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\07.ReversedNumber\obj\Debug\07.ReversedNumber.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\07.ReversedNumber\obj\Debug\07.ReversedNumber.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\07.ReversedNumber\obj\Debug\07.ReversedNumber.pdb

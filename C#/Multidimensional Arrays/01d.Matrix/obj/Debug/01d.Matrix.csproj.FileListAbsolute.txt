@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\01d.Matrix\bin\Debug\01d.Matrix.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\01d.Matrix\bin\Debug\01d.Matrix.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\01d.Matrix\bin\Debug\01d.Matrix.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\01d.Matrix\obj\Debug\01d.Matrix.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\01d.Matrix\obj\Debug\01d.Matrix.pdb

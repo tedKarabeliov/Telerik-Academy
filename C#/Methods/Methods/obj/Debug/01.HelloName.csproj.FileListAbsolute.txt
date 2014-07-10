@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Methods\Methods\bin\Debug\Methods.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Methods\Methods\bin\Debug\Methods.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Methods\Methods\bin\Debug\Methods.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Methods\Methods\obj\Debug\01.HelloName.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Methods\Methods\obj\Debug\Methods.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Methods\Methods\obj\Debug\Methods.pdb

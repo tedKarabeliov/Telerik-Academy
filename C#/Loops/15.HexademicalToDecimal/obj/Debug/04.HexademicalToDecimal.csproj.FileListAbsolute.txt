@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\04.HexademicalToDecimal\bin\Debug\04.HexademicalToDecimal.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\04.HexademicalToDecimal\bin\Debug\04.HexademicalToDecimal.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\04.HexademicalToDecimal\bin\Debug\04.HexademicalToDecimal.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\04.HexademicalToDecimal\obj\Debug\04.HexademicalToDecimal.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\04.HexademicalToDecimal\obj\Debug\04.HexademicalToDecimal.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\04.HexademicalToDecimal\obj\Debug\04.HexademicalToDecimal.csprojResolveAssemblyReference.cache

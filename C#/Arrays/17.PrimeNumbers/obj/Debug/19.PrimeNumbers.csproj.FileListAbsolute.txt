@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\17.PrimeNumbers\bin\Debug\17.PrimeNumbers.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\17.PrimeNumbers\obj\Debug\17.PrimeNumbers.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\17.PrimeNumbers\obj\Debug\17.PrimeNumbers.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\17.PrimeNumbers\bin\Debug\17.PrimeNumbers.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\17.PrimeNumbers\bin\Debug\17.PrimeNumbers.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\17.PrimeNumbers\obj\Debug\19.PrimeNumbers.csprojResolveAssemblyReference.cache

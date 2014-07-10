@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\2.PlusOrMinus\bin\Debug\2.PlusOrMinus.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\2.PlusOrMinus\bin\Debug\2.PlusOrMinus.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\2.PlusOrMinus\bin\Debug\2.PlusOrMinus.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\2.PlusOrMinus\obj\Debug\2.PlusOrMinus.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\2.PlusOrMinus\obj\Debug\2.PlusOrMinus.pdb

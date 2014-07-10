@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\18.EqualToGivenSum\bin\Debug\18.EqualToGivenSum.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\18.EqualToGivenSum\obj\Debug\18.EqualToGivenSum.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\18.EqualToGivenSum\obj\Debug\18.EqualToGivenSum.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\18.EqualToGivenSum\bin\Debug\18.EqualToGivenSum.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\18.EqualToGivenSum\bin\Debug\18.EqualToGivenSum.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\18.EqualToGivenSum\obj\Debug\20.EqualToGivenSum.csprojResolveAssemblyReference.cache

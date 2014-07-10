@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\12.Binary2\bin\Debug\12.Binary2.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\12.Binary2\bin\Debug\12.Binary2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\12.Binary2\bin\Debug\12.Binary2.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\12.Binary2\obj\Debug\12.Binary2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\12.Binary2\obj\Debug\12.Binary2.pdb

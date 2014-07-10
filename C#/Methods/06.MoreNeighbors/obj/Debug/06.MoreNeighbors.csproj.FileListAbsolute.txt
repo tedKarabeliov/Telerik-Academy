@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\06.MoreNeighbors\bin\Debug\06.MoreNeighbors.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\06.MoreNeighbors\bin\Debug\06.MoreNeighbors.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\06.MoreNeighbors\bin\Debug\06.MoreNeighbors.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\06.MoreNeighbors\obj\Debug\06.MoreNeighbors.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\06.MoreNeighbors\obj\Debug\06.MoreNeighbors.pdb

@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\5.Divisible by 5\bin\Debug\5.Divisible by 5.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\5.Divisible by 5\bin\Debug\5.Divisible by 5.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\5.Divisible by 5\bin\Debug\5.Divisible by 5.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\5.Divisible by 5\obj\Debug\5.Divisible by 5.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\5.Divisible by 5\obj\Debug\5.Divisible by 5.pdb

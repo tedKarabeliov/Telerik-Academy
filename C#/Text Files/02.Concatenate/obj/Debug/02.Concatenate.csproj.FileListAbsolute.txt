@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\02.Concatenate\bin\Debug\02.Concatenate.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\02.Concatenate\bin\Debug\02.Concatenate.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\02.Concatenate\bin\Debug\02.Concatenate.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\02.Concatenate\obj\Debug\02.Concatenate.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\02.Concatenate\obj\Debug\02.Concatenate.pdb

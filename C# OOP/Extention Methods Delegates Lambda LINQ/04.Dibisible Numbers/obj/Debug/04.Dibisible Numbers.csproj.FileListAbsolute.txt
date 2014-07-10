@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\04.Dibisible Numbers\bin\Debug\04.Dibisible Numbers.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\04.Dibisible Numbers\bin\Debug\04.Dibisible Numbers.exe
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\04.Dibisible Numbers\bin\Debug\04.Dibisible Numbers.pdb
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\04.Dibisible Numbers\obj\Debug\04.Dibisible Numbers.exe
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\04.Dibisible Numbers\obj\Debug\04.Dibisible Numbers.pdb

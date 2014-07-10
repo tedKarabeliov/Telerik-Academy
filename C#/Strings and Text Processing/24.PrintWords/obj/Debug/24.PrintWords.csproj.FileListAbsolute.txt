@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\24.PrintWords\bin\Debug\24.PrintWords.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\24.PrintWords\bin\Debug\24.PrintWords.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\24.PrintWords\bin\Debug\24.PrintWords.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\24.PrintWords\obj\Debug\24.PrintWords.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\24.PrintWords\obj\Debug\24.PrintWords.pdb

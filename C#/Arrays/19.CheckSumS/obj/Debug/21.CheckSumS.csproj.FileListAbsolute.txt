@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\19.CheckSumS\bin\Debug\19.CheckSumS.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\19.CheckSumS\obj\Debug\19.CheckSumS.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\19.CheckSumS\obj\Debug\19.CheckSumS.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\19.CheckSumS\bin\Debug\19.CheckSumS.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\19.CheckSumS\bin\Debug\19.CheckSumS.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\19.CheckSumS\obj\Debug\21.CheckSumS.csprojResolveAssemblyReference.cache

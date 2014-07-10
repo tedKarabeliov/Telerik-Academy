@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\10.XML\bin\Debug\10.XML.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\10.XML\bin\Debug\10.XML.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\10.XML\bin\Debug\10.XML.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\10.XML\obj\Debug\10.XML.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\10.XML\obj\Debug\10.XML.pdb

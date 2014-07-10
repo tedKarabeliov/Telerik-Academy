@@ -1,0 +1,3 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\22.K.elementsN.numbers\bin\Debug\22.K.elementsN.numbers.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\22.K.elementsN.numbers\obj\Debug\22.K.elementsN.numbers.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\22.K.elementsN.numbers\obj\Debug\22.K.elementsN.numbers.pdb

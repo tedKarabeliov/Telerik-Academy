@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\3.Company\bin\Debug\3.Company.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\3.Company\bin\Debug\3.Company.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\3.Company\bin\Debug\3.Company.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\3.Company\obj\Debug\3.Company.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\3.Company\obj\Debug\3.Company.pdb

@@ -1,0 +1,1 @@
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\06.Student\bin\Debug\06.Student.exe.config

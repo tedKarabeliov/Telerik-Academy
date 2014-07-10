@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\8.IsInCircle\bin\Debug\8.IsInCircle.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\8.IsInCircle\bin\Debug\8.IsInCircle.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\8.IsInCircle\bin\Debug\8.IsInCircle.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\8.IsInCircle\obj\Debug\8.IsInCircle.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\8.IsInCircle\obj\Debug\8.IsInCircle.pdb

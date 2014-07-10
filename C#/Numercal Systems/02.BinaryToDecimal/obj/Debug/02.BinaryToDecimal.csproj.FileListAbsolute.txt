@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.pdb

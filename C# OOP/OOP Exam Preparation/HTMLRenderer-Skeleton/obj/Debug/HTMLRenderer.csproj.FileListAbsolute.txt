@@ -1,0 +1,5 @@
+C:\Users\Tedski\Desktop\HTMLRenderer-Skeleton\bin\Debug\HTMLRenderer.exe
+C:\Users\Tedski\Desktop\HTMLRenderer-Skeleton\bin\Debug\HTMLRenderer.pdb
+C:\Users\Tedski\Desktop\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Desktop\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.exe
+C:\Users\Tedski\Desktop\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.pdb

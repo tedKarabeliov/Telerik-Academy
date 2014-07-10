@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\11.CountZeros\bin\Debug\11.CountZeros.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\11.CountZeros\bin\Debug\11.CountZeros.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\11.CountZeros\bin\Debug\11.CountZeros.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\11.CountZeros\obj\Debug\11.CountZeros.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\11.CountZeros\obj\Debug\11.CountZeros.pdb

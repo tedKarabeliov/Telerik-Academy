@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\1.IsOdd\bin\Debug\1.IsOdd.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\1.IsOdd\bin\Debug\1.IsOdd.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\1.IsOdd\bin\Debug\1.IsOdd.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\1.IsOdd\obj\Debug\1.IsOdd.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Operators and Expressions\1.IsOdd\obj\Debug\1.IsOdd.pdb

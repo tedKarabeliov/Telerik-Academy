@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\15.Generic\bin\Debug\15.Generic.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\15.Generic\bin\Debug\15.Generic.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\15.Generic\bin\Debug\15.Generic.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\15.Generic\obj\Debug\15.Generic.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\15.Generic\obj\Debug\15.Generic.pdb

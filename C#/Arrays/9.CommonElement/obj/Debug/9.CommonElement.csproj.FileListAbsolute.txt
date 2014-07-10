@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\9.CommonElement\bin\Debug\9.CommonElement.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\9.CommonElement\bin\Debug\9.CommonElement.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\9.CommonElement\bin\Debug\9.CommonElement.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\9.CommonElement\obj\Debug\9.CommonElement.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\9.CommonElement\obj\Debug\9.CommonElement.pdb

@@ -1,0 +1,5 @@
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\3.BiggestAndSmallest\bin\Debug\3.BiggestAndSmallest.exe.config
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\3.BiggestAndSmallest\bin\Debug\3.BiggestAndSmallest.exe
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\3.BiggestAndSmallest\bin\Debug\3.BiggestAndSmallest.pdb
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\3.BiggestAndSmallest\obj\Debug\3.BiggestAndSmallest.exe
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\3.BiggestAndSmallest\obj\Debug\3.BiggestAndSmallest.pdb

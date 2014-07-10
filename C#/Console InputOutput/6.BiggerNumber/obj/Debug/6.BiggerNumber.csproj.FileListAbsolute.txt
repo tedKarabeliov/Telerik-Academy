@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\6.BiggerNumber\bin\Debug\6.BiggerNumber.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\6.BiggerNumber\bin\Debug\6.BiggerNumber.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\6.BiggerNumber\bin\Debug\6.BiggerNumber.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\6.BiggerNumber\obj\Debug\6.BiggerNumber.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\6.BiggerNumber\obj\Debug\6.BiggerNumber.pdb

@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\13.SumFractions\bin\Debug\13.SumFractions.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\13.SumFractions\bin\Debug\13.SumFractions.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\13.SumFractions\bin\Debug\13.SumFractions.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\13.SumFractions\obj\Debug\13.SumFractions.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\13.SumFractions\obj\Debug\13.SumFractions.pdb

@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\12.URL\bin\Debug\12.URL.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\12.URL\obj\Debug\12.URL.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\12.URL\bin\Debug\12.URL.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\12.URL\bin\Debug\12.URL.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\12.URL\obj\Debug\12.URL.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\12.URL\obj\Debug\12.URL.pdb

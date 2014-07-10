@@ -1,0 +1,5 @@
+C:\Users\Tedski\Desktop\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.exe
+C:\Users\Tedski\Desktop\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.pdb
+C:\Users\Tedski\Desktop\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Desktop\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.exe
+C:\Users\Tedski\Desktop\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.pdb

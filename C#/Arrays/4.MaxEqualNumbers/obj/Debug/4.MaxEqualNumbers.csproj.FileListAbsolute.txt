@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\4.MaxEqualNumbers\bin\Debug\4.MaxEqualNumbers.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\4.MaxEqualNumbers\bin\Debug\4.MaxEqualNumbers.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\4.MaxEqualNumbers\bin\Debug\4.MaxEqualNumbers.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\4.MaxEqualNumbers\obj\Debug\4.MaxEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\4.MaxEqualNumbers\obj\Debug\4.MaxEqualNumbers.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\4.MaxEqualNumbers\obj\Debug\4.MaxEqualNumbers.pdb

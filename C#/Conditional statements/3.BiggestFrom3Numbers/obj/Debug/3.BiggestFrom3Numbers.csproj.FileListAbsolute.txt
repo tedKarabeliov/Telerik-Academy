@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\3.BiggestFrom3Numbers\bin\Debug\3.BiggestFrom3Numbers.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\3.BiggestFrom3Numbers\bin\Debug\3.BiggestFrom3Numbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\3.BiggestFrom3Numbers\bin\Debug\3.BiggestFrom3Numbers.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\3.BiggestFrom3Numbers\obj\Debug\3.BiggestFrom3Numbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\3.BiggestFrom3Numbers\obj\Debug\3.BiggestFrom3Numbers.pdb

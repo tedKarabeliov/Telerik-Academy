@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\11.PrintNumbers\bin\Debug\11.PrintNumbers.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\11.PrintNumbers\bin\Debug\11.PrintNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\11.PrintNumbers\bin\Debug\11.PrintNumbers.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\11.PrintNumbers\obj\Debug\11.PrintNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\11.PrintNumbers\obj\Debug\11.PrintNumbers.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\11.PrintNumbers\obj\Debug\11.PrintNumbers.csprojResolveAssemblyReference.cache

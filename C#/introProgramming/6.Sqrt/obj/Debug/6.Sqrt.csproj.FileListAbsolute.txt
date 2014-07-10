@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\6.Sqrt\bin\Debug\6.Sqrt.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\6.Sqrt\bin\Debug\6.Sqrt.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\6.Sqrt\bin\Debug\6.Sqrt.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\6.Sqrt\obj\Debug\6.Sqrt.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\6.Sqrt\obj\Debug\6.Sqrt.pdb

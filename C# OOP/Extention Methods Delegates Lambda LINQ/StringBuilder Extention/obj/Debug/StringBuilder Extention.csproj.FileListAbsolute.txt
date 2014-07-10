@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\StringBuilder Extention\bin\Debug\StringBuilder Extention.exe.config
+c:\users\tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\StringBuilder Extention\bin\Debug\StringBuilder Extention.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\StringBuilder Extention\bin\Debug\StringBuilder Extention.pdb
+c:\users\tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\StringBuilder Extention\obj\Debug\StringBuilder Extention.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\StringBuilder Extention\obj\Debug\StringBuilder Extention.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\StringBuilder Extention\obj\Debug\StringBuilder Extention.pdb

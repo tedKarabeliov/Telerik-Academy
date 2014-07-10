@@ -1,0 +1,5 @@
+C:\Users\Tedski\Desktop\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Desktop\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.exe
+C:\Users\Tedski\Desktop\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.pdb
+C:\Users\Tedski\Desktop\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.exe
+C:\Users\Tedski\Desktop\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.pdb

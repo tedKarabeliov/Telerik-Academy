@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\16.Dates\bin\Debug\16.Dates.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\16.Dates\bin\Debug\16.Dates.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\16.Dates\bin\Debug\16.Dates.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\16.Dates\obj\Debug\16.Dates.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\16.Dates\obj\Debug\16.Dates.pdb

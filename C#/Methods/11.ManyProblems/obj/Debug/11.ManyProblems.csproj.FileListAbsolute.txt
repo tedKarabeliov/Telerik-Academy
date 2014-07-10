@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.ManyProblems\bin\Debug\11.ManyProblems.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.ManyProblems\bin\Debug\11.ManyProblems.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.ManyProblems\bin\Debug\11.ManyProblems.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.ManyProblems\obj\Debug\11.ManyProblems.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.ManyProblems\obj\Debug\11.ManyProblems.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\11.ManyProblems\obj\Debug\11.ManyProblems.csprojResolveAssemblyReference.cache

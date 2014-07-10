@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\10.MaxSum2\bin\Debug\10.MaxSum2.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\10.MaxSum2\bin\Debug\10.MaxSum2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\10.MaxSum2\bin\Debug\10.MaxSum2.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\10.MaxSum2\obj\Debug\10.MaxSum2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\10.MaxSum2\obj\Debug\10.MaxSum2.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\10.MaxSum2\obj\Debug\10.MaxSum2.csprojResolveAssemblyReference.cache

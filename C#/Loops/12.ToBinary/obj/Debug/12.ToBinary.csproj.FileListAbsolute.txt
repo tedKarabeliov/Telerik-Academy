@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\12.ToBinary\bin\Debug\12.ToBinary.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\12.ToBinary\bin\Debug\12.ToBinary.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\12.ToBinary\bin\Debug\12.ToBinary.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\12.ToBinary\obj\Debug\12.ToBinary.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\12.ToBinary\obj\Debug\12.ToBinary.pdb

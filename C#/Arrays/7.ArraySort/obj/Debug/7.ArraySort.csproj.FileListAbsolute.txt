@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\7.ArraySort\bin\Debug\7.ArraySort.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\7.ArraySort\bin\Debug\7.ArraySort.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\7.ArraySort\bin\Debug\7.ArraySort.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\7.ArraySort\obj\Debug\7.ArraySort.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\7.ArraySort\obj\Debug\7.ArraySort.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\7.ArraySort\obj\Debug\7.ArraySort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\09.SortArray\bin\Debug\09.SortArray.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\09.SortArray\bin\Debug\09.SortArray.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\09.SortArray\bin\Debug\09.SortArray.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\09.SortArray\obj\Debug\09.SortArray.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\09.SortArray\obj\Debug\09.SortArray.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\09.SortArray\obj\Debug\09.SortArray.pdb

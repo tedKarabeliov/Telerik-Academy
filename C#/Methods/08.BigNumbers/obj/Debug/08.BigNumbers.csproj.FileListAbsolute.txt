@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\08.BigNumbers\bin\Debug\08.BigNumbers.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\08.BigNumbers\bin\Debug\08.BigNumbers.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\08.BigNumbers\bin\Debug\08.BigNumbers.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\08.BigNumbers\obj\Debug\08.BigNumbers.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\08.BigNumbers\obj\Debug\08.BigNumbers.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\08.BigNumbers\obj\Debug\08.BigNumbers.csprojResolveAssemblyReference.cache

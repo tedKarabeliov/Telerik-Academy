@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\6.N! K!\bin\Debug\6.N! K!.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\6.N! K!\bin\Debug\6.N! K!.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\6.N! K!\bin\Debug\6.N! K!.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\6.N! K!\obj\Debug\6.N! K!.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\6.N! K!\obj\Debug\6.N! K!.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\6.N! K!\obj\Debug\6.N! K!.pdb

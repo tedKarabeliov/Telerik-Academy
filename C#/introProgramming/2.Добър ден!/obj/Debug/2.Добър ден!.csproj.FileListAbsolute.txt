@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\2.Добър ден!\bin\Debug\2.Добър ден!.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\2.Добър ден!\bin\Debug\2.Добър ден!.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\2.Добър ден!\bin\Debug\2.Добър ден!.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\2.Добър ден!\obj\Debug\2.Добър ден!.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\introProgramming\2.Добър ден!\obj\Debug\2.Добър ден!.pdb

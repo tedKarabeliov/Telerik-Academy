@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\07.ArrayOfStrings\bin\Debug\07.ArrayOfStrings.exe.config
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\07.ArrayOfStrings\bin\Debug\07.ArrayOfStrings.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\07.ArrayOfStrings\bin\Debug\07.ArrayOfStrings.pdb
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\07.ArrayOfStrings\obj\Debug\07.ArrayOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\07.ArrayOfStrings\obj\Debug\07.ArrayOfStrings.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\07.ArrayOfStrings\obj\Debug\07.ArrayOfStrings.pdb

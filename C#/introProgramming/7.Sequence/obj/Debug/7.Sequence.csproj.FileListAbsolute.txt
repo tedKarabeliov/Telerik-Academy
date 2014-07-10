@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\7.Sequence\bin\Debug\7.Sequence.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\7.Sequence\bin\Debug\7.Sequence.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\7.Sequence\bin\Debug\7.Sequence.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\7.Sequence\obj\Debug\7.Sequence.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\7.Sequence\obj\Debug\7.Sequence.pdb

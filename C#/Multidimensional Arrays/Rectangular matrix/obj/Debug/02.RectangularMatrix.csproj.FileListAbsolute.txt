@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Rectangular matrix\bin\Debug\Rectangular matrix.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Rectangular matrix\bin\Debug\Rectangular matrix.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Rectangular matrix\bin\Debug\Rectangular matrix.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Rectangular matrix\obj\Debug\Rectangular matrix.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Rectangular matrix\obj\Debug\Rectangular matrix.pdb

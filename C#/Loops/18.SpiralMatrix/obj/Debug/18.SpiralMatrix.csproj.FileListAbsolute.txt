@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\18.SpiralMatrix\bin\Debug\18.SpiralMatrix.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\18.SpiralMatrix\bin\Debug\18.SpiralMatrix.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\18.SpiralMatrix\bin\Debug\18.SpiralMatrix.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\18.SpiralMatrix\obj\Debug\18.SpiralMatrix.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\18.SpiralMatrix\obj\Debug\18.SpiralMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\05.Neighbors\bin\Debug\05.Neighbors.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\05.Neighbors\bin\Debug\05.Neighbors.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\05.Neighbors\bin\Debug\05.Neighbors.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\05.Neighbors\obj\Debug\05.Neighbors.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\05.Neighbors\obj\Debug\05.Neighbors.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\05.Neighbors\obj\Debug\05.Neighbors.pdb

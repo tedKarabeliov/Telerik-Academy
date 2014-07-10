@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\21.Permutation\bin\Debug\21.Permutation.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\21.Permutation\bin\Debug\21.Permutation.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\21.Permutation\bin\Debug\21.Permutation.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\21.Permutation\obj\Debug\21.Permutation.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\21.Permutation\obj\Debug\21.Permutation.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\21.Permutation\obj\Debug\21.Permutation.csprojResolveAssemblyReference.cache

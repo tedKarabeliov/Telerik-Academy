@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\4.Numbers\bin\Debug\4.Numbers.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\4.Numbers\bin\Debug\4.Numbers.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\4.Numbers\bin\Debug\4.Numbers.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\4.Numbers\obj\Debug\4.Numbers.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\4.Numbers\obj\Debug\4.Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\7.Moon\bin\Debug\7.Moon.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\7.Moon\bin\Debug\7.Moon.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\7.Moon\bin\Debug\7.Moon.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\7.Moon\obj\Debug\7.Moon.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\7.Moon\obj\Debug\7.Moon.pdb

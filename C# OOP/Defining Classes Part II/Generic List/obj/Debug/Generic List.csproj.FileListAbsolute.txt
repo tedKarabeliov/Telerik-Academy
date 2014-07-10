@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Generic List\bin\Debug\Generic List.exe.config
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Generic List\bin\Debug\Generic List.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Generic List\bin\Debug\Generic List.pdb
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Generic List\obj\Debug\Generic List.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Generic List\obj\Debug\Generic List.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\5.Trapeze\bin\Debug\5.Trapeze.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\5.Trapeze\bin\Debug\5.Trapeze.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\5.Trapeze\bin\Debug\5.Trapeze.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\5.Trapeze\obj\Debug\5.Trapeze.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\5.Trapeze\obj\Debug\5.Trapeze.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\5.Trapeze\obj\Debug\5.Trapeze.csprojResolveAssemblyReference.cache

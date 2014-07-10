@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\8.BiggestNumber\bin\Debug\8.BiggestNumber.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\8.BiggestNumber\bin\Debug\8.BiggestNumber.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\8.BiggestNumber\bin\Debug\8.BiggestNumber.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\8.BiggestNumber\obj\Debug\8.BiggestNumber.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\8.BiggestNumber\obj\Debug\8.BiggestNumber.pdb

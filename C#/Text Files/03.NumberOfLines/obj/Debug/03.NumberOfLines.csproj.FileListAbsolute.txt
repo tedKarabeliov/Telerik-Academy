@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\03.NumberOfLines\bin\Debug\03.NumberOfLines.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\03.NumberOfLines\bin\Debug\03.NumberOfLines.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\03.NumberOfLines\bin\Debug\03.NumberOfLines.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\03.NumberOfLines\obj\Debug\03.NumberOfLines.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\03.NumberOfLines\obj\Debug\03.NumberOfLines.pdb

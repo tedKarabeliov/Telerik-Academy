@@ -1,0 +1,5 @@
+C:\Users\Tedski\Desktop\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Desktop\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.exe
+C:\Users\Tedski\Desktop\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.pdb
+C:\Users\Tedski\Desktop\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.exe
+C:\Users\Tedski\Desktop\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.pdb

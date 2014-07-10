@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\3.Precision\bin\Debug\3.Precision.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\3.Precision\bin\Debug\3.Precision.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\3.Precision\bin\Debug\3.Precision.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\3.Precision\obj\Debug\3.Precision.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\3.Precision\obj\Debug\3.Precision.pdb

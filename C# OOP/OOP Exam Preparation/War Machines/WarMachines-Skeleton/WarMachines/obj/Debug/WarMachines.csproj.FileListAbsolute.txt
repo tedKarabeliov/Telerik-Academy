@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\War Machines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+C:\Users\Student\Desktop\War Machines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\War Machines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+C:\Users\Student\Desktop\War Machines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb
+C:\Users\Student\Desktop\War Machines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+C:\Users\Student\Desktop\War Machines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb
+C:\Users\Tedski\Desktop\War Machines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+C:\Users\Tedski\Desktop\War Machines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+C:\Users\Tedski\Desktop\War Machines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb
+C:\Users\Tedski\Desktop\War Machines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Desktop\War Machines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+C:\Users\Tedski\Desktop\War Machines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb

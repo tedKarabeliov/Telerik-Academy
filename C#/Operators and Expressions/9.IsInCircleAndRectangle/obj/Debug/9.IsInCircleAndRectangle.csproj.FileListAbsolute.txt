@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\9.IsInCircleAndRectangle\bin\Debug\9.IsInCircleAndRectangle.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\9.IsInCircleAndRectangle\obj\Debug\9.IsInCircleAndRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\9.IsInCircleAndRectangle\bin\Debug\9.IsInCircleAndRectangle.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\9.IsInCircleAndRectangle\bin\Debug\9.IsInCircleAndRectangle.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\9.IsInCircleAndRectangle\obj\Debug\9.IsInCircleAndRectangle.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\9.IsInCircleAndRectangle\obj\Debug\9.IsInCircleAndRectangle.pdb

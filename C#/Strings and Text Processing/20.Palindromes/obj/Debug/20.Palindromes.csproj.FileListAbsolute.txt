@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\20.Palindromes\bin\Debug\20.Palindromes.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\20.Palindromes\bin\Debug\20.Palindromes.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\20.Palindromes\bin\Debug\20.Palindromes.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\20.Palindromes\obj\Debug\20.Palindromes.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\20.Palindromes\obj\Debug\20.Palindromes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\8.Catalan\bin\Debug\8.Catalan.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\8.Catalan\bin\Debug\8.Catalan.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\8.Catalan\bin\Debug\8.Catalan.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\8.Catalan\obj\Debug\8.Catalan.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\8.Catalan\obj\Debug\8.Catalan.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Loops\8.Catalan\obj\Debug\8.Catalan.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\12.Matrix B\bin\Debug\12.Matrix B.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\12.Matrix B\bin\Debug\12.Matrix B.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\12.Matrix B\bin\Debug\12.Matrix B.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\12.Matrix B\obj\Debug\12.Matrix B.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\12.Matrix B\obj\Debug\12.Matrix B.pdb

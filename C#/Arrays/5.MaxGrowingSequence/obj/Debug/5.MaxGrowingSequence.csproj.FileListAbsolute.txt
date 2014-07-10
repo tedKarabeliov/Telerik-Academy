@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\5.MaxGrowingSequence\bin\Debug\5.MaxGrowingSequence.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\5.MaxGrowingSequence\bin\Debug\5.MaxGrowingSequence.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\5.MaxGrowingSequence\bin\Debug\5.MaxGrowingSequence.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\5.MaxGrowingSequence\obj\Debug\5.MaxGrowingSequence.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\5.MaxGrowingSequence\obj\Debug\5.MaxGrowingSequence.pdb

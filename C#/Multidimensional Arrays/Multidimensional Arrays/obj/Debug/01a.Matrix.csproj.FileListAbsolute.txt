@@ -1,0 +1,9 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\01a.Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.pdb
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.exe
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\11.Matrix A\bin\Debug\11.Matrix A.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\11.Matrix A\bin\Debug\11.Matrix A.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\11.Matrix A\bin\Debug\11.Matrix A.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\11.Matrix A\obj\Debug\11.Matrix A.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\11.Matrix A\obj\Debug\11.Matrix A.pdb

@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\07.TheHardOne\bin\Debug\07.TheHardOne.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\07.TheHardOne\bin\Debug\07.TheHardOne.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\07.TheHardOne\bin\Debug\07.TheHardOne.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\07.TheHardOne\obj\Debug\07.TheHardOne.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\07.TheHardOne\obj\Debug\07.TheHardOne.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Using Classes And Objects\07.TheHardOne\obj\Debug\07.TheHardOne.pdb

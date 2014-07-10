@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\SortStrings\obj\Debug\05.SortStrings.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\SortStrings\bin\Debug\SortStrings.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\SortStrings\bin\Debug\SortStrings.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\SortStrings\bin\Debug\SortStrings.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\SortStrings\obj\Debug\SortStrings.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\SortStrings\obj\Debug\SortStrings.pdb

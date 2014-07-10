@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Point And Path\bin\Debug\Point And Path.exe.config
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Point And Path\bin\Debug\Point And Path.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Point And Path\bin\Debug\Point And Path.pdb
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Point And Path\obj\Debug\Point And Path.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Point And Path\obj\Debug\Point And Path.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Defining Classes Part II\Point And Path\obj\Debug\Point And Path.pdb

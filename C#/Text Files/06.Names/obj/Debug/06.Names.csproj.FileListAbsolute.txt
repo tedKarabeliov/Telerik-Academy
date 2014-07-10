@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\06.Names\bin\Debug\06.Names.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\06.Names\bin\Debug\06.Names.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\06.Names\bin\Debug\06.Names.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\06.Names\obj\Debug\06.Names.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\06.Names\obj\Debug\06.Names.pdb

@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\9.ax^2+bx+c=0\bin\Debug\9.ax^2+bx+c=0.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\9.ax^2+bx+c=0\bin\Debug\9.ax^2+bx+c=0.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\9.ax^2+bx+c=0\bin\Debug\9.ax^2+bx+c=0.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\9.ax^2+bx+c=0\obj\Debug\9.ax^2+bx+c=0.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\9.ax^2+bx+c=0\obj\Debug\9.ax^2+bx+c=0.pdb

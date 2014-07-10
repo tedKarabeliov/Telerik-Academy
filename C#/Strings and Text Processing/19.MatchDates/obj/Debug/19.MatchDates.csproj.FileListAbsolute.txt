@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\19.MatchDates\bin\Debug\19.MatchDates.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\19.MatchDates\bin\Debug\19.MatchDates.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\19.MatchDates\bin\Debug\19.MatchDates.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\19.MatchDates\obj\Debug\19.MatchDates.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\19.MatchDates\obj\Debug\19.MatchDates.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\19.MatchDates\obj\Debug\19.MatchDates.csprojResolveAssemblyReference.cache

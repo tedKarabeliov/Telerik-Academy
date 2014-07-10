@@ -1,0 +1,3 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\12a.Matrix\bin\Debug\12a.Matrix.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\12a.Matrix\obj\Debug\12a.Matrix.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\12a.Matrix\obj\Debug\12a.Matrix.pdb

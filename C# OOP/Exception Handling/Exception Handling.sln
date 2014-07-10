@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Sqrt", "01.Sqrt\01.Sqrt.csproj", "{CA38ADCD-70D9-4F93-A50F-861AAF534CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReadNumber", "02.ReadNumber\02.ReadNumber.csproj", "{9D93B9A3-FDE7-4A58-9F41-42F519CF1074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ReadFile", "03.ReadFile\03.ReadFile.csproj", "{65176CE5-DCCB-4579-8872-AFC3A9D3A809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Download", "04.Download\04.Download.csproj", "{E03D388A-FDB5-4CFF-A253-0CA3B0189AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA38ADCD-70D9-4F93-A50F-861AAF534CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA38ADCD-70D9-4F93-A50F-861AAF534CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA38ADCD-70D9-4F93-A50F-861AAF534CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA38ADCD-70D9-4F93-A50F-861AAF534CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D93B9A3-FDE7-4A58-9F41-42F519CF1074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D93B9A3-FDE7-4A58-9F41-42F519CF1074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D93B9A3-FDE7-4A58-9F41-42F519CF1074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D93B9A3-FDE7-4A58-9F41-42F519CF1074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65176CE5-DCCB-4579-8872-AFC3A9D3A809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65176CE5-DCCB-4579-8872-AFC3A9D3A809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65176CE5-DCCB-4579-8872-AFC3A9D3A809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65176CE5-DCCB-4579-8872-AFC3A9D3A809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03D388A-FDB5-4CFF-A253-0CA3B0189AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03D388A-FDB5-4CFF-A253-0CA3B0189AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03D388A-FDB5-4CFF-A253-0CA3B0189AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03D388A-FDB5-4CFF-A253-0CA3B0189AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

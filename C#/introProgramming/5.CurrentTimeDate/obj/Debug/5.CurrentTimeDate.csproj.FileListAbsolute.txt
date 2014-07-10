@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\5.CurrentTimeDate\bin\Debug\5.CurrentTimeDate.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\5.CurrentTimeDate\bin\Debug\5.CurrentTimeDate.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\5.CurrentTimeDate\bin\Debug\5.CurrentTimeDate.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\5.CurrentTimeDate\obj\Debug\5.CurrentTimeDate.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\introProgramming\5.CurrentTimeDate\obj\Debug\5.CurrentTimeDate.pdb

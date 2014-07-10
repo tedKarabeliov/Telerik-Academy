@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\6.MaxSum N K\bin\Debug\6.MaxSum N K.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\6.MaxSum N K\bin\Debug\6.MaxSum N K.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\6.MaxSum N K\bin\Debug\6.MaxSum N K.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\6.MaxSum N K\obj\Debug\6.MaxSum N K.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\6.MaxSum N K\obj\Debug\6.MaxSum N K.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\6.MaxSum N K\obj\Debug\6.MaxSum N K.pdb

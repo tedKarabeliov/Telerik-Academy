@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\03.DecimalToHexademical\bin\Debug\03.DecimalToHexademical.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\03.DecimalToHexademical\bin\Debug\03.DecimalToHexademical.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\03.DecimalToHexademical\bin\Debug\03.DecimalToHexademical.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\03.DecimalToHexademical\obj\Debug\03.DecimalToHexademical.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\03.DecimalToHexademical\obj\Debug\03.DecimalToHexademical.pdb

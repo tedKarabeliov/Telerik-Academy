@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\2.FloatDoubleDecimal\bin\Debug\2.FloatDoubleDecimal.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\2.FloatDoubleDecimal\bin\Debug\2.FloatDoubleDecimal.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\2.FloatDoubleDecimal\bin\Debug\2.FloatDoubleDecimal.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\2.FloatDoubleDecimal\obj\Debug\2.FloatDoubleDecimal.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\2.FloatDoubleDecimal\obj\Debug\2.FloatDoubleDecimal.pdb

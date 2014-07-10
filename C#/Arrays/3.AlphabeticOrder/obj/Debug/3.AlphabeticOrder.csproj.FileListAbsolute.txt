@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\3.AlphabeticOrder\bin\Debug\3.AlphabeticOrder.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\3.AlphabeticOrder\bin\Debug\3.AlphabeticOrder.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\3.AlphabeticOrder\bin\Debug\3.AlphabeticOrder.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\3.AlphabeticOrder\obj\Debug\3.AlphabeticOrder.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\3.AlphabeticOrder\obj\Debug\3.AlphabeticOrder.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\3.AlphabeticOrder\obj\Debug\3.AlphabeticOrder.pdb

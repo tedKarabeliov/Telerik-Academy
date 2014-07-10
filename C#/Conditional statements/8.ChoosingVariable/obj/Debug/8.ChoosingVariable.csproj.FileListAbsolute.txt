@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\8.ChoosingVariable\bin\Debug\8.ChoosingVariable.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\8.ChoosingVariable\bin\Debug\8.ChoosingVariable.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\8.ChoosingVariable\bin\Debug\8.ChoosingVariable.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\8.ChoosingVariable\obj\Debug\8.ChoosingVariable.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Conditional statements\8.ChoosingVariable\obj\Debug\8.ChoosingVariable.pdb

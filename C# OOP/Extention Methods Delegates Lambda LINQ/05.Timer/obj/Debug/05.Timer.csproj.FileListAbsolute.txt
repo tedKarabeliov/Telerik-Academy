@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\05.Timer\bin\Debug\05.Timer.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\05.Timer\bin\Debug\05.Timer.exe
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\05.Timer\bin\Debug\05.Timer.pdb
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\05.Timer\obj\Debug\05.Timer.exe
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\05.Timer\obj\Debug\05.Timer.pdb
+C:\Users\Tedski\documents\visual studio 2013\Projects\Extention Methods Delegates Lambda LINQ\05.Timer\obj\Debug\05.Timer.csprojResolveAssemblyReference.cache

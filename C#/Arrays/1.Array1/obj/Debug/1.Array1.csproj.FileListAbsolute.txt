@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\1.Array1\bin\Debug\1.Array1.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\1.Array1\bin\Debug\1.Array1.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\1.Array1\bin\Debug\1.Array1.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\1.Array1\obj\Debug\1.Array1.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\1.Array1\obj\Debug\1.Array1.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\1.Array1\obj\Debug\1.Array1.pdb

@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\10.Unicode\bin\Debug\10.Unicode.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\10.Unicode\bin\Debug\10.Unicode.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\10.Unicode\bin\Debug\10.Unicode.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\10.Unicode\obj\Debug\10.Unicode.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\10.Unicode\obj\Debug\10.Unicode.pdb

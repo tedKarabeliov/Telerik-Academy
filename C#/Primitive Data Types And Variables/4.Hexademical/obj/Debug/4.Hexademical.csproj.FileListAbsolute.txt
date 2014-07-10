@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\4.Hexademical\bin\Debug\4.Hexademical.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\4.Hexademical\obj\Debug\4.Hexademical.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\4.Hexademical\bin\Debug\4.Hexademical.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\4.Hexademical\bin\Debug\4.Hexademical.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\4.Hexademical\obj\Debug\4.Hexademical.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\4.Hexademical\obj\Debug\4.Hexademical.pdb

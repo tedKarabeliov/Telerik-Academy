@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\07.Cipher\bin\Debug\07.Cipher.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\07.Cipher\obj\Debug\07.Cipher.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\07.Cipher\bin\Debug\07.Cipher.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\07.Cipher\bin\Debug\07.Cipher.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\07.Cipher\obj\Debug\07.Cipher.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\07.Cipher\obj\Debug\07.Cipher.pdb

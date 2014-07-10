@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\1.CheckNumbers\bin\Debug\1.CheckNumbers.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\1.CheckNumbers\bin\Debug\1.CheckNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\1.CheckNumbers\bin\Debug\1.CheckNumbers.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\1.CheckNumbers\obj\Debug\1.CheckNumbers.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\1.CheckNumbers\obj\Debug\1.CheckNumbers.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Conditional statements\1.CheckNumbers\obj\Debug\1.CheckNumbers.pdb

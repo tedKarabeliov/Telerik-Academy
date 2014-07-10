@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\07.AnyNumercalSystem\bin\Debug\07.AnyNumercalSystem.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\07.AnyNumercalSystem\bin\Debug\07.AnyNumercalSystem.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\07.AnyNumercalSystem\bin\Debug\07.AnyNumercalSystem.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\07.AnyNumercalSystem\obj\Debug\07.AnyNumercalSystem.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\07.AnyNumercalSystem\obj\Debug\07.AnyNumercalSystem.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Numercal Systems\07.AnyNumercalSystem\obj\Debug\07.AnyNumercalSystem.pdb

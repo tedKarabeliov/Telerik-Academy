@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\03.BitArray\bin\Debug\03.BitArray.exe.config
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\03.BitArray\bin\Debug\03.BitArray.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\03.BitArray\bin\Debug\03.BitArray.pdb
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\03.BitArray\obj\Debug\03.BitArray.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\03.BitArray\obj\Debug\03.BitArray.pdb
+c:\users\tedski\documents\visual studio 2013\Projects\Common Type System\03.BitArray\obj\Debug\03.BitArray.csprojResolveAssemblyReference.cache

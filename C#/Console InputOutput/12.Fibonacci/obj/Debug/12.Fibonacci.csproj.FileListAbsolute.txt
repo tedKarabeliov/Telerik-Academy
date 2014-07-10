@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\12.Fibonacci\bin\Debug\12.Fibonacci.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\12.Fibonacci\bin\Debug\12.Fibonacci.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\12.Fibonacci\bin\Debug\12.Fibonacci.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\12.Fibonacci\obj\Debug\12.Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\12.Fibonacci\obj\Debug\12.Fibonacci.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\12.Fibonacci\obj\Debug\12.Fibonacci.pdb

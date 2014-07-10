@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\2.EqualArrays\bin\Debug\2.EqualArrays.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\2.EqualArrays\bin\Debug\2.EqualArrays.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\2.EqualArrays\bin\Debug\2.EqualArrays.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\2.EqualArrays\obj\Debug\2.EqualArrays.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Arrays\2.EqualArrays\obj\Debug\2.EqualArrays.pdb

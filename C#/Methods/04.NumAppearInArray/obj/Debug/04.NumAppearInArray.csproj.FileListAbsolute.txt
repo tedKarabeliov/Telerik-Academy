@@ -1,0 +1,6 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\04.NumAppearInArray\bin\Debug\04.NumAppearInArray.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\04.NumAppearInArray\bin\Debug\04.NumAppearInArray.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\04.NumAppearInArray\bin\Debug\04.NumAppearInArray.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\04.NumAppearInArray\obj\Debug\04.NumAppearInArray.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\04.NumAppearInArray\obj\Debug\04.NumAppearInArray.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Methods\04.NumAppearInArray\obj\Debug\04.NumAppearInArray.pdb

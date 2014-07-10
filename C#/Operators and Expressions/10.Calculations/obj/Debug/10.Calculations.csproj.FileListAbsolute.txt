@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\10.Calculations\bin\Debug\10.Calculations.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\10.Calculations\bin\Debug\10.Calculations.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\10.Calculations\bin\Debug\10.Calculations.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\10.Calculations\obj\Debug\10.Calculations.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Operators and Expressions\10.Calculations\obj\Debug\10.Calculations.pdb

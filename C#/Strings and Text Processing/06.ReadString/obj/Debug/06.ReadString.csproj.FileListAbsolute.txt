@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\06.ReadString\bin\Debug\06.ReadString.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\06.ReadString\bin\Debug\06.ReadString.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\06.ReadString\bin\Debug\06.ReadString.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\06.ReadString\obj\Debug\06.ReadString.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\06.ReadString\obj\Debug\06.ReadString.pdb

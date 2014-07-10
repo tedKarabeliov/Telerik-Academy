@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\17.Dates2\bin\Debug\17.Dates2.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\17.Dates2\bin\Debug\17.Dates2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\17.Dates2\bin\Debug\17.Dates2.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\17.Dates2\obj\Debug\17.Dates2.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\17.Dates2\obj\Debug\17.Dates2.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Strings and Text Processing\17.Dates2\obj\Debug\17.Dates2.csprojResolveAssemblyReference.cache

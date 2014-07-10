@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\11.ConvertToText\bin\Debug\11.ConvertToText.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\11.ConvertToText\bin\Debug\11.ConvertToText.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\11.ConvertToText\bin\Debug\11.ConvertToText.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\11.ConvertToText\obj\Debug\11.ConvertToText.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\11.ConvertToText\obj\Debug\11.ConvertToText.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Conditional statements\11.ConvertToText\obj\Debug\11.ConvertToText.pdb

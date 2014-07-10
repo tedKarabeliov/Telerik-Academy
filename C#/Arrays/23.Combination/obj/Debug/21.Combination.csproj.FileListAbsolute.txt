@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\23.Combination\bin\Debug\23.Combination.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\23.Combination\obj\Debug\23.Combination.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\23.Combination\obj\Debug\23.Combination.pdb
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\23.Combination\bin\Debug\23.Combination.exe
+C:\Users\Tedski\Documents\Visual Studio 2012\Projects\Arrays\23.Combination\bin\Debug\23.Combination.pdb

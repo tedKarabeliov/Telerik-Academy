@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\01.OddLines\bin\Debug\01.OddLines.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\01.OddLines\bin\Debug\01.OddLines.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\01.OddLines\bin\Debug\01.OddLines.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\01.OddLines\obj\Debug\01.OddLines.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\01.OddLines\obj\Debug\01.OddLines.pdb

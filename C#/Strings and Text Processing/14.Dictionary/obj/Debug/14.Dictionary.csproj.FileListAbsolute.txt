@@ -1,0 +1,6 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\14.Dictionary\bin\Debug\14.Dictionary.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\14.Dictionary\bin\Debug\14.Dictionary.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\14.Dictionary\bin\Debug\14.Dictionary.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\14.Dictionary\obj\Debug\14.Dictionary.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\14.Dictionary\obj\Debug\14.Dictionary.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Strings and Text Processing\14.Dictionary\obj\Debug\14.Dictionary.pdb

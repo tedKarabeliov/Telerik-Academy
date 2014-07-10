@@ -1,0 +1,6 @@
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\1.1toN\bin\Debug\1.1toN.exe.config
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\1.1toN\bin\Debug\1.1toN.exe
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\1.1toN\bin\Debug\1.1toN.pdb
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\1.1toN\obj\Debug\1.1toN.csprojResolveAssemblyReference.cache
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\1.1toN\obj\Debug\1.1toN.exe
+c:\Users\Tedski\documents\visual studio 2012\Projects\Loops\1.1toN\obj\Debug\1.1toN.pdb

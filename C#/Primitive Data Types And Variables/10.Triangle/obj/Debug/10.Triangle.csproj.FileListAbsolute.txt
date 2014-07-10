@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\10.Triangle\bin\Debug\10.Triangle.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\10.Triangle\bin\Debug\10.Triangle.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\10.Triangle\bin\Debug\10.Triangle.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\10.Triangle\obj\Debug\10.Triangle.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\10.Triangle\obj\Debug\10.Triangle.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\02.IEnumreableExtended\bin\Debug\02.IEnumreableExtended.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\02.IEnumreableExtended\bin\Debug\02.IEnumreableExtended.exe
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\02.IEnumreableExtended\bin\Debug\02.IEnumreableExtended.pdb
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\02.IEnumreableExtended\obj\Debug\02.IEnumreableExtended.exe
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Extention Methods Delegates Lambda LINQ\02.IEnumreableExtended\obj\Debug\02.IEnumreableExtended.pdb

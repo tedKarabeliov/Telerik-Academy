@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\2.Circle\bin\Debug\2.Circle.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\2.Circle\bin\Debug\2.Circle.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\2.Circle\bin\Debug\2.Circle.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\2.Circle\obj\Debug\2.Circle.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Console InputOutput\2.Circle\obj\Debug\2.Circle.pdb

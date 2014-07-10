@@ -1,0 +1,5 @@
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\02.ReadNumber\bin\Debug\02.ReadNumber.exe.config
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\02.ReadNumber\bin\Debug\02.ReadNumber.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\02.ReadNumber\bin\Debug\02.ReadNumber.pdb
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\02.ReadNumber\obj\Debug\02.ReadNumber.exe
+c:\users\tedski\documents\visual studio 2012\Projects\Exception Handling\02.ReadNumber\obj\Debug\02.ReadNumber.pdb

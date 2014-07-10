@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\8.Quotes\bin\Debug\8.Quotes.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\8.Quotes\bin\Debug\8.Quotes.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\8.Quotes\bin\Debug\8.Quotes.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\8.Quotes\obj\Debug\8.Quotes.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Primitive Data Types And Variables\8.Quotes\obj\Debug\8.Quotes.pdb

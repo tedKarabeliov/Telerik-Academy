@@ -1,0 +1,5 @@
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
+C:\Users\Tedski\documents\visual studio 2012\Projects\Text Files\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb
