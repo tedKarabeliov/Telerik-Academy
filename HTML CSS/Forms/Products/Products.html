@@ -1,0 +1,289 @@
+<!doctype html>
+<html>
+<head>
+	<title>Products</title>
+	<link rel="stylesheet" type="text/css" href="Style.css"/>
+</head>
+<body>
+	<form>
+		<table border="1" cellpadding="0" >
+			<thead>
+				<tr>
+					<th colspan="6" class="title">Drag a column header and drop it here to group by that column</th>
+				</tr>
+				<tr>
+					<th class="title">ProductID</th>
+					<th class="title" id="productname">Product name</th>
+					<th class="title" id="unitprice">Unit price</th>
+					<th class="title" id="quantityperunit">Quantity per unit</th>
+					<th class="title" id="unitsinstock">Units in stock</th>
+					<th class="title">Discontinued</th>
+				</tr>
+				<tr>
+					<th class="input">
+						<input type="text" name="idinput" id="idinput"/>
+					</th>
+					<th class="input">
+						<input type="text" name="nameinput" id="nameinput"/>
+					</th>
+					<th class="input">
+						<input type="text" name="priceinput" id="priceinput"/>
+						<input type="image" src="images/arrow.png" height="24px" width="24px"/>
+					</th>
+					<th class="input">
+						<input type="text" name="quantityinput" id="quantityinput"/>
+					</th>
+					<th class="input">
+						<input type="text" name="unitsinput" id="unitsinput"/>
+						<input type="image" src="images/arrow.png" height="24px" width="24px"/>
+					</th>
+					<th class="input">
+						<input type="checkbox" id="discontinuedcheckbox"/>
+						<input type="image" src="images/arrow.png" id="discontinuedbutton" height="24px" width="24px"/>
+						
+					</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="6">
+						<div>
+							<input type="button" id="fastback" value="|<"></input>
+							<input type="button" id="back" value="<"></input>
+							<a href="#" id="linkwithborder">1</a>
+							<a href="#">2</a>
+							<a href="#">3</a>
+							<a href="#">4</a>
+							<a href="#">5</a>
+							<a href="#">6</a>
+							<a href="#">7</a>
+							<a href="#">8</a>
+							<a href="#">9</a>
+							<a href="#">10</a>
+							<span>...</span>
+							<input type="button" id="forward"  value=">"></input>
+							<input type="button" id="fastforward"  value=">|"></input>
+							<label for="pagesize">Page size:</label>
+							<select id="pagesize">
+								<option>1</option>
+								<option>2</option>
+								<option>3</option>
+								<option>4</option>
+								<option>5</option>
+								<option>6</option>
+								<option>7</option>
+								<option>8</option>
+								<option>9</option>
+								<option selected="selected">10</option>
+							</select>
+							<span id="itemsinpages">335104 items in 33511 pages</span>
+						</div>
+					</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<td>
+						<div>1</div>
+					</td>
+					<td>
+						<div>Chai</div>
+					</td>
+					<td>
+						<div>$18.00</div>
+					</td>
+					<td>
+						<div>10 boxes x 20 bags</div>
+					</td>
+					<td>
+						<div>39</div>
+					</td>
+					<td>
+						<input type="checkbox" disabled="disabled"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>2</div>
+					</td>
+					<td>
+						<div>Chang</div>
+					</td>
+					<td>
+						<div>$19.00</div>
+					</td>
+					<td>
+						<div>24 - 12 oz bottles</div>
+					</td>
+					<td>
+						<div>17</div>
+					</td>
+					<td>
+						<input type="checkbox" disabled="disabled"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>3</div>
+					</td>
+					<td>
+						<div>Anissed Syrup</div>
+					</td>
+					<td>
+						<div>$10.00</div>
+					</td>
+					<td>
+						<div>10 - 550 ml bottles</div>
+					</td>
+					<td>
+						<div>13</div>
+					</td>
+					<td>
+						<input type="checkbox" disabled="disabled"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>4</div>
+					</td>
+					<td>
+						<div>Chaf Anton's Cajun Seasoning</div>
+					</td>
+					<td>
+						<div>$22.00</div>
+					</td>
+					<td>
+						<div>48 - 6 oz jars</div>
+					</td>
+					<td>
+						<div>53</div>
+					</td>
+					<td>
+						<input type="checkbox" disabled="disabled"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>5</div>
+					</td>
+					<td>
+						<div>Chef Anton's Gumbo Mix</div>
+					</td>
+					<td>
+						<div>$21.35</div>
+					</td>
+					<td>
+						<div>36 boxes</div>
+					</td>
+					<td>
+						<div>0</div>
+					</td>
+					<td>
+						<input type="checkbox" checked="checked" disabled="disabled"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>6</div>
+					</td>
+					<td>
+						<div>Grandma's Boysenberry Spread</div>
+					</td>
+					<td>
+						<div>$25.00</div>
+					</td>
+					<td>
+						<div>12 - 8 oz jars</div>
+					</td>
+					<td>
+						<div>120</div>
+					</td>
+					<td>
+						<input type="checkbox" disabled="disabled"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>7</div>
+					</td>
+					<td>
+						<div>Uncle Bob's Organic Dried Pears</div>
+					</td>
+					<td>
+						<div>$30.00</div>
+					</td>
+					<td>
+						<div>12 - 1 lb pkgs.</div>
+					</td>
+					<td>
+						<div>120</div>
+					</td>
+					<td>
+						<input type="checkbox" disabled="disabled"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>8</div>
+					</td>
+					<td>
+						<div>Northwoods Cranberry Sauce</div>
+					</td>
+					<td>
+						<div>$40.00</div>
+					</td>
+					<td>
+						<div>12 - 12 oz jars</div>
+					</td>
+					<td>
+						<div>6</div>
+					</td>
+					<td>
+						<input type="checkbox" disabled="disabled"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>9</div>
+					</td>
+					<td>
+						<div>Mishi Kobe Niku</div>
+					</td>
+					<td>
+						<div>$97.00</div>
+					</td>
+					<td>
+						<div>18 - 500 g pkgs.</div>
+					</td>
+					<td>
+						<div>29</div>
+					</td>
+					<td>
+						<input type="checkbox" checked="checked" disabled="disabled"/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>10</div>
+					</td>
+					<td>
+						<div>Ikura</div>
+					</td>
+					<td>
+						<div>$31.00</div>
+					</td>
+					<td>
+						<div>12 - 200 ml jars</div>
+					</td>
+					<td>
+						<div>31</div>
+					</td>
+					<td>
+						<input type="checkbox" disabled="disabled"/>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</form>
+</body>
+</html>

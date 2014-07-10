@@ -1,0 +1,43 @@
+body {
+	background-color: gray;
+}
+
+h1 {
+	text-align: center;
+	color: #FFFFCC;
+}
+article h1 {
+	text-align: left;
+}
+
+ul {
+	list-style-type: none;
+}
+.current {
+	background-color: #C0C0C0 ;
+}
+
+a {
+	text-decoration: none;
+}
+
+li:last-child a {
+	text-decoration: underline;
+}
+
+nav {
+	text-align: center;
+}
+
+nav a {
+	color: white;
+}
+
+p a {
+	color: inherit;
+}
+
+body > footer{
+	text-align: center;
+}
+

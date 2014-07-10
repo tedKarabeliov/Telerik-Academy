@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#calculator {
+    width: 447px;
+    height: 427px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    background-color: #D5E8FC;
+}
+
+    #calculator div.title {
+        position: relative;
+        padding: 3px;
+    }
+
+        #calculator div.title img {
+            width: 15px;
+            height: 19px;
+            vertical-align: middle;
+        }
+
+        #calculator div.title div {
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        #calculator div.title button {
+            display: inline-block;
+            vertical-align: middle;
+            background: none;
+        }
+
+        #calculator div.title div.window-buttons {
+            width: 110px;
+            height: 20px;
+            position: absolute;
+            right: 5px;
+            top: 0;
+            text-align: right;
+        }
+
+            #calculator div.title div.window-buttons button {
+                outline: none;
+                border-top: none;
+                border-bottom: 1px solid black;
+                border-left: 1px solid black;
+                border-right: 1px solid black;
+            }
+
+                #calculator div.title div.window-buttons button.minimize {
+                    width: 20px;
+                    vertical-align: top;
+                    background-color: #A7B9CD;
+                    border-right: none;
+                    border-bottom-left-radius: 3px;
+                }
+
+                #calculator div.title div.window-buttons button.restore {
+                    width: 20px;
+                    vertical-align: top;
+                    background-color: #A7B9CD;
+                    border-right: none;
+                }
+
+                #calculator div.title div.window-buttons button.close {
+                    width: 55px;
+                    background-color: #C45342;
+                    vertical-align: top;
+                    border-bottom-right-radius: 3px;
+                }
+
+    #calculator div.main-window {
+        border: 1px solid black;
+        margin: 3px;
+    }
+
+        #calculator div.main-window nav {
+            border-bottom: 1px solid #C6CAD6;
+        }
+
+            #calculator div.main-window nav ul li {
+                display: inline-block;
+                margin-left: 8px;
+            }
+
+                #calculator div.main-window nav ul li:first-of-type {
+                    margin-left: 5px;
+                }
+
+                #calculator div.main-window nav ul li button {
+                    background: none;
+                    border: none;
+                }
+
+                    #calculator div.main-window nav ul li button:first-letter {
+                        text-decoration: underline;
+                    }
+
+        #calculator div.main-window div.content {
+            margin: 10px;
+            font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace;
+        }
+
+            #calculator div.main-window div.content div.display {
+                height: 55px;
+                position: relative;
+                border: 1px solid black;
+                background: linear-gradient(#EBF2FC, #FFFFFF);
+                margin-bottom: 5px;
+            }
+
+                #calculator div.main-window div.content div.display span {
+                    position: absolute;
+                    bottom: 6px;
+                    right: 5px;
+                    font-size: 22px;
+                    font-weight: bold;
+                }
+
+            #calculator div.main-window div.content div.bit-container {
+                height: 65px;
+                padding: 5px;
+                border: 1px solid #9DACBD;
+            }
+
+                #calculator div.main-window div.content div.bit-container span {
+                    margin-left: 13px;
+                }
+
+                    #calculator div.main-window div.content div.bit-container span:first-of-type {
+                        margin-left: 0;
+                    }
+
+                #calculator div.main-window div.content div.bit-container div.bit-count {
+                    position: relative;
+                    color: #797270;
+                }
+
+                    #calculator div.main-window div.content div.bit-container div.bit-count span:nth-of-type(2) {
+                        position: absolute;
+                        right: 179px;
+                    }
+
+                    #calculator div.main-window div.content div.bit-container div.bit-count span:last-of-type {
+                        position: absolute;
+                        right: 5px;
+                    }
+
+            #calculator div.main-window div.content div.radios {
+                width: 75px;
+                height: 100px;
+                margin-top: 5px;
+                display: inline-block;
+                border: 1px solid #9DACBD;
+            }
+
+                #calculator div.main-window div.content div.radios div {
+                    margin-top: 5px;
+                    margin-left: 7px;
+                }
+
+                    #calculator div.main-window div.content div.radios div input {
+                        vertical-align: middle;
+                        margin-right: 0;
+                    }
+
+                    #calculator div.main-window div.content div.radios div label {
+                        vertical-align: middle;
+                        margin-left: 5px;
+                    }
+
+            #calculator div.main-window div.content div.keypad {
+                width: 334px;
+                height: 209px;
+                display: inline-block;
+                vertical-align: top;
+                margin-top: 5px;
+                float: right;
+                text-align: right;
+            }
+
+                #calculator div.main-window div.content div.keypad button {
+                    width: 34px;
+                    height: 30px;
+                    text-align: right;
+                    vertical-align: top;
+                    margin-bottom: 6px;
+                    padding: 3px;
+                    text-align: center;
+                    background-color: #DFE8F2;
+                    border: 1px solid #8F9EB0;
+                    border-radius: 2px;
+                }
+
+                    #calculator div.main-window div.content div.keypad button.empty {
+                        background-color: #D9E4F1;
+                    }
+
+                    #calculator div.main-window div.content div.keypad button.fainted {
+                        background-color: #D9E4F1;
+                        border-color: #C3D0DE;
+                    }
+
+                    #calculator div.main-window div.content div.keypad button.numpad {
+                        background-color: #EBF2F9;
+                    }
+
+                    #calculator div.main-window div.content div.keypad button.vertical {
+                        height: 66px;
+                        position: absolute;
+                    }
+
+                    #calculator div.main-window div.content div.keypad button.horizontal {
+                        width: 76px;
+                        background-color: #EBF2F9;
+                    }
+
+                    #calculator div.main-window div.content div.keypad button.hidden {
+                        opacity: 0;
+                    }
+
+                    #calculator div.main-window div.content div.keypad button:hover {
+                        background-color: #FBD37C;
+                    }

@@ -1,0 +1,63 @@
+img, div, span, label, input, header, body, fieldset, form, p, header, article {
+    padding: 0;
+    margin: 0;
+}
+
+fieldset {
+    border: 0;
+}
+
+body {
+    background-color: #4A4A4A;
+}
+
+header {
+    height: 40px;
+    background-color: black;
+    padding: 10px;
+}
+
+article {
+    padding-left: 10px;
+}
+
+img {
+    width:30px;
+    height:30px;
+    vertical-align: bottom;
+}
+
+label {
+    padding-left: 10px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+input {
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+[type="text"] {
+    padding-left: 10px;
+    padding-bottom: 2px;
+}
+[type="submit"] {
+    width: 50px;
+    height: 20px;
+    color: white;
+    background-image: url("images/go-button.png");
+    border-radius: 10px;
+}
+
+h1 {
+    color: #CCCC00;
+}
+
+p {
+    color: #8E9190;
+}
+
+span#white {
+    color: white;
+}

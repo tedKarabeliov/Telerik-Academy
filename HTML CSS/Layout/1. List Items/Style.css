@@ -1,0 +1,29 @@
+ul, li, div {
+    padding: 0;
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+}
+
+span:hover {
+    text-decoration: underline;
+}
+
+span:hover li {
+    text-decoration: none;
+    color: gray;
+}
+
+ul li ul {
+    display: none;
+}
+
+ul li:hover ul {
+    display: block;
+}
+
+ul li ul li {
+    padding-left: 10px;
+}
+

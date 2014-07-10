@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Calculator</title>
+		<link rel="stylesheet" href="Style.css">
+	</head>
+<body>
+    <div id="calculator">
+        <div class="title">
+            <img src="images/calculator-icon.png" id="calculator-icon" />
+            <div class="calculator-title">Calculator</div>
+            <div class="window-buttons">
+                <button class="minimize">&mdash;</button><button class="restore">?</button><button class="close">x</button>
+            </div>
+        </div>
+        <div class="main-window">
+            <nav>
+                <ul>
+                    <li><button>View</button></li>
+                    <li><button>Edit</button></li>
+                    <li><button>Help</button></li>
+                </ul>
+            </nav>
+            <div class="content">
+                <div class="display">
+                    <span>8854455</span>
+                </div>
+                <div class="bit-container">
+                    <div>
+                        <span class="bits">0000</span>
+                        <span class="bits">0000</span>
+                        <span class="bits">0000</span>
+                        <span class="bits">0000</span>
+                        <span class="bits">0000</span>
+                        <span class="bits">0000</span>
+                        <span class="bits">0000</span>
+                        <span class="bits">0000</span>
+                    </div>
+                    <div class="bit-count">
+                        <span class="bit-count">63</span>
+                        <span class="bit-count">47</span>
+                        <span class="bit-count">32</span>
+                    </div>
+                    <div>
+                        <span class="bits">0000</span>
+                        <span class="bits">0000</span>
+                        <span class="bits">1000</span>
+                        <span class="bits">0111</span>
+                        <span class="bits">0001</span>
+                        <span class="bits">1011</span>
+                        <span class="bits">1011</span>
+                        <span class="bits">0111</span>
+                    </div>
+                    <div class="bit-count">
+                        <span class="bit-count">31</span>
+                        <span class="bit-count">15</span>
+                        <span class="bit-count">0</span>
+                    </div>
+                </div>
+                <div class="radios">
+                    <div>
+                        <input type="radio" name="num-system" id="hex" /><label for="hex">Hex</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="num-system" id="dec" checked /><label for="dec">Dec</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="num-system" id="oct" /><label for="oct">Oct</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="num-system" id="bin" /><label for="bin">Bin</label>
+                    </div>
+                </div>
+                <div class="keypad">
+                    <button class="empty"></button>
+                    <button>Mod</button>
+                    <button class="fainted">A</button>
+                    <button>MC</button>
+                    <button>MR</button>
+                    <button>MS</button>
+                    <button>M+</button>
+                    <button>M-</button>
+
+                    <button>(</button>
+                    <button>)</button>
+                    <button class="fainted">B</button>
+                    <button>&#8656;</button>
+                    <button>CE</button>
+                    <button>C</button>
+                    <button>+-</button>
+                    <button class="fainted">&radic;</button>
+
+                    <button>RoL</button>
+                    <button>RoR</button>
+                    <button class="fainted">C</button>
+                    <button class="numpad">7</button>
+                    <button class="numpad">8</button>
+                    <button class="numpad">9</button>
+                    <button>/</button>
+                    <button class="fainted">%</button>
+
+                    <button>Or</button>
+                    <button>Xor</button>
+                    <button class="fainted">D</button>
+                    <button class="numpad">4</button>
+                    <button class="numpad">5</button>
+                    <button class="numpad">6</button>
+                    <button>*</button>
+                    <button class="fainted">1/x</button>
+
+                    <button>Lsh</button>
+                    <button>Rsh</button>
+                    <button class="fainted">E</button>
+                    <button class="numpad">1</button>
+                    <button class="numpad">2</button>
+                    <button class="numpad">3</button>
+                    <button>-</button>
+                    <button class="vertical">=</button>
+                    <button class="hidden"></button>
+
+                    <button>Not</button>
+                    <button>And</button>
+                    <button class="fainted">F</button>
+                    <button class="horizontal">0</button>
+                    <button class="fainted">.</button>
+                    <button>+</button>
+                    <button class="hidden"></button>
+
+                </div>
+                <div class="radios">
+                    <div>
+                        <input type="radio" name="bit-length" id="qword" checked /><label for="qword">Qword</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="bit-length" id="dword" /><label for="dword">Dword</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="bit-length" id="word" /><label for="word">Word</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="bit-length" id="byte" /><label for="byte">Byte</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

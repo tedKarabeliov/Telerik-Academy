@@ -1,0 +1,44 @@
+fieldset {
+	width: 220px;
+	border-width: 2px;
+	border-color: black;
+}
+
+legend {
+	text-align: center;
+}
+
+span {
+	padding-left: 15px;
+
+}
+
+input[type="range"] {
+	padding-top: 10px;
+}
+
+hr {
+	height: 1px;
+	background-color: gray;
+}
+
+#links {
+	font-size: 20px;
+	padding-left: 250px;
+}
+
+#maintable td.params {
+	padding-left: 20px;
+
+}
+
+#frametable {
+	border-collapse: collapse;
+}
+
+#frametable td {
+	border-color: black;
+	border-width: 2px;
+	padding: 7px;
+}
+

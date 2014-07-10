@@ -1,0 +1,51 @@
+p, h1, button {
+    padding:0;
+    margin:0;
+}
+
+body {
+    font-family: Arial;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+
+input {
+    display: inline-block;
+    position: relative;
+    right: 110px;
+    bottom: 22px;
+	color: white;
+    background-image: url("images/add-button.png")
+}
+
+article {
+    background-color: #F2F2F2;
+    width: 520px;
+    height: 600px;
+    border-radius: 10px;
+}
+
+section {
+    width: 480px;
+    background-color: white;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+h1 {
+    font-weight: normal;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    display: inline-block;
+    padding-top: 20px;
+    vertical-align: top;
+    font-size: 13px;
+}
