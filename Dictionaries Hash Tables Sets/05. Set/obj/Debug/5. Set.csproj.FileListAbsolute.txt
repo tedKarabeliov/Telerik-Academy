@@ -1,0 +1,8 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\5. Set\bin\Debug\_5.Set.exe.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\5. Set\bin\Debug\_5.Set.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\5. Set\bin\Debug\_5.Set.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\5. Set\obj\Debug\_5.Set.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\5. Set\obj\Debug\_5.Set.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\5. Set\obj\Debug\5. Set.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\5. Set\bin\Debug\PowerCollections.dll
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\5. Set\bin\Debug\PowerCollections.xml

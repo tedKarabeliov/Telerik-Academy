@@ -1,0 +1,7 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\Count Words In Text\bin\Debug\Count Words In Text.exe.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\Count Words In Text\bin\Debug\Count Words In Text.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\Count Words In Text\bin\Debug\Count Words In Text.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\Count Words In Text\obj\Debug\Count Words In Text.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\Count Words In Text\obj\Debug\Count Words In Text.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\Count Words In Text\bin\Debug\PowerCollections.dll
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\Count Words In Text\bin\Debug\PowerCollections.xml

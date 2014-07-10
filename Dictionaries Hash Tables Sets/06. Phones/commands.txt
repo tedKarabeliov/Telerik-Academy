@@ -1,0 +1,2 @@
+﻿find(mimi)
+find(kireto, varna)

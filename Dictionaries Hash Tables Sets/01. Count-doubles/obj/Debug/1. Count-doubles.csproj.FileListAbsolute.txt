@@ -1,0 +1,8 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\1. Count-doubles\bin\Debug\_1.Count_doubles.exe.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\1. Count-doubles\bin\Debug\_1.Count_doubles.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\1. Count-doubles\bin\Debug\_1.Count_doubles.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\1. Count-doubles\obj\Debug\1. Count-doubles.csprojResolveAssemblyReference.cache
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\1. Count-doubles\obj\Debug\_1.Count_doubles.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\1. Count-doubles\obj\Debug\_1.Count_doubles.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\1. Count-doubles\bin\Debug\PowerCollections.dll
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\1. Count-doubles\bin\Debug\PowerCollections.xml

@@ -1,0 +1,7 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\4. HashTable\bin\Debug\_4.HashTable.exe.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\4. HashTable\bin\Debug\_4.HashTable.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\4. HashTable\bin\Debug\_4.HashTable.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\4. HashTable\obj\Debug\_4.HashTable.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\4. HashTable\obj\Debug\_4.HashTable.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\4. HashTable\bin\Debug\PowerCollections.dll
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\4. HashTable\bin\Debug\PowerCollections.xml

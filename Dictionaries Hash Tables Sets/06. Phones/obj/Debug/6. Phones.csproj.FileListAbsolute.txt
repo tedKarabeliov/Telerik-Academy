@@ -1,0 +1,11 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\6. Phones\bin\Debug\_6.Phones.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\6. Phones\bin\Debug\_6.Phones.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\6. Phones\bin\Debug\_6.Phones.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\6. Phones\obj\Debug\6. Phones.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\6. Phones\obj\Debug\_6.Phones.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\6. Phones\obj\Debug\_6.Phones.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\6. Phones\bin\Debug\PowerCollections.dll
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\6. Phones\bin\Debug\PowerCollections.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Dictionaries Hash Tables Sets\06. Phones\bin\Debug\_6.Phones.exe.config
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Dictionaries Hash Tables Sets\06. Phones\obj\Debug\_6.Phones.exe
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Dictionaries Hash Tables Sets\06. Phones\obj\Debug\_6.Phones.pdb

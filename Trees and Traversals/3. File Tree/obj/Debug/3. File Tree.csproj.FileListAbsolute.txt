@@ -1,0 +1,6 @@
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\3. File Tree\bin\Debug\_3.File_Tree.exe.config
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\3. File Tree\bin\Debug\_3.File_Tree.exe
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\3. File Tree\bin\Debug\_3.File_Tree.pdb
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\3. File Tree\obj\Debug\3. File Tree.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\3. File Tree\obj\Debug\_3.File_Tree.exe
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\3. File Tree\obj\Debug\_3.File_Tree.pdb

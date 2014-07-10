@@ -1,0 +1,8 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\2. Count Odd Strings\bin\Debug\_2.Count_Odd_Strings.exe.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\2. Count Odd Strings\bin\Debug\_2.Count_Odd_Strings.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\2. Count Odd Strings\bin\Debug\_2.Count_Odd_Strings.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\2. Count Odd Strings\obj\Debug\2. Count Odd Strings.csprojResolveAssemblyReference.cache
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\2. Count Odd Strings\obj\Debug\_2.Count_Odd_Strings.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\2. Count Odd Strings\obj\Debug\_2.Count_Odd_Strings.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\2. Count Odd Strings\bin\Debug\PowerCollections.dll
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash Tables Sets\2. Count Odd Strings\bin\Debug\PowerCollections.xml

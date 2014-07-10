@@ -1,0 +1,6 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\1. Read Tree\bin\Debug\_1.Read_Tree.exe.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\1. Read Tree\bin\Debug\_1.Read_Tree.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\1. Read Tree\bin\Debug\_1.Read_Tree.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\1. Read Tree\obj\Debug\1. Read Tree.csprojResolveAssemblyReference.cache
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\1. Read Tree\obj\Debug\_1.Read_Tree.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trees and Traversals\1. Read Tree\obj\Debug\_1.Read_Tree.pdb
