@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Wintellect.PowerCollections;
 
 namespace Phones
 {
@@ -9,7 +10,7 @@ namespace Phones
         {
             var personsArray = TextParser.Parse("../../phones.txt");
 
-            var persons = new HashSet<Person>();
+            var persons = new Bag<Person>();
 
             for (int i = 0; i < personsArray.Length; i++)
             {

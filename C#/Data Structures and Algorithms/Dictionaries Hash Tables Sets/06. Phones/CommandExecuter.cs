@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
+using Wintellect.PowerCollections;
 
 namespace Phones
 {
     public static class CommandExecuter
     {
-        public static void ExecuteCommands(HashSet<Person> persons, string path)
+        public static void ExecuteCommands(Bag<Person> persons, string path)
         {
             var reader = new StreamReader(path);
-            var commandsResults = new List<Person[]>();
+            var commandsResults = new List<IEnumerable<Person>>();
 
             using (reader)
             {
@@ -27,7 +27,7 @@ namespace Phones
             PrintResults(commandsResults);
         }
 
-        private static Person[] ExecuteCommand(HashSet<Person> persons, string command)
+        private static IEnumerable<Person> ExecuteCommand(Bag<Person> persons, string command)
         {
             var commandArray = command.Split(new char[] { '(', ')' }, StringSplitOptions.RemoveEmptyEntries);
             var commandName = commandArray[0];
@@ -37,8 +37,8 @@ namespace Phones
                 case "find":
                     switch (commandParams.Length)
                     {
-                        case 1: return FindByName(persons, commandParams); break;
-                        case 2: return FindByNameAndTown(persons, commandParams); break;
+                        case 1: return FindByName(persons, commandParams);
+                        case 2: return FindByNameAndTown(persons, commandParams);
 
                         default:
                             throw new ArgumentException("Invalid length of params");
@@ -48,25 +48,30 @@ namespace Phones
             }
         }
 
-        private static Person[] FindByName(HashSet<Person> persons, string[] commandParams)
+        private static IEnumerable<Person> FindByName(Bag<Person> persons, string[] commandParams)
         {
             var searchName = commandParams[0].ToLower().Trim();
-            var found = persons.Where
-                (p => p.Name.ToLower().IndexOf(searchName) != -1).ToArray();
-            return found;
+            var foundByName = persons.FindAll(delegate(Person person)
+            {
+                return person.Name.ToLower().Contains(searchName);
+            });
+            return foundByName;
         }
 
-        private static Person[] FindByNameAndTown(HashSet<Person> persons, string[] commandParams)
+        private static IEnumerable<Person> FindByNameAndTown(Bag<Person> persons, string[] commandParams)
         {
             var searchName = commandParams[0].ToLower().Trim();
             var searchTown = commandParams[1].ToLower().Trim();
-            var found = persons.Where
-                (p => p.Name.ToLower().IndexOf(searchName) != -1 &&
-                    p.Town.ToLower() == searchTown).ToArray();
-            return found;
+            var foundByNameAndTown = persons.FindAll(delegate(Person person)
+            {
+                return person.Name.ToLower().Contains(searchName) &&
+                    person.Town.ToLower().Contains(searchTown);
+            });
+
+            return foundByNameAndTown;
         }
 
-        private static void PrintResults(List<Person[]> commandsResults)
+        private static void PrintResults(List<IEnumerable<Person>> commandsResults)
         {
             Console.WriteLine("Results of commands: ");
             for (int i = 0; i < commandsResults.Count; i++)

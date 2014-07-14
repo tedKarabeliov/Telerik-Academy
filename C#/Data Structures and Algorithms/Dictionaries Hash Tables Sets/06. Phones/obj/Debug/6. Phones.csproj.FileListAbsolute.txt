@@ -9,3 +9,11 @@ C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Dictionaries Hash
 C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Dictionaries Hash Tables Sets\06. Phones\bin\Debug\_6.Phones.exe.config
 C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Dictionaries Hash Tables Sets\06. Phones\obj\Debug\_6.Phones.exe
 C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Dictionaries Hash Tables Sets\06. Phones\obj\Debug\_6.Phones.pdb
+C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Data Structures and Algorithms\Dictionaries Hash Tables Sets\06. Phones\bin\Debug\_6.Phones.exe.config
+C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Data Structures and Algorithms\Dictionaries Hash Tables Sets\06. Phones\obj\Debug\_6.Phones.exe
+C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Data Structures and Algorithms\Dictionaries Hash Tables Sets\06. Phones\obj\Debug\_6.Phones.pdb
+C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Data Structures and Algorithms\Dictionaries Hash Tables Sets\06. Phones\bin\Debug\_6.Phones.exe
+C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Data Structures and Algorithms\Dictionaries Hash Tables Sets\06. Phones\bin\Debug\_6.Phones.pdb
+C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Data Structures and Algorithms\Dictionaries Hash Tables Sets\06. Phones\bin\Debug\PowerCollections.dll
+C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Data Structures and Algorithms\Dictionaries Hash Tables Sets\06. Phones\bin\Debug\PowerCollections.xml
+C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Data Structures and Algorithms\Dictionaries Hash Tables Sets\06. Phones\obj\Debug\6. Phones.csprojResolveAssemblyReference.cache
