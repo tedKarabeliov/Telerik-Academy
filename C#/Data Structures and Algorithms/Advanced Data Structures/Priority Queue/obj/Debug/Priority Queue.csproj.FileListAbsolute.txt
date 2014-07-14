@@ -6,3 +6,11 @@ c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Str
 c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\obj\Debug\Priority Queue.csprojResolveAssemblyReference.cache
 c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\obj\Debug\Priority Queue.exe
 c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\obj\Debug\Priority Queue.pdb
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Priority Queue\bin\Debug\Priority Queue.exe.config
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Priority Queue\obj\Debug\Priority Queue.exe
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Priority Queue\obj\Debug\Priority Queue.pdb
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Priority Queue\bin\Debug\Priority Queue.exe
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Priority Queue\bin\Debug\Priority Queue.pdb
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Priority Queue\bin\Debug\PowerCollections.dll
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Priority Queue\bin\Debug\PowerCollections.xml
+C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Data Structures and Algorithms\Priority Queue\obj\Debug\Priority Queue.csprojResolveAssemblyReference.cache

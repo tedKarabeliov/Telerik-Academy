@@ -1,0 +1,6 @@
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trie\obj\Debug\Trie.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trie\bin\Debug\Trie.exe.config
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trie\bin\Debug\Trie.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trie\bin\Debug\Trie.pdb
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trie\obj\Debug\Trie.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Trie\obj\Debug\Trie.pdb

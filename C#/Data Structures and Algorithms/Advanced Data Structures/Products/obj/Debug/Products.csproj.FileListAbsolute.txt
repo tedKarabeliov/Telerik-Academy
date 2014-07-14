@@ -1,0 +1,8 @@
+c:\users\tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Products\bin\Debug\Products.exe.config
+c:\users\tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Products\bin\Debug\Products.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Products\bin\Debug\Products.pdb
+c:\users\tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Products\bin\Debug\PowerCollections.dll
+c:\users\tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Products\bin\Debug\PowerCollections.xml
+c:\users\tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Products\obj\Debug\Products.csprojResolveAssemblyReference.cache
+c:\users\tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Products\obj\Debug\Products.exe
+c:\users\tedski\documents\visual studio 2013\Projects\Data Structures and Algorithms\Products\obj\Debug\Products.pdb
