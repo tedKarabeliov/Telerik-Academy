@@ -1,0 +1,8 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\bin\Debug\Priority Queue.exe.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\bin\Debug\Priority Queue.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\bin\Debug\Priority Queue.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\bin\Debug\PowerCollections.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\bin\Debug\PowerCollections.xml
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\obj\Debug\Priority Queue.csprojResolveAssemblyReference.cache
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\obj\Debug\Priority Queue.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Advanced Data Structures\Priority Queue\obj\Debug\Priority Queue.pdb
