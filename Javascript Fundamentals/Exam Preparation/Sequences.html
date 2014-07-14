@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(params) {
+            var N = parseInt(params[0]);
+            var answer = 0;
+            
+            var arr = [];
+            for (var i = 0; i < N; i++) {
+                arr.push(parseInt(params[i + 1]));
+            }
+
+            answer++;
+            for (var i = 1; i < arr.length; i++) {
+
+                if (arr[i] < arr[i - 1]) {
+                    answer++;
+                }
+            }
+            
+            return answer;
+        }
+
+        Solve(['9', '1', '8', '8', '7', '6', '5', '7', '7', '6']);
+
+    </script>
+</body>
+</html>

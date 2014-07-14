@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="input">Array</label>
+    <input type="text" value="4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3" id="input" style="width: 200px" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+
+        function findSmallestNumber(arr) {
+            var min = Number.MAX_VALUE;
+            for (var i = 0; i < arr.length; i++) {
+                if (arr[i] < min) {
+                    min = arr[i];
+                }
+            }
+            return min;
+        }
+
+        function onCalculateBtnClick() {
+            var arr1 = document.getElementById('input').value.split(', ');
+            for (var i = 0; i < arr1.length; i++) {
+                arr1[i] = parseInt(arr1[i]);
+            }
+            var arr2 = [];
+            for (var i = 0; arr1.length != 0; i++) {
+                //selection sort in 1 line !!
+                arr2.push(arr1.splice(arr1.indexOf(findSmallestNumber(arr1)), 1));
+            }
+            jsConsole.writeLine(arr2);
+        }
+    </script>
+</body>
+</html>

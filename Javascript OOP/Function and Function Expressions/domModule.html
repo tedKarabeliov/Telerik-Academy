@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="scripts/domModule.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <nav id="main-nav">
+            <ul>
+                <li>First</li>
+                <li>Second</li>
+                <li>Third</li>
+            </ul>
+        </nav>
+        
+        <a class="button" href="#">button1</a>
+        <a class="button" href="#">button2</a>
+        <a class="button" href="#">button3</a>
+
+        <div class="container"></div>
+    </div>
+    <script>
+        var div = document.createElement("div");
+        //appends div to #wrapper
+        domModule.appendChild(div,"#wrapper"); 
+        //removes li:first-child from ul
+        domModule.removeChild("ul","li:first-child"); 
+        //add handler to each a element with class button
+        domModule.addHandler("a.button", 'click',        
+                             function(){alert("Clicked")});
+        domModule.appendToBuffer("div.container", div.cloneNode(true));
+        domModule.appendToBuffer("#main-nav ul", div.cloneNode(true));
+    </script>
+</body>
+</html>

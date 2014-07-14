@@ -1,0 +1,6 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Code Tuning and Optimization\bin\Debug\Code Tuning and Optimization.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Code Tuning and Optimization\bin\Debug\Code Tuning and Optimization.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Code Tuning and Optimization\bin\Debug\Code Tuning and Optimization.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Code Tuning and Optimization\obj\Debug\Code Tuning and Optimization.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Code Tuning and Optimization\obj\Debug\Code Tuning and Optimization.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Code Tuning and Optimization\obj\Debug\Code Tuning and Optimization.pdb

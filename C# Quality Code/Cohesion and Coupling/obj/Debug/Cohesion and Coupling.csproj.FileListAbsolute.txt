@@ -1,0 +1,5 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Cohesion and Coupling\bin\Debug\Cohesion and Coupling.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Cohesion and Coupling\bin\Debug\Cohesion and Coupling.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Cohesion and Coupling\bin\Debug\Cohesion and Coupling.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Cohesion and Coupling\obj\Debug\Cohesion and Coupling.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Cohesion and Coupling\obj\Debug\Cohesion and Coupling.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Documentation\obj\Debug\Documentation.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Documentation\bin\Debug\Documentation.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Documentation\bin\Debug\Documentation.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Documentation\bin\Debug\Documentation.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Documentation\obj\Debug\Documentation.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Documentation\obj\Debug\Documentation.pdb

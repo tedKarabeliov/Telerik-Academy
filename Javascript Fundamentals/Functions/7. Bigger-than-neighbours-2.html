@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="array">Array</label>
+    <input type="text" value="4, 1, 2, 3, 7, 6, 3, 9, 4, 5" id="array" style="width: 200px" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+
+            function findNumBiggerThanTwoNeighbours(arr) {
+
+                for (var i = 1; i < arr.length - 1; i++) {
+                    if (arr[i] > arr[i - 1] &&
+                        arr[i] > arr[i + 1]) {
+
+                        return i;
+                    }
+                }
+                return -1;
+            }
+
+            var arr = document.getElementById('array').value.split(' ');
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseInt(arr[i]);
+            }
+            var resultIndex = findNumBiggerThanTwoNeighbours(arr);
+            jsConsole.writeLine(resultIndex);
+
+        }
+    </script>
+</body>
+</html>

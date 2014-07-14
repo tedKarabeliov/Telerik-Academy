@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="array">Array</label>
+    <input type="text" value="4, 1, 2, 3, 7, 6, 3, 9, 4, 5" id="array" style="width: 200px" />
+    <label for="index">Index</label>
+    <input type="number" value="2" id="index" style="width: 50px" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+            
+            function isBiggerThanNeighbours(arr, index) {
+                if (index != 0 && index != arr.length - 1) {
+
+                    if (arr[index] > arr[index - 1] &&
+                        arr[index] > arr[index + 1]) {
+
+                        return true;
+                    }
+                    return false;
+                }
+
+                return false;
+            }
+
+            var arr = document.getElementById('array').value.split(' ');
+            var index = parseInt(document.getElementById('index').value);
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseInt(arr[i]);
+            }
+            var isBigger = isBiggerThanNeighbours(arr, index);
+            jsConsole.writeLine(isBigger);
+
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="wrapper">
+        <table border="1" style="border-collapse: collapse">
+            <thead>
+                <tr><th>#</th><th>Name</th><th>Mark</th></tr>
+            </thead>
+            <tbody id="students-table">
+                <tr class="student-row">
+                    <td>{{number}}</td>
+                    <td>{{name}}</td>
+                    <td>{{mark}}</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <script src="lib/jquery-1.11.1.min.js"></script>
+        <script src="lib/handlebars.min.js"></script>
+        <script src="scripts/list-view-template-inside-dom.js"></script>
+    </div>
+</body>
+</html>

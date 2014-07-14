@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(input) {
+
+            function executePattern(arr, pattern) {
+
+                
+                var sum = 0;
+                var visited = new Array(arr.length);
+                for (var i = 0; i < visited.length; i++) {
+                    visited[i] = false;
+                }
+
+                var index = 0;
+                sum += arr[index];
+                visited[index] = true;
+
+                for (var i = 0;; i++) {
+                    index += pattern[i];
+                    if (index < 0 || index >= arr.length) {
+                        break;
+                    }
+
+                    if (visited[index] == true) {
+                        break;
+                    }
+                    sum += arr[index];
+                    visited[index] = true;
+                    if (i == pattern.length - 1) {
+                        i = -1;
+                    }
+
+                }
+                return sum;
+            }
+
+            var arr = input[0].split(', ');
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseInt(arr[i]);
+            }
+
+            var patternCount = parseInt(input[1]);
+
+            var patterns = [];
+            for (var i = 0; i < patternCount; i++) {
+                patterns.push(input[i + 2].split(', ').map(Number));
+            }
+
+            var sums = [];
+            
+            for (var i = 0; i < patterns.length; i++) {
+                sums.push(executePattern(arr, patterns[i]));
+            }
+
+            var max = sums[0];
+            for (var i = 1; i < sums.length; i++) {
+                if (sums[i] > max) {
+                    max = sums[i];
+                }
+            }
+
+            return max;
+        }
+
+        var input = ['1, 3, -6, 7, 4, 1, 12',
+                    '3',
+                    '1, 2, -3',
+                    '1, 3, -2',
+                    '1, -1'];
+
+
+        console.log(Solve(input));
+    </script>
+</body>
+</html>

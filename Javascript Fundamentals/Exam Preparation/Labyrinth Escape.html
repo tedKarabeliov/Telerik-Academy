@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(params) {
+
+            function createArrays(params) {
+                var dimensions = params[0].split(' ');
+                var rows = Math.abs(parseInt(dimensions[0]));
+                var cols = Math.abs(parseInt(dimensions[1]));
+
+                var arr = [];
+                var value = 1;
+                for (var row = 0; row < rows; row++) {
+                    arr.push(new Array(cols));
+
+                    for (var col = 0; col < cols; col++) {
+                        arr[row][col] = value;
+                        value++;
+                    }
+                }
+
+                var directions = [];
+                for (var row = 0; row < rows; row++) {
+                    directions.push(new Array(cols));
+                    var rowDirections = params[row + 2];
+
+                    for (var col = 0; col < cols; col++) {
+                        directions[row][col] = rowDirections[col];
+                    }
+                }
+
+                var visited = [];
+                for (var row = 0; row < rows; row++) {
+                    visited.push(new Array(cols));
+
+                    for (var col = 0; col < cols; col++) {
+                        visited[row][col] = false;
+                    }
+                }
+
+                return [arr, directions, visited];
+            }
+
+            function isInMatrix(arr, rowPos, colPos) {
+                if (rowPos < 0 || colPos < 0) {
+                    return false;
+                }
+                if (rowPos >= arr.length || colPos >= arr[0].length) {
+                    return false;
+                }
+                return true;
+            }
+
+            var arrays = createArrays(params);
+            var arr = arrays[0];
+            var dirs = arrays[1];
+            var visited = arrays[2];
+            var playerRow = parseInt(params[1].split(' ')[0]);
+            var playerCol = parseInt(params[1].split(' ')[1]);
+            var sum = arr[playerRow][playerCol];
+            var count = 1;
+            visited[playerRow][playerCol] = true;
+
+            while (true) {
+
+                var direction = dirs[playerRow][playerCol];
+                switch (direction) {
+                    case 'l': playerCol--; break;
+                    case 'r': playerCol++; break;
+                    case 'u': playerRow--; break;
+                    case 'd': playerRow++; break;
+                    default: break;
+                }
+
+                if (!isInMatrix(arr, playerRow, playerCol)) {
+                    return 'out ' + sum;
+                }
+
+                if (visited[playerRow][playerCol]) {
+                    return 'lost ' + count;
+                }
+
+                sum += arr[playerRow][playerCol];
+                count++;
+                visited[playerRow][playerCol] = true;
+            }
+        }
+
+        args = [
+             "5 8",
+             "0 0",
+             "rrrrrrrd",
+             "rludulrd",
+             "durlddud",
+             "urrrldud",
+             "ulllllll"];
+        console.log(Solve(args));
+    </script>
+</body>
+</html>

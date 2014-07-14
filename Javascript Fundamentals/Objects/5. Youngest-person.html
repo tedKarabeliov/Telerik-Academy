@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function findYoungestPerson(arr) {
+
+            var maxAge = Number.MIN_VALUE;
+            var maxAgeIndex = 0;
+
+            for (var i = 0; i < arr.length; i++) {
+                if (arr[i].age > maxAge) {
+                    maxAgeIndex = i;
+                }
+            }
+            console.log(arr[maxAgeIndex].firstname + ' ' + arr[maxAgeIndex].lastname);
+        }
+
+        var persons = [
+            { firstname: 'Gosho', lastname: 'Petrov', age: 32 },
+            { firstname: 'Bay', lastname: 'Ivan', age: 81 }
+        ]
+        findYoungestPerson(persons);
+
+    </script>
+</head>
+<body>
+</body>
+</html>

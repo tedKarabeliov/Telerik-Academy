@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function convert(str) {
+
+            function print() {
+
+                function getRandomInt(min, max) {
+                    return Math.floor(Math.random() * (max - min + 1)) + min;
+                }
+
+                switch (tagStack[tagStack.length - 1]) {
+                    case 'upcase': result += str[i].toUpperCase(); break;
+                    case 'lowcase': result += str[i].toLowerCase(); break;
+                    case 'mixcase':
+                        var random = getRandomInt(1, 2);
+
+                        if (random == 1)
+                            result += str[i].toUpperCase();
+                        else
+                            result += str[i].toLowerCase();
+
+                        break;
+
+                    default: result += str[i];
+                }
+            }
+
+            function tryAddTag(tag) {
+                switch (tag) {
+                    case 'upcase':
+                    case 'lowcase':
+                    case 'mixcase':
+                        tagStack.push(tag); break;
+                    case '/upcase':
+                    case '/lowcase':
+                    case '/mixcase':
+                        tagStack.pop(); break;
+                    default: break;
+
+                }
+            }
+
+            var tagStack = [];
+            var result = '';
+
+            for (var i = 0; i < str.length; i++) {
+
+                if (str[i] == '<') {
+
+                    i++;
+                    var tag = '';
+                    while (i < str.length && str[i] != '>') {
+                        tag += str[i];
+                        i++;
+                    }
+                    tryAddTag(tag);
+                }
+                else {
+                    print();
+                }
+            }
+            return result;
+
+        }
+
+        var str = 'We are <mixcase>living</mixcase> in a <upcase>yellow <mixcase>submarine</mixcase></upcase>. We <mixcase>don\'t</mixcase> have <lowcase>anything</lowcase> else.'
+        // Nested --> var str = 'We are <upcase>living</upcase> in a <upcase>yellow <lowcase>sub<upcase>ma</upcase>rine</lowcase></upcase>. We don\'t have <lowcase>anyTHING</lowcase> else.'
+        var result = convert(str);
+        console.log(result);
+    </script>
+</head>
+<body>
+    You are given a text. Write a function that changes the text in all regions
+
+</body>
+</html>

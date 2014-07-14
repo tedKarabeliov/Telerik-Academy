@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="input">Array</label>
+    <input type="text" value="4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3" id="input" style="width: 200px" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+
+            function findMaxNumber(arr) {
+                var max = Number.MIN_VALUE;
+                for (var i = 0; i < arr.length; i++) {
+                    if (arr[i] > max) {
+                        max = arr[i];
+                    }
+                }
+                return max;
+            }
+
+            var arr = document.getElementById('input').value.split(' ');
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseInt(arr[i]);
+            }
+
+            var numbers = [];
+            var times = [];
+            //4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3
+            for (var i = 0; i < arr.length != 0; i++) {
+                var currentNumber = arr[i];
+                if (numbers.indexOf(currentNumber) != -1) {
+                    continue;
+                }
+
+                numbers.push(currentNumber);
+                times.push(1);
+
+                for (var k = i + 1; k < arr.length; k++) {
+                    if (arr[k] == currentNumber) {
+                        times[times.length - 1]++;
+                    }
+                }
+            }
+
+            var resultTime = findMaxNumber(times);
+            var resultNumber = numbers[times.indexOf(resultTime)]
+
+            jsConsole.writeLine(resultNumber + " --> " + resultTime + " times")
+            
+        }
+    </script>
+</body>
+</html>

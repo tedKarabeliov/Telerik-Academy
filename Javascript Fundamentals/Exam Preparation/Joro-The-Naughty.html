@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(params) {
+
+            function isInMatrix(arr, rowPos, colPos) {
+                if (rowPos < 0 || colPos < 0) {
+                    return false;
+                }
+                if (rowPos >= arr.length || colPos >= arr[0].length) {
+                    return false;
+                }
+                return true;
+            }
+
+            function createArrays(params) {
+                var dimensionsJumps = params[0].split(' ');
+                var rows = Math.abs(parseInt(dimensionsJumps[0]));
+                var cols = Math.abs(parseInt(dimensionsJumps[1]));
+
+                var arr = [];
+                var value = 1;
+                for (var row = 0; row < rows; row++) {
+                    arr.push(new Array(cols));
+
+                    for (var col = 0; col < cols; col++) {
+                        arr[row][col] = value;
+                        value++;
+                    }
+                }
+
+                var visited = [];
+                for (var row = 0; row < rows; row++) {
+                    visited.push(new Array(cols));
+
+                    for (var col = 0; col < cols; col++) {
+                        visited[row][col] = false;
+                    }
+                }
+
+                var jumps = dimensionsJumps[2];
+                return [arr, visited, jumps];
+            }
+            
+            function Rabbit(startPos) {
+                this.rowPos = parseInt(startPos.split(' ')[0]);
+                this.colPos = parseInt(startPos.split(' ')[1]);
+                this.sum = arr[this.rowPos][this.colPos];
+                this.jumpsNumber = 0;
+
+                this.jump = function (coords) {
+                    var rowJump = parseInt(coords.split(' ')[0]);
+                    var colJump = parseInt(coords.split(' ')[1]);
+
+                    this.rowPos += rowJump;
+                    this.colPos += colJump;
+                    if (isInMatrix(arr, this.rowPos, this.colPos)) {
+                        this.sum += arr[this.rowPos][this.colPos];
+                    }
+                    this.jumpsNumber++;
+                }
+            }
+
+            var arrays = createArrays(params);
+            var arr = arrays[0];
+            var visited = arrays[1];
+
+            var jumps = Math.abs(arrays[2]);
+
+            var startPos = params[1];
+            var rabbit = new Rabbit(startPos);
+            visited[rabbit.rowPos][rabbit.colPos] = true;
+
+            for (var i = 0;; i++) {
+                rabbit.jump(params[i + 2]);
+
+                if (!isInMatrix(arr, rabbit.rowPos, rabbit.colPos)) {
+                    return 'escaped ' + rabbit.sum;
+                }
+
+                if (visited[rabbit.rowPos][rabbit.colPos]) {
+                    return 'caught ' + rabbit.jumpsNumber;
+                }
+
+                visited[rabbit.rowPos][rabbit.colPos] = true;
+                
+                if (i == jumps - 1) {
+                    i = -1;
+                }
+            }
+        }
+
+        console.log(Solve(['6 7 3', '0 0', '2 2', '-2 2', '3 -1']));
+
+    </script>
+</body>
+</html>

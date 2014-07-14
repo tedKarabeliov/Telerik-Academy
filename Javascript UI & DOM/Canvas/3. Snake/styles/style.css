@@ -1,0 +1,82 @@
+﻿body, div, button, a, canvas, table, tr, th, td, tbody, thead {
+    margin: 0;
+    padding: 0;
+}
+
+div#scoreWrapper {
+    font-size: 30px;
+    color: yellow;
+}
+
+body {
+    background: #747070;
+}
+
+    body div#wrapper {
+    }
+
+        body div#wrapper > div {
+            position: relative;
+            margin: 20px auto;
+            text-align: center;
+        }
+
+            body div#wrapper > div > button {
+                width: 100px;
+                height: 30px;
+                text-align: center;
+                font-size: 15px;
+            }
+
+        body div#wrapper a {
+            position: absolute;
+            right: 100px;
+            font-size: 20px;
+            color: #ffea00;
+            text-decoration: none;
+        }
+
+        body div#wrapper > canvas {
+            width: 900px;
+            height: 450px;
+            margin: 0 auto;
+            display: block;
+            border: 2px solid black;
+        }
+
+    body > div#wrapper > table {
+        width: 600px;
+        margin: 0 auto;
+        font-size: 25px;
+        color: #039;
+        border-collapse: collapse;
+    }
+
+        body > div#wrapper > table tr {
+            color: #669;
+            background: #e8edff;
+            border-bottom: 2px solid white;
+        }
+
+            body > div#wrapper > table tr:hover {
+                color: #fff;
+                background: #333;
+            }
+
+            body > div#wrapper > table tr th {
+                padding: 10px 5px;
+                border-top: 8px solid #aabcfe;
+                border-bottom: 2px solid white;
+                color: #669;
+                background: #b9c9fe;
+            }
+
+            body > div#wrapper > table tr td {
+                padding: 10px 5px;
+                text-align: center;
+            }
+
+                body > div#wrapper > table tr td:first-of-type {
+                    width: 50px;
+                    text-align: left;
+                }

@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(input) {
+            var stepsTaken = [];
+
+            function max(arr) {
+                var max = arr[0];
+                for (var i = 0; i < arr.length; i++) {
+                    if (arr[i] > max) {
+                        max = arr[i];
+                    }
+                }
+                return max;
+
+            }
+
+            function CalculateMoves(index) {
+
+                
+            }
+
+            var arr = input[0].split(', ').map(Number);
+            for (var i = 0; i < arr.length; i++) {
+                var stepsInterval = 1;
+                while (stepsInterval < arr.length) {
+                    var oldValue = Number.MIN_VALUE;
+                    var stepsCount = 0;
+                    for (var k = i; ; k += stepsInterval) {
+                        if (k >= arr.length) {
+                            k -= arr.length;
+                        }
+
+                        if (stepsCount != 0 && arr[k] <= oldValue) {
+                            //oldValue = Number.MIN_VALUE;
+                            stepsTaken.push(stepsCount);
+                            stepsCount = 0;
+                            break;
+                        }
+                        oldValue = arr[k];
+                        stepsCount++;
+                        stepsInterval++;
+                    }
+                }
+                return max(stepsTaken);
+            }
+        }
+
+        input = ['1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 0'];
+        console.log(Solve(input));
+    </script>
+</body>
+</html>

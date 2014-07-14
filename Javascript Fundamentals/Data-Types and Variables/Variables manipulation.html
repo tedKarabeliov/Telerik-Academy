@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var number = 5;
+        var float = 2.34;
+        var str = 'text';
+        var boolean = true;
+        var array = [1, 2, 3];
+        var object = { name: 'Pesho', age: 10 };
+        var quoted = '"How you doin?", Joey said.';
+        var nullVar = null;
+        var undefinedVar = undefined;
+
+        var vars = [];
+        vars.push(number, float, str, boolean, array, object, quoted, nullVar, undefinedVar);
+
+        for (var i = 0; i < vars.length; i++) {
+            console.log(vars[i] + ' --> ' + typeof vars[i]);
+        }
+	</script>
+</body>
+</html>

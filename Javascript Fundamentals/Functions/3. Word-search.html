@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="text">Text</label>
+    <textarea id="text">This is a tExT where there is a lot of text in the text where text is a text</textarea>
+    <label for="searchWord">Search word</label>
+    <input type="text" value="tExT" id="searchWord" style="width: 50px" />
+    <label for="caseSensitive">Case sensitive</label>
+    <input type="checkbox" id="caseSensitive"/>
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+
+            function findWord(text, searchWord, caseSensitive) {
+
+                var words = text.split(' ');
+
+                if (!caseSensitive) {
+                    searchWord = searchWord.toLowerCase();
+                    for (var i = 0; i < words.length; i++) {
+                        words[i] = words[i].toLowerCase();
+                    }
+                }
+
+                var foundWords = 0;
+                for (var i = 0; i < words.length; i++) {
+                    if (words[i] == searchWord) {
+                        foundWords++;
+                    }
+                }
+                return foundWords;
+            }
+
+            var text = document.getElementById('text').value;
+            var searchWord = document.getElementById('searchWord').value;
+            var caseSensitive = document.getElementById('caseSensitive').checked;
+
+            var wordsFound = findWord(text, searchWord, caseSensitive);
+            jsConsole.writeLine(wordsFound);
+            console.log();
+            
+        }
+    </script>
+</body>
+</html>

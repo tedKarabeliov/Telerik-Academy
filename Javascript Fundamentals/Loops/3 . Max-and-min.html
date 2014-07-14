@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="input">Number:</label>
+    <input type="text" id="number" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+            var input = document.getElementById('number');
+            var arr = input.value.split(' ');
+
+            var result = function () {
+                var max = Number.MIN_VALUE;
+                var min = Number.MAX_VALUE;
+                for (var i = 0; i < arr.length; i++) {
+                    if (arr[i] > max) {
+                        max = arr[i];
+                    }
+                    if (arr[i] < min) {
+                        min = arr[i];
+                    }
+                }
+                return [max, min];
+            };
+
+
+            jsConsole.writeLine("Max number = " + result()[0]);
+            jsConsole.writeLine("Min number = " + result()[1]);
+        }
+    </script>
+</body>
+</html>

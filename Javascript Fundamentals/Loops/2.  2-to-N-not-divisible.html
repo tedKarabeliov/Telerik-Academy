@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="input">Number:</label>
+    <input type="text" id="number" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        jsConsole.writeLine("In the browser console");
+        function onCalculateBtnClick() {
+            var N = jsConsole.readInteger("#number");
+            var output = [];
+            for (var i = 0; i < N; i++) {
+                var currentNumber = i + 1;
+                if (!((i + 1) % 3 == 0 && (i + 1) % 7 == 0)) {
+                    output.push(i + 1);
+                }
+            }
+            output.join(", ");
+            console.log(output);
+        }
+    </script>
+</body>
+</html>

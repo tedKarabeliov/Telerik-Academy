@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function group(arr, searchProp) {
+
+            var result = {};
+            for (var i = 0; i < arr.length; i++) {
+                var obj = arr[i];
+                for (var prop in obj) {
+                    if (prop == searchProp) {
+                        if (!result.hasOwnProperty(obj[prop])) {
+                            result[obj[prop]] = [];
+                        }
+                        result[obj[prop]].push(obj);
+                        break;
+                    }
+                }
+            }
+            return result;
+        }
+
+        var persons = [
+            {
+                firstName: "Pesho",
+                lastName: "Goshov",
+                age: 5
+
+            },
+
+            {
+                firstName: "Pesho",
+                lastName: "Ivanov",
+                age: 6
+            },
+
+            {
+                firstName: "Misho",
+                lastName: "Ivanov",
+                age: 5
+            },
+        ];
+
+        var groupedByFname = group(persons, 'firstName');
+        var groupedByLname = group(persons, 'lastName');
+        var groupedByAge = group(persons, 'age');
+		console.log(groupedByFname);
+		console.log(groupedByLname);
+		console.log(groupedByAge);
+
+
+    </script>
+</head>
+<body>
+</body>
+</html>

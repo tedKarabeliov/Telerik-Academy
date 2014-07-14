@@ -1,0 +1,2 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Control Structures Conditional Statements  Loops\bin\Debug\Control Structures Conditional Statements  Loops.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Control Structures Conditional Statements  Loops\obj\Debug\Control Structures Conditional Statements  Loops.csprojResolveAssemblyReference.cache

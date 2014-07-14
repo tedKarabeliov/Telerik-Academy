@@ -1,0 +1,5 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Inheritance and Polymorphism\bin\Debug\Inheritance and Polymorphism.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Inheritance and Polymorphism\bin\Debug\Inheritance and Polymorphism.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Inheritance and Polymorphism\bin\Debug\Inheritance and Polymorphism.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Inheritance and Polymorphism\obj\Debug\Inheritance and Polymorphism.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\Quality Code\Inheritance and Polymorphism\obj\Debug\Inheritance and Polymorphism.pdb

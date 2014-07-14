@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/dynamic-select.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="wrapper"></div>
+    <script src="lib/handlebars.min.js"></script>
+    <script id="template" type="text/x-handlebars-template">
+        <select>
+            {{#items}}
+            <option>{{text}}</option>
+            {{/items}}
+        </select>
+    </script>
+    <script src="scripts/dynamic-select.js"></script>
+</body>
+</html>

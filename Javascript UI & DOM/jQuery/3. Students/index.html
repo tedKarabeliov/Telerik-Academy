@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<style>
+    table {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid black;
+    }
+</style>
+<body>
+    <script src="lib/jquery-1.11.1.js"></script>
+    <script src="scripts/script.js"></script>
+    <script>
+        var students = [
+            {
+                fname: 'Peter',
+                lname: 'Ivanov',
+                grade: 3
+            },
+            {
+                fname: 'Milena',
+                lname: 'Grigorova',
+                grade: 6
+            },
+            {
+                fname: 'Gergana',
+                lname: 'Borisova',
+                grade: 12
+            },
+            {
+                fname: 'Boyko',
+                lname: 'Petrov',
+                grade: 7
+            },
+        ];
+
+        generateTable(students);
+    </script>
+</body>
+</html>

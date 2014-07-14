@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        String.prototype.findSubstring = function (substr) {
+            var self = this.toLowerCase();
+            var count = 0;
+            for (var i = 0; i < self.length; i++) {
+                if (self[i] == substr[0]) {
+                    i++;
+                    for (var k = 1; i < self.length;) {
+                        if (this[i] != substr[k]) {
+                            break;
+                        }
+                        if (k == substr.length - 1) {
+                            count++;
+                            break;
+                        }
+                        i++;
+                        k++;
+                    }
+                }
+            }
+            return count;
+        }
+
+        var str = "We are living in an yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days."
+        console.log(str.findSubstring("in"));
+
+    </script>
+</head>
+<body>
+    Write a JavaScript function that finds how many times a substring is contained in a given text <br /> (perform case insensitive search).
+</body>
+</html>

@@ -1,0 +1,17 @@
+﻿div#wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+div#wrapper #combo-box-container {
+  text-align: center;
+}
+div#wrapper #combo-box-container div.person-item {
+  margin: 0 auto;
+  border: 1px solid black;
+  width: 150px;
+  display: none;
+}
+div#wrapper #combo-box-container div.person-item.selected {
+  display: block;
+}
+/*# sourceMappingURL=comboBox.css.map */

@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <canvas id="canvas" width="500" height="300" style="border: 1px solid black; background: #3b3636" />
+    <script>
+        function drawCircle(x, y, CIRCLE_RADIUS) {
+            ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+            ctx.beginPath();
+            ctx.arc(x, y, CIRCLE_RADIUS, 0, Math.PI * 2);
+            ctx.fill();
+        }
+
+        function moveCircle(x, y) {
+            var CIRCLE_RADIUS = 20;
+            var updateX = 1;
+            var updateY = 1;
+            setInterval(function() {
+                drawCircle(x, y, CIRCLE_RADIUS);
+                x += updateX;
+                y += updateY;
+
+                if (x == canvas.width - CIRCLE_RADIUS) {
+                    updateX -= 1;
+                }
+                if (y == canvas.height - CIRCLE_RADIUS) {
+                    updateY -= 1;
+                }
+                if (x == 0 + CIRCLE_RADIUS) {
+                    updateX += 1;
+                }
+                if (y == 0 + CIRCLE_RADIUS) {
+                    updateY += 1;
+                }
+            }, 10)
+        }
+
+        var canvas = document.getElementById("canvas");
+        var ctx = canvas.getContext("2d");
+        ctx.lineWidth = 2;
+        ctx.fillStyle = '#18e922';
+        moveCircle(100, 50);
+    </script>
+</body>
+</html>

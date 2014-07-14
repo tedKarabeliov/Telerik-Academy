@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function extractEmail(str) {
+            var result = str.match('[A-Za-z0-9_]+@[A-Za-z0-9]+.[A-Za-z0-9]+', 'g');
+            return result;
+        }
+
+        var str = 'Some mail pesho@mail.bg and Misho23@abv.bg huehue';
+        console.log(extractEmail(str));
+
+
+	</script>
+</head>
+<body>
+    Write a function for extracting all email addresses from given text.
+</body>
+</html>

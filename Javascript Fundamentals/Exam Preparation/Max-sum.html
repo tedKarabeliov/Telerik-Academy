@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(params) {
+
+            function createArray() {
+                var arr = [];
+                for (var i = 0; i < N; i++) {
+                    arr.push(parseInt(params[i + 1]));
+                }
+                return arr;
+            }
+
+            function maxNumber(arr) {
+                var max = arr[0];
+                for (var i = 0; i < arr.length; i++) {
+                    if (arr[i] > max) {
+                        max = arr[i];
+                    }
+                }
+                return max;
+            }
+
+            var N = parseInt(params[0]);
+            var answer = 0;
+
+            var arr = createArray();
+            var sums = [];
+            var sum = 0;
+            //1, 6, -9, 4, 4, -2, 10, -1
+            for (var i = 0; i < arr.length; i++) {
+
+                for (var k = i; k >= 0; k--) {
+                    sum += arr[k];
+                    sums.push(sum);
+                }
+                sum = 0;
+            }
+            answer = maxNumber(sums);
+            return answer;
+        }
+        console.log(Solve(['9', '-9', '-8', '-8', '-7', '-6', '-5', '-1', '-7', '-6']));
+
+
+    </script>
+
+</body>
+</html>

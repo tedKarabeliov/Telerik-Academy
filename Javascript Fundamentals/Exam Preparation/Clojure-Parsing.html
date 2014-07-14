@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(params) {
+            var answer = 0;
+            var currentLine = 0;
+
+            var funcNames = [];
+            var funcValues = [];
+
+            function solveExpression(command) {
+
+                function Sum(numbers) {
+                    var sum = 0;
+                    for (var i = 0; i < numbers.length; i++) {
+                        sum += numbers[i];
+                    }
+                    return sum;
+                }
+
+                function Substract(numbers) {
+                    var substr = numbers[0];
+
+                    for (var i = 1; i < numbers.length; i++) {
+                        substr -= numbers[i];
+                    }
+                    return substr;
+                }
+
+                function Product(numbers) {
+                    var product = 1;
+
+                    for (var i = 0; i < numbers.length; i++) {
+                        product *= numbers[i];
+                    }
+                    return product;
+                }
+
+                function Divide(numbers) {
+                    var divide = numbers[0];
+
+                    for (var i = 1; i < numbers.length; i++) {
+                        Math.floor(divide /= numbers[i]);
+                        if (divide == Infinity) {
+                            throw new Error('Division by zero! At Line:' + currentLine);
+                        }
+                    }
+                    return Math.floor(divide);
+                }
+
+                var numbers = [];
+                for (var i = 1; i < command.length; i++) {
+                    var isDigit = command[i].charAt(0).toLowerCase() == command[i].charAt(0).toUpperCase();
+                    if (isDigit) {
+                        numbers.push(parseInt(command[i]));
+                    }
+                    else {
+                        command[i] = command[i].replace(')', '');
+                        numbers.push(funcValues[funcNames.indexOf(command[i])]);
+                    }
+                    
+                }
+
+                var sign = command[0][1];
+                switch (sign) {
+                    case '+': return Sum(numbers);
+                    case '-': return Substract(numbers);
+                    case '*': return Product(numbers);
+                    case '/': return Divide(numbers);
+                    default: return;
+                }
+            }
+
+            function defineFunction(command) {
+
+                funcNames.push(command[1]);
+
+                var value;
+                if (command[2][0] == '(') {
+                    value = solveExpression(command.splice(2));
+                }
+                else {
+                    value = parseInt(command[2]);
+                }
+
+                funcValues.push(value);
+            }
+            try {
+                for (var i = 0; i < params.length; i++) {
+                    currentLine++;
+                    var command = params[i].replace(/\s+/g, ' ').split(' ');
+
+                    if (command[0] == '(def') {
+                        defineFunction(command);
+                    }
+                    else {
+                        answer = solveExpression(command);
+                    }
+                }
+            }
+
+            catch (error) {
+                return error.message;
+            }
+            
+            return answer;
+            
+        }
+        console.log(Solve(['(* 2 2)']));
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        div {
+            text-align: center;
+        }
+
+        svg {
+            border: 1px solid black;
+            background: #001941;
+            width: 355px;
+            height: 220px;
+        }
+    </style>
+</head>
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" id="svg">
+        <text x="33" y="28" font-family="Arial" font-size="15" fill="#B9C2D2">Start</text>
+        <text x="303" y="23" font-family="Arial" font-size="7" fill="#B9C2D2">Richard</text>
+        <image x="330" y="17" width="10" height="10" xlink:href="images/male.png" />
+    </svg>
+
+    <script>
+        var svg = document.getElementById('svg');
+
+        function drawBox(x, y, color, size) {
+            var box = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+            box.setAttribute('x', x);
+            box.setAttribute('y', y);
+            if (size === 'small') {
+                box.setAttribute('width', 33);
+            }
+            else if (size === 'big') {
+                box.setAttribute('width', 68);
+            }
+            box.setAttribute('height', 33);
+            box.setAttribute('fill', '#' + color);
+            svg.appendChild(box);
+        }
+
+        function drawImage(x, y, href) {
+            var image = document.createElementNS('http://www.w3.org/2000/svg', 'image');
+            image.setAttribute('x', x);
+            image.setAttribute('y', y);
+            image.setAttribute('width', 25)
+            image.setAttribute('height', 25);
+            image.setAttributeNS('http://www.w3.org/1999/xlink', 'href', href);
+            svg.appendChild(image);
+        }
+
+        drawBox(33, 52, '2E89F0', 'small');
+        drawBox(68, 52, '54A61D', 'small');
+        drawBox(103, 52, 'AB1F3A', 'big');
+        drawBox(173, 52, '009619', 'big');
+
+        drawBox(33, 87, '593E9B', 'small');
+        drawBox(68, 87, '3B6EEB', 'small');
+        drawBox(103, 87, '583E99', 'big');
+        drawBox(173, 87, 'D9532D', 'big');
+
+        drawBox(33, 122, 'D24C27', 'big');
+        drawBox(103, 122, '009619', 'big');
+        drawBox(173, 122, '000100', 'small');
+        drawBox(208, 122, '64AE1B', 'small');
+
+        drawBox(33, 157, '1F7982', 'big');
+        drawBox(103, 157, '2E87EF', 'big');
+        drawBox(173, 157, 'AB1F3A', 'small');
+        drawBox(208, 157, '5CA717', 'small');
+
+
+        drawBox(255, 52, '603CBA', 'big');
+        drawBox(255, 87, '00A21B', 'big');
+        drawBox(255, 122, 'DA542E', 'small');
+        drawBox(290, 122, '002661', 'small');
+        drawBox(255, 157, '219FCA', 'big');
+
+        drawImage(72, 56, 'images/game-controller.jpg');
+        drawImage(72, 89, 'images/Internet-explorer.jpg');
+        drawImage(122, 92, 'images/smiley.jpg');
+        drawImage(122, 56, 'images/portrait.jpg');
+        drawImage(37, 90, 'images/rectangles.jpg');
+        drawImage(177, 162, 'images/photo.jpg');
+        drawImage(54, 125, 'images/play.jpg');
+        drawImage(124, 160, 'images/sun.jpg');
+
+        var date = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+        date.innerHTML = '12';
+        date.setAttribute('x', '210');
+        date.setAttribute('y', '70');
+        date.setAttribute('font-family', 'Arial');
+        date.setAttribute('font-size', '20');
+        date.setAttribute('fill', '#B9C2D2');
+        svg.appendChild(date);
+    </script>
+</body>
+</html>

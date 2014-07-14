@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="array">Array</label>
+    <input type="text" value="1, 2, 2, 5, 7, 14, 15, 15, 17, 22" id="array" style="width: 200px" />
+    <label for="number">Number</label>
+    <input type="number" value="2" id="number" style="width: 50px" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+
+            function getNumberCount(arr, searchNum) {
+                
+                var numberCount = 0;
+                for (var i = 0; i < arr.length; i++) {
+                    if (arr[i] == searchNum) {
+                        numberCount++;
+                    }
+                }
+                return numberCount;
+            }
+
+            var arr = document.getElementById('array').value.split(' ');
+            var searchNum = parseInt(document.getElementById('number').value);
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseInt(arr[i]);
+            }
+            var numberCount = getNumberCount(arr, searchNum);
+            jsConsole.writeLine(numberCount);
+        }
+    </script>
+</body>
+</html>

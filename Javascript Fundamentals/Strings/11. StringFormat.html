@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function stringFormat(str) {
+
+            if (arguments.length != 1) {
+                for (var i = 0; i < arguments.length; i++) {
+                    str = str.replace(new RegExp('\\{' + i + '\\}', 'g'), arguments[i + 1]);
+                }
+            }
+            return str;
+        }
+
+        var str1 = stringFormat('Hello {0}!', 'Peter');
+        console.log(str1);
+
+        var format = "{0}, {1}, {0} text {2}";
+        var str2 = stringFormat(format, 1, "Pesho", "Gosho");
+        console.log(str2);
+
+
+    </script>
+</head>
+<body>
+    Write a function that formats a string using placeholders
+</body>
+</html>

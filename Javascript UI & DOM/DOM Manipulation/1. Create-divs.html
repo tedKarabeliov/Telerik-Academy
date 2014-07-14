@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    Write a script that selects all the div nodes that are directly inside other div elements <br />
+    Create a function using querySelectorAll() <br />
+    Create a function using getElementsByTagName() <br />
+    <div>
+        <div></div>
+        <div></div>
+    </div>
+    <div></div>
+    <div>
+        <div></div>
+    </div>
+    <script>
+        function SelectUsingQuerySelectorAll() {
+            var divs = document.querySelectorAll('div > div');
+            return divs;
+        }
+
+        function SelectUsingGetElementsByTagName() {
+            var divs = document.querySelectorAll('div');
+            var nestedDivs = [];
+            for (var i = 0; i < divs.length; i++) {
+
+                var currentNestedDivs = divs[i].getElementsByTagName('div');
+                for (var k = 0; k < currentNestedDivs.length; k++) {
+                    nestedDivs.push(currentNestedDivs[k]);
+                }
+            }
+        }
+
+        var divs = SelectUsingQuerySelectorAll();
+        var sameDivs = varSelectUsingGetElementsByTagName();
+    </script>
+</body> 
+</html>

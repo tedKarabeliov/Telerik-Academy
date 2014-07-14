@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function hasProperty(obj, searchProp) {
+            for (var prop in obj) {
+                if (prop == searchProp)
+                    return true;
+            }
+            return false;
+        }
+
+        var obj = { fname: "Pesho", lname: "Goshov" };
+        var hasName = hasProperty(obj, "fname");
+        var hasAge = hasProperty(obj, "age");
+        console.log(hasName);
+        console.log(hasAge);
+    </script>
+</head>
+<body>
+</body>
+</html>

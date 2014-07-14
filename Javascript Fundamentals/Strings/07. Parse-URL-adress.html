@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function extractURL(str) {
+           
+            var protocol = '';
+            var server = '';
+            var resource = '';
+
+            //Extract protocol
+            for (var i = 0; i < str.length; i++) {
+                var arr = str.split('://');
+                protocol = arr[0];
+                break;
+            }
+
+            //Extract server and resource
+            for (var i = 0; i < arr[1].length; i++) {
+                if (arr[1][i] == '/') {
+                    server = arr[1].substring(0, i);
+                    resource = arr[1].substring(i, arr[1].length);
+                    break;
+                }
+            }
+
+            return {
+                protocol: protocol,
+                server: server,
+                resource: resource
+            };
+        }
+
+        var str = 'http://www.devbg.org/forum/index.php';
+        var obj = extractURL(str);
+        console.log(obj);
+
+    </script>
+</head>
+<body>
+    Write a script that parses an URL address 
+</body>
+</html>

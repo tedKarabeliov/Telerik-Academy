@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Quadratic equation</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="input">a:</label>
+    <input type="text" id="a" />
+    <label for="input">b:</label>
+    <input type="text" id="b" />
+    <label for="input">c:</label>
+    <input type="text" id="c" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+            var a = jsConsole.readFloat("#a");
+            var b = jsConsole.readFloat("#b");
+            var c = jsConsole.readFloat("#c");
+            jsConsole.writeLine("Given equation: " + a + "x² + " + b + "x + " + c + " = 0");
+            var discrim = Math.pow(b, 2) - 4 * a * c;
+            if (discrim >= 0) {
+                var x1 = ((b * (-1)) + Math.sqrt(discrim)) / (2 * a);
+                if (discrim != 0) {
+                    var x2 = ((b * (-1)) - Math.sqrt(discrim)) / (2 * a);
+                    jsConsole.writeLine("x1 = " + x1);
+                    jsConsole.writeLine("x2 = " + x2);
+                }
+                else {
+                    jsConsole.writeLine("x = " + x1);
+                }
+            }
+            
+            else {
+                jsConsole.writeLine("No roots");
+            }
+
+        }
+    </script>
+</body>
+</html>

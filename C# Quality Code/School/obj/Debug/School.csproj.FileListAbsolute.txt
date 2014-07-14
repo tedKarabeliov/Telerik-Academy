@@ -1,0 +1,6 @@
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Quality Code\School\bin\Debug\School.exe.config
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Quality Code\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Quality Code\School\bin\Debug\School.exe
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Quality Code\School\bin\Debug\School.pdb
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Quality Code\School\obj\Debug\School.exe
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\Quality Code\School\obj\Debug\School.pdb

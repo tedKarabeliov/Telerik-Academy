@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        var str = 'Some palyndromes ABBA ablqbldsada and some more exe huehue lamal huehue';
+        var arr = str.split(' ');
+        var result = [];
+
+        for (var i = 0; i < arr.length; i++) {
+            var currentWord = arr[i];
+
+            var left = currentWord.length % 2 == 0 ? Math.floor((currentWord.length - 1) / 2) :  Math.floor(currentWord.length / 2);
+            var right = Math.floor(currentWord.length / 2);
+
+            while (true) {
+                if (left == 0) {
+                    if (currentWord[left] == currentWord[right]) {
+                        result.push(currentWord);
+                    }
+                    break;
+                }
+                if (currentWord[left] != currentWord[right]) {
+                    break;
+                }
+                left--;
+                right++;
+            }
+        }
+        console.log(result);
+
+    </script>
+</head>
+<body>
+    Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".
+</body>
+</html>

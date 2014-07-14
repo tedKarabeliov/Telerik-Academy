@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number">Number</label>
+    <input type="number" value="256" id="number" style="width: 50px" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+
+            function reverseDigits(number) {
+                number = number.toString();
+                var result = "";
+                for (var i = number.length - 1; i >= 0; i--) {
+                    result += number[i];
+                }
+                return Number(result);
+                
+            }
+
+            var number = parseInt(document.getElementById('number').value);
+            var result = reverseDigits(number);
+            jsConsole.writeLine(result);
+
+        }
+    </script>
+</body>
+</html>

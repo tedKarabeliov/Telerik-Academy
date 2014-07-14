@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    Create a function that gets the value of < input type="color" > and sets the background <br />
+    of the body to this value
+    <br />
+    <input type="color" id="the-input" />
+    <button onclick="onSetBackgroundButtonClick(this)">Set Background</button>
+    <script>
+        function onSetBackgroundButtonClick() {
+            var input = document.getElementById('the-input');
+            document.body.style.background = input.value;
+        }
+    </script>
+</body>
+</html>

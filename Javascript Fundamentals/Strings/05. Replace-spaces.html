@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function replaceSpaces(str) {
+
+            var result = '';
+            for (var i = 0; i < str.length; i++) {
+
+                if (str[i] == ' ')
+                    result += '&nbsp';
+                else
+                    result += str[i];
+            }
+            return result;
+        }
+
+        var str = 'Some text with non-breaking white spaces';
+        str = replaceSpaces(str);
+        console.log(str);
+    </script>
+</head>
+<body>
+    Write a function that replaces non breaking white-spaces in a text with &.nbsp without the dot
+</body>
+</html>

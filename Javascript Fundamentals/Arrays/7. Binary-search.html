@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="array">Array</label>
+    <input type="text" value="1, 2, 2, 5, 7, 14, 15, 15, 17, 22" id="array" style="width: 200px" />
+    <label for="searchNum">Search number</label>
+    <input type="number" value="17" id="searchNum" style="width: 50px" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+
+            function getRandomInt(min, max) {
+                return Math.floor(Math.random() * (max - min + 1)) + min;
+            }
+
+            function binarySearch(arr, searchNum, start, end) {
+                start = start || 0;
+                end = end || arr.length - 1;
+                var pilon = getRandomInt(start, end);
+                var currentNumber = arr[pilon];
+
+                if (searchNum == currentNumber) {
+                    jsConsole.writeLine("Found at index " + pilon);
+                    return;
+                }
+
+                if (start == end) {
+                    jsConsole.writeLine("Not Found");
+                    return;
+                }
+
+                if (searchNum < currentNumber) {
+                    binarySearch(arr, searchNum, start, pilon - 1);
+                }
+                else if (searchNum > currentNumber) {
+                    binarySearch(arr, searchNum, pilon + 1, end);
+                }
+            }
+
+            var arr = document.getElementById('array').value.split(' ');
+            var searchNum = parseInt(document.getElementById('searchNum').value);
+            for (var i = 0; i < arr.length; i++) {
+                arr[i] = parseInt(arr[i]);
+            }
+            binarySearch(arr, searchNum);
+        }
+    </script>
+</body>
+</html>
