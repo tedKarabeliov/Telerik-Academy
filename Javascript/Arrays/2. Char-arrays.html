@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="input1">Array 1</label>
+    <input type="text" value="Word" id="input1" />
+    <label for="input2">Array 1</label>
+    <input type="text" value="Abba" id="input2" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+            var str1 = document.getElementById('input1').value;
+            var str2 = document.getElementById('input2').value;
+
+            var str1Value = 0;
+            for (var i = 0; i < str1.length; i++) {
+
+                str1Value += str1.charCodeAt(i);
+            }
+
+            var str2Value = 0;
+            for (var i = 0; i < str2.length; i++) {
+
+                str2Value += str2.charCodeAt(i);
+            }
+
+            jsConsole.write(str1)
+            if (str1Value > str2Value) {
+                jsConsole.write(' > ');
+            }
+            else if (str1Value < str2Value) {
+                jsConsole.write(' < ');
+            }
+            else {
+                jsConsole.write(' = ');
+            }
+            jsConsole.writeLine(str2);
+        }
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Biggest Number</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="input">First number:</label>
+    <input type="text" id="firstNumber" />
+    <label for="input">Second number:</label>
+    <input type="text" id="secondNumber" />
+    <label for="input">Third number:</label>
+    <input type="text" id="thirdNumber" />
+    <a href="#" onclick="onCalculateBtnClick()">Calculate</a>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function onCalculateBtnClick() {
+            var number1 = jsConsole.readInteger("#firstNumber");
+            var number2 = jsConsole.readInteger("#secondNumber");
+            var number3 = jsConsole.readInteger("#thirdNumber");
+
+            var max = number1;
+            if (number2 > max || number3 > max) {
+
+                if (number2 > max) {
+                    max = number2;
+                }
+                if (number3 > max) {
+                    max = number3;
+                }
+            }
+            
+            jsConsole.writeLine("Biggest number: " + max);
+
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Arrays\bin\Arrays.dll.config
+C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Arrays\bin\Arrays.dll
+C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Arrays\bin\Arrays.pdb
+C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Arrays\bin\Arrays.xml
+C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Arrays\obj\Debug\Arrays.Resources.resources
+C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Arrays\obj\Debug\Arrays.vbproj.GenerateResource.Cache
+C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Arrays\obj\Debug\Arrays.dll
+C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Arrays\obj\Debug\Arrays.xml
+C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Arrays\obj\Debug\Arrays.pdb

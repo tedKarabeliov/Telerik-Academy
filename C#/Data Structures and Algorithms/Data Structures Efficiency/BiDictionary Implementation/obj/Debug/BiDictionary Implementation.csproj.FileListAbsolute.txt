@@ -1,0 +1,7 @@
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\BiDictionary Implementation\bin\Debug\BiDictionary Implementation.exe.config
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\BiDictionary Implementation\bin\Debug\BiDictionary Implementation.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\BiDictionary Implementation\bin\Debug\BiDictionary Implementation.pdb
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\BiDictionary Implementation\bin\Debug\PowerCollections.dll
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\BiDictionary Implementation\bin\Debug\PowerCollections.xml
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\BiDictionary Implementation\obj\Debug\BiDictionary Implementation.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\BiDictionary Implementation\obj\Debug\BiDictionary Implementation.pdb

@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JS Console - Example</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <label for="x-coord">X-coord:</label>
+        <input type="text" id="x-coord" />
+    </div>
+    <div>
+        <label for="y-coord">Y-coord:</label>
+        <input type="text" id="y-coord" />
+    </div>
+    <div>
+        <a href="#" onclick="onIsPointInCircleAndOutOfRectangleButtonClick()">Check</a>
+    </div>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+
+    <script>
+        function onIsPointInCircleAndOutOfRectangleButtonClick() {
+            var circleRadius = 3;
+            var circleCenterX = 1;
+            var circleCenterY = 1;
+            var XCoord = jsConsole.readInteger("#x-coord");
+            var YCoord = jsConsole.readInteger("#y-coord");
+
+            var isInCircle = Math.pow((XCoord - circleCenterX), 2) + Math.pow((YCoord - circleCenterY), 2) <= Math.pow(circleRadius, 2);
+            var isInRectangle = (XCoord >= -1 && XCoord <= 5) && (YCoord >= -1 && YCoord <= 1);
+            if (isInCircle && !isInRectangle) {
+                jsConsole.writeLine(true);
+            }
+            else {
+                jsConsole.writeLine(false);
+            }
+        }
+    </script>
+</body>
+</html>

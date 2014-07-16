@@ -1,0 +1,8 @@
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Students\bin\Debug\Students.exe.config
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Students\bin\Debug\Students.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Students\bin\Debug\Students.pdb
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Students\bin\Debug\PowerCollections.dll
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Students\bin\Debug\PowerCollections.xml
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Students\obj\Debug\Students.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Students\obj\Debug\Students.pdb

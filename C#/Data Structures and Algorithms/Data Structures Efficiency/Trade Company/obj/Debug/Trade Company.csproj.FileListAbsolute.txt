@@ -1,0 +1,8 @@
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Trade Company\bin\Debug\Trade Company.exe.config
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Trade Company\bin\Debug\Trade Company.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Trade Company\bin\Debug\Trade Company.pdb
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Trade Company\bin\Debug\PowerCollections.dll
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Trade Company\bin\Debug\PowerCollections.xml
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Trade Company\obj\Debug\Trade Company.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Trade Company\obj\Debug\Trade Company.exe
+C:\Users\Tedski\documents\visual studio 2013\Projects\Data Structures Efficiency\Trade Company\obj\Debug\Trade Company.pdb

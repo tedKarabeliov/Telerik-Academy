@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JS Console - Example</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <label for="a">a:</label>
+        <input type="text" id="a" />
+    </div>
+    <div>
+        <label for="b">b:</label>
+        <input type="text" id="b" />
+    </div>
+    <div>
+        <label for="h">h:</label>
+        <input type="text" id="h" />
+    </div>
+    <div>
+        <a href="#" onclick="onCalculateTrapezoidAreaButtonClick()">Calculate</a>
+    </div>
+
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+
+    <script>
+        function onCalculateTrapezoidAreaButtonClick() {
+            var a = jsConsole.readInteger("#a");
+            var b = jsConsole.readInteger("#b");
+            var h = jsConsole.readInteger("#h");
+            jsConsole.writeLine((a + b) / 2 * h);
+        }
+    </script>
+</body>
+</html>
