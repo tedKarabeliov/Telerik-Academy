@@ -1,9 +1,0 @@
-C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Loops\bin\Loops.dll.config
-C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Loops\bin\Loops.dll
-C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Loops\bin\Loops.pdb
-C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Loops\bin\Loops.xml
-C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Loops\obj\Debug\Loops.Resources.resources
-C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Loops\obj\Debug\Loops.vbproj.GenerateResource.Cache
-C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Loops\obj\Debug\Loops.dll
-C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Loops\obj\Debug\Loops.xml
-C:\Users\Tedski\documents\visual studio 2013\Projects\Javascript\Loops\obj\Debug\Loops.pdb

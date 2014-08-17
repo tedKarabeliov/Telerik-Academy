@@ -1,9 +1,0 @@
-c:\users\tedski\documents\visual studio 2013\Projects\Javascript\Operators and expressions\bin\Operators and expressions.dll.config
-c:\users\tedski\documents\visual studio 2013\Projects\Javascript\Operators and expressions\bin\Operators and expressions.dll
-c:\users\tedski\documents\visual studio 2013\Projects\Javascript\Operators and expressions\bin\Operators and expressions.pdb
-c:\users\tedski\documents\visual studio 2013\Projects\Javascript\Operators and expressions\bin\Operators and expressions.xml
-c:\users\tedski\documents\visual studio 2013\Projects\Javascript\Operators and expressions\obj\Debug\Operators_and_expressions.Resources.resources
-c:\users\tedski\documents\visual studio 2013\Projects\Javascript\Operators and expressions\obj\Debug\Operators and expressions.vbproj.GenerateResource.Cache
-c:\users\tedski\documents\visual studio 2013\Projects\Javascript\Operators and expressions\obj\Debug\Operators and expressions.dll
-c:\users\tedski\documents\visual studio 2013\Projects\Javascript\Operators and expressions\obj\Debug\Operators and expressions.xml
-c:\users\tedski\documents\visual studio 2013\Projects\Javascript\Operators and expressions\obj\Debug\Operators and expressions.pdb
