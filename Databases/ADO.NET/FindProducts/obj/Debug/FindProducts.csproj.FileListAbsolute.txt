@@ -1,0 +1,5 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\FindProducts\bin\Debug\FindProducts.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\FindProducts\bin\Debug\FindProducts.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\FindProducts\bin\Debug\FindProducts.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\FindProducts\obj\Debug\FindProducts.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\FindProducts\obj\Debug\FindProducts.pdb
