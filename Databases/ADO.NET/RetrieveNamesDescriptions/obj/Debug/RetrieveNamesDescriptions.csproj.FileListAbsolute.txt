@@ -1,0 +1,5 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveNamesDescriptions\bin\Debug\RetrieveNamesDescriptions.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveNamesDescriptions\bin\Debug\RetrieveNamesDescriptions.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveNamesDescriptions\bin\Debug\RetrieveNamesDescriptions.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveNamesDescriptions\obj\Debug\RetrieveNamesDescriptions.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveNamesDescriptions\obj\Debug\RetrieveNamesDescriptions.pdb

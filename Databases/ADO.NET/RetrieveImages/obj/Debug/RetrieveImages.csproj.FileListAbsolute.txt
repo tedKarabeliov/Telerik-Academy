@@ -1,0 +1,6 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveImages\bin\Debug\RetrieveImages.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveImages\obj\Debug\RetrieveImages.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveImages\bin\Debug\RetrieveImages.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveImages\bin\Debug\RetrieveImages.pdb
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveImages\obj\Debug\RetrieveImages.exe
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\RetrieveImages\obj\Debug\RetrieveImages.pdb

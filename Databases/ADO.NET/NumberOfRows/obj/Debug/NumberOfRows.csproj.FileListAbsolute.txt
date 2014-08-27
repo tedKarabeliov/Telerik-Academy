@@ -1,0 +1,2 @@
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\NumberOfRows\bin\Debug\NumberOfRows.exe.config
+C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\NumberOfRows\obj\Debug\NumberOfRows.csprojResolveAssemblyReference.cache

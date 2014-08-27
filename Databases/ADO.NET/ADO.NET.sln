@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSample", "ExcelSample\ExcelSample.csproj", "{A88B0E2A-A439-4535-B75C-DEF8889029D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetNumberOfRows", "NumberOfRows\GetNumberOfRows.csproj", "{A7147976-FA5D-42EB-882B-34A7048AC1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetrieveNamesDescriptions", "RetrieveNamesDescriptions\RetrieveNamesDescriptions.csproj", "{F2FA43C4-5C20-4527-B328-154CA0E5760A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetrieveProductsAndCategories", "RetrieveProductsAndCategories\RetrieveProductsAndCategories.csproj", "{43C9EE29-15DA-42CD-A652-82A8BB948FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddNewProductToDB", "AddNewProduct\AddNewProductToDB.csproj", "{AA29A608-F364-4D4B-9535-F63C8638E503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetrieveImages", "RetrieveImages\RetrieveImages.csproj", "{1038D94D-099B-4876-A048-516AB4326AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindProducts", "FindProducts\FindProducts.csproj", "{4BAA3785-5C26-40A5-AE7D-10976F21E2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88B0E2A-A439-4535-B75C-DEF8889029D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88B0E2A-A439-4535-B75C-DEF8889029D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88B0E2A-A439-4535-B75C-DEF8889029D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88B0E2A-A439-4535-B75C-DEF8889029D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7147976-FA5D-42EB-882B-34A7048AC1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7147976-FA5D-42EB-882B-34A7048AC1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7147976-FA5D-42EB-882B-34A7048AC1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7147976-FA5D-42EB-882B-34A7048AC1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FA43C4-5C20-4527-B328-154CA0E5760A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FA43C4-5C20-4527-B328-154CA0E5760A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FA43C4-5C20-4527-B328-154CA0E5760A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FA43C4-5C20-4527-B328-154CA0E5760A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C9EE29-15DA-42CD-A652-82A8BB948FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C9EE29-15DA-42CD-A652-82A8BB948FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C9EE29-15DA-42CD-A652-82A8BB948FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C9EE29-15DA-42CD-A652-82A8BB948FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA29A608-F364-4D4B-9535-F63C8638E503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA29A608-F364-4D4B-9535-F63C8638E503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA29A608-F364-4D4B-9535-F63C8638E503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA29A608-F364-4D4B-9535-F63C8638E503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1038D94D-099B-4876-A048-516AB4326AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1038D94D-099B-4876-A048-516AB4326AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1038D94D-099B-4876-A048-516AB4326AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1038D94D-099B-4876-A048-516AB4326AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BAA3785-5C26-40A5-AE7D-10976F21E2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAA3785-5C26-40A5-AE7D-10976F21E2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAA3785-5C26-40A5-AE7D-10976F21E2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAA3785-5C26-40A5-AE7D-10976F21E2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
