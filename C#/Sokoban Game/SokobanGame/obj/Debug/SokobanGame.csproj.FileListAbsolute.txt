@@ -7,3 +7,9 @@ C:\Users\Tedski\Documents\Visual Studio 2013\Projects\Sokoban\SokobanGame\obj\De
 C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Sokoban Game\SokobanGame\bin\Debug\SokobanGame.exe.config
 C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Sokoban Game\SokobanGame\obj\Debug\SokobanGame.exe
 C:\Users\Tedski\Documents\GitHub\Telerik-Academy\C#\Sokoban Game\SokobanGame\obj\Debug\SokobanGame.pdb
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\C#\Sokoban Game\SokobanGame\bin\Debug\SokobanGame.exe.config
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\C#\Sokoban Game\SokobanGame\obj\Debug\SokobanGame.exe
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\C#\Sokoban Game\SokobanGame\obj\Debug\SokobanGame.pdb
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\C#\Sokoban Game\SokobanGame\bin\Debug\SokobanGame.exe
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\C#\Sokoban Game\SokobanGame\bin\Debug\SokobanGame.pdb
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\C#\Sokoban Game\SokobanGame\obj\Debug\SokobanGame.csprojResolveAssemblyReference.cache
