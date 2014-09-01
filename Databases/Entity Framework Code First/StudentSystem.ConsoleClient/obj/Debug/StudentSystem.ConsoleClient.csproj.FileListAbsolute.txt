@@ -1,0 +1,14 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Models.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Models.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb

@@ -1,0 +1,12 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\bin\Debug\EntityFramework.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\bin\Debug\EntityFramework.xml
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
