@@ -1,0 +1,8 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Proccessing JSON\Proccessing JSON\bin\Debug\Proccessing JSON.exe.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Proccessing JSON\Proccessing JSON\bin\Debug\Proccessing JSON.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Proccessing JSON\Proccessing JSON\bin\Debug\Proccessing JSON.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Proccessing JSON\Proccessing JSON\obj\Debug\Proccessing JSON.csprojResolveAssemblyReference.cache
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Proccessing JSON\Proccessing JSON\obj\Debug\Proccessing JSON.exe
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Proccessing JSON\Proccessing JSON\obj\Debug\Proccessing JSON.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Proccessing JSON\Proccessing JSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\Proccessing JSON\Proccessing JSON\bin\Debug\Newtonsoft.Json.xml

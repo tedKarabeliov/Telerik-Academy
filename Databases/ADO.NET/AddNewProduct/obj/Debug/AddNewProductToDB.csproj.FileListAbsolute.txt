@@ -3,3 +3,6 @@ C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\AddNewPro
 C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\AddNewProduct\bin\Debug\AddNewProduct.pdb
 C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\AddNewProduct\obj\Debug\AddNewProduct.exe
 C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\AddNewProduct\obj\Debug\AddNewProduct.pdb
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\Databases\ADO.NET\AddNewProduct\bin\Debug\AddNewProduct.exe.config
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\Databases\ADO.NET\AddNewProduct\obj\Debug\AddNewProduct.exe
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\Databases\ADO.NET\AddNewProduct\obj\Debug\AddNewProduct.pdb

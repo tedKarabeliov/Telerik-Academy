@@ -4,3 +4,6 @@ C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\ExcelSamp
 C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\ExcelSample\obj\Debug\ExcelSample.exe
 C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\ExcelSample\obj\Debug\ExcelSample.pdb
 C:\Users\Dancho Notebook\documents\visual studio 2013\Projects\ADO.NET\ExcelSample\obj\Debug\ExcelSample.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\Databases\ADO.NET\ExcelSample\bin\Debug\ExcelSample.exe.config
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\Databases\ADO.NET\ExcelSample\obj\Debug\ExcelSample.exe
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\Databases\ADO.NET\ExcelSample\obj\Debug\ExcelSample.pdb

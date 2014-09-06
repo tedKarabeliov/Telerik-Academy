@@ -12,3 +12,6 @@ c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework 
 c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
 c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
 c:\users\dancho notebook\documents\visual studio 2013\Projects\Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\Databases\Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\Databases\Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+C:\Users\Dancho Notebook\Documents\GitHub\Telerik-Academy\Databases\Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb
