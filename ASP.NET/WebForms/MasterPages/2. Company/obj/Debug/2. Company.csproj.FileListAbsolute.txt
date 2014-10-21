@@ -1,0 +1,5 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\2. Company\bin\_2.Company.dll.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\2. Company\bin\_2.Company.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\2. Company\bin\_2.Company.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\2. Company\obj\Debug\_2.Company.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\2. Company\obj\Debug\_2.Company.pdb

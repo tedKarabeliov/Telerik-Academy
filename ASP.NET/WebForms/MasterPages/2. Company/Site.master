@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs"
+    Inherits="_2.Company.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="mainForm" runat="server">
+        <header>
+            <h1>Welcome to our international company</h1>
+        </header>
+        <aside id="nav-languages">
+            <ul>
+                <li>
+                    <a href="~/HomeEn.aspx" runat="server">English</a>
+                </li>
+                <li>
+                    <a href="~/HomeBg.aspx" runat="server">Bulgarian</a>
+                </li>
+            </ul>
+        </aside>
+        <div id="main">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderLanguage" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer>
+            <p>Some ugly footer</p>
+        </footer>
+    </form>
+</body>
+</html>

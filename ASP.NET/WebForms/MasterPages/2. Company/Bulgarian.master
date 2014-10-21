@@ -1,0 +1,18 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Bulgarian.master.cs"
+    MasterPageFile="~/Site.master"
+    Inherits="_2.Company.Bulgarian" %>
+
+<asp:Content ID="ContentLanguage" runat="server" ContentPlaceHolderID="ContentPlaceHolderLanguage">
+    <ul id="nav-content">
+        <li>
+            <a href="~/HomeBg.aspx" runat="server">Начало</a></li>
+        <li>
+            <a href="~/AboutBg.aspx" runat="server">За нас</a>
+        </li>
+        <li>
+            <a href="~/ContactsBg.aspx" runat="server">Контакти</a>
+        </li>
+    </ul>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>

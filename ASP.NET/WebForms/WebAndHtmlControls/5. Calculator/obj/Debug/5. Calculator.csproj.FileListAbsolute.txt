@@ -1,0 +1,5 @@
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\WebForms\5. Calculator\bin\_5.Calculator.dll.config
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\WebForms\5. Calculator\bin\_5.Calculator.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\WebForms\5. Calculator\bin\_5.Calculator.pdb
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\WebForms\5. Calculator\obj\Debug\_5.Calculator.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\WebForms\5. Calculator\obj\Debug\_5.Calculator.pdb

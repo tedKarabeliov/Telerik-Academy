@@ -1,0 +1,6 @@
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\1. UserProfile\bin\_1.UserProfile.dll.config
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\1. UserProfile\bin\_1.UserProfile.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\1. UserProfile\bin\_1.UserProfile.pdb
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\1. UserProfile\obj\Debug\1. UserProfile.csprojResolveAssemblyReference.cache
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\1. UserProfile\obj\Debug\_1.UserProfile.dll
+c:\users\dancho notebook\documents\visual studio 2013\Projects\MasterPages\1. UserProfile\obj\Debug\_1.UserProfile.pdb
