@@ -1,0 +1,104 @@
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll.config
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\LibrarySystem.pdb
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Antlr3.Runtime.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\EntityFramework.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Newtonsoft.Json.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Owin.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\System.Web.Optimization.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\System.Web.Providers.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\WebGrease.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\System.Web.Optimization.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Antlr3.Runtime.pdb
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Newtonsoft.Json.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\EntityFramework.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\System.Web.Providers.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.dll
+C:\Users\Dancho Notebook\Documents\Visual Studio 2013\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll.config
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\LibrarySystem.pdb
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Antlr3.Runtime.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\EntityFramework.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Newtonsoft.Json.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Owin.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\System.Web.Optimization.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\System.Web.Providers.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\WebGrease.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\System.Web.Optimization.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Antlr3.Runtime.pdb
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Newtonsoft.Json.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\EntityFramework.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\System.Web.Providers.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.dll
+C:\Users\Tedski\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
