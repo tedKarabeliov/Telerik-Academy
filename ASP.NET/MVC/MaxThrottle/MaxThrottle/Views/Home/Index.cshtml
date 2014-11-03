@@ -1,0 +1,26 @@
+﻿@model List<MaxThrottle.Models.ManufacturerViewModel>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Car Search</h1>
+    <form class="search-form" action="Cars/Index" method="GET">
+        <select name="manufacturer" id="car-manufacturer">
+            <option value="">-</option>
+            @foreach (var manufacturer in Model)
+            {
+                <option value="@manufacturer.Id">@manufacturer.Name</option>
+            }
+        </select>
+        <select name="carmodel" id="car-model">
+            <option value="">-</option>
+        </select>
+        <select name="engine" id="car-engine">
+            <option value="">-</option>
+        </select>
+
+        <input type="submit" value="Search"/>
+    </form>
+</div>
+@Scripts.Render("~/Scripts/SiteScripts/index.js")

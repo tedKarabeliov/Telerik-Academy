@@ -1,0 +1,20 @@
+﻿@model List<MaxThrottle.Models.CarViewModel>
+<div class="jumbotron">
+    @foreach (var car in Model)
+    {
+        <div>
+            <h2>
+                <a href="~/Cars/Details?id=@car.Id">
+                    <span>@car.Manufacturer</span>
+                    <span>@car.CarModel</span>
+                    <span>@car.Engine</span>
+                </a>
+            </h2>
+
+            <img src="~/Content/CarImages/@(car.Id).jpg" alt="No image available"
+                 onerror="this.src = '../../Content/CarImages/No_image_available.png'"
+                 width="240px" height="180px" />
+        </div>
+    }
+</div>
+

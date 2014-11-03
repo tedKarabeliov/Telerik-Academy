@@ -1,0 +1,51 @@
+﻿@model List<MaxThrottle.Models.ManufacturerViewModel>
+<div>
+    <form class="create-form" method="POST" enctype="multipart/form-data">
+        <div>
+            <select name="manufacturer" id="car-manufacturer">
+                <option>-</option>
+                @foreach (var manufacturer in Model)
+                {
+                    <option value="@manufacturer.Id">@manufacturer.Name</option>
+                }
+            </select>
+        </div>
+        <div>
+            <select name="carmodel" id="car-model">
+                <option>-</option>
+            </select>
+        </div>
+        <div>
+            <select name="engine" id="car-engine">
+                <option>-</option>
+            </select>
+        </div>
+        <div>
+            @Html.DropDownList("yearOfProduction", (SelectList)ViewBag.Years, "-");
+        </div>
+        <div>
+            <label for="price">Price</label>
+            <input type="text" id="price" name="price" />
+        </div>
+        <div>
+            <label for="price">Kilometers ran</label>
+            <input type="text" id="kilometers-ran" name="kilometersRan" />
+        </div>
+        <div>
+            <label for="leather-interior">Leather interior</label>
+            <input type="checkbox" id="leather-interior" name="leatherInterior" value="True"/>
+
+            <label for="air-conditioner">Air Conditioner</label>
+            <input type="checkbox" id="air-conditioner" name="airConditioner" value="True"/>
+        </div>
+        <div>
+            <input type="file" id="car-picture" name="carPicture" />
+            <img src="#" id="preview-car-picture" alt="Your Image"
+                 onerror="this.src = '../../Content/CarImages/No_image_available.png'"
+                 width="240" height="180" />
+        </div>
+        <input type="submit" value="Create" />
+    </form>
+</div>
+@Scripts.Render("~/Scripts/SiteScripts/index.js")
+@Scripts.Render("~/Scripts/SiteScripts/imagePreviewer.js")

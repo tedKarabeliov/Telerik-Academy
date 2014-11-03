@@ -1,0 +1,22 @@
+﻿@model MaxThrottle.Models.CarViewModel
+<div>
+    <div>
+        <img src="~/Content/CarImages/@(Model.Id).jpg"
+             onerror="this.src = '../../Content/CarImages/No_image_available.png'"
+             width="240px" height="180px" />
+    </div>
+    <div>
+        <h2>
+            <span>@Model.Manufacturer</span>
+            <span>@Model.CarModel</span>
+            <span>@Model.Engine</span>
+        </h2>
+    </div>
+    <div>
+        @Model.YearOfProduction
+        @Model.Price
+        @Model.KilometersRan
+        @Model.LeatherInterior
+        @Model.AirConditioner
+    </div>
+</div>
