@@ -1,6 +1,8 @@
 namespace MaxThrottle.Data.Migrations
 {
     using MaxThrottle.Model;
+    using Microsoft.AspNet.Identity;
+    using Microsoft.AspNet.Identity.EntityFramework;
     using System;
     using System.Collections.Generic;
     using System.Data.Entity;
@@ -19,6 +21,7 @@ namespace MaxThrottle.Data.Migrations
         {
             if (!context.Manufacturers.Any())
             {
+                this.AssignUsersAndRoles(context);
                 this.GetManufacturers(context).ForEach(m => context.Manufacturers.AddOrUpdate(m));
                 context.SaveChanges();
                 this.GetCarModels(context).ForEach(cm => context.CarModels.AddOrUpdate(cm));
@@ -28,6 +31,31 @@ namespace MaxThrottle.Data.Migrations
                 this.GetCars(context).ForEach(c => context.Cars.AddOrUpdate(c));
 
                 context.SaveChanges();
+            }
+        }
+
+        private void AssignUsersAndRoles(MaxThrottleDbContext context)
+        {
+            if (!context.Roles.Any(r => r.Name == "admin"))
+            {
+                var store = new RoleStore<IdentityRole>(context);
+                var manager = new RoleManager<IdentityRole>(store);
+                var role = new IdentityRole { Name = "admin" };
+
+                manager.Create(role);
+            }
+
+            if (!context.Users.Any(u => u.UserName == "pesho@pesho.com"))
+            {
+                var store = new UserStore<User>(context);
+                var manager = new UserManager<User>(store);
+                var adminUser = new User { UserName = "pesho@pesho.com", Email = "pesho@pesho.com", EmailConfirmed = true };
+
+                manager.Create(adminUser, "peshopesho");
+                manager.AddToRole(adminUser.Id, "admin");
+
+                var regularUser = new User { UserName = "misho@misho.com", Email = "misho@misho.com", EmailConfirmed = true };
+                manager.Create(regularUser, "mishomisho");
             }
         }
 
@@ -169,10 +197,12 @@ namespace MaxThrottle.Data.Migrations
                     KilometersRan = 218000,
                     LeatherInterior = true,
                     YearOfProduction = 2000,
+                    DateOfCreation = DateTime.Now,
                     ImageUrl = "../CarImages/1.jpg",
                     ManufacturerId = 1,
                     CarModelId = 1,
-                    EngineId = 2
+                    EngineId = 2,
+                    UserId = context.Users.FirstOrDefault(u => u.UserName == "pesho@pesho.com").Id
                 },
                 new Car
                 {
@@ -180,18 +210,22 @@ namespace MaxThrottle.Data.Migrations
                     KilometersRan = 110000,
                     LeatherInterior = true,
                     YearOfProduction = 2008,
+                    DateOfCreation = DateTime.Now,
                     ManufacturerId = 2,
                     CarModelId = 4,
-                    EngineId = 3
+                    EngineId = 3,
+                    UserId = context.Users.FirstOrDefault(u => u.UserName == "pesho@pesho.com").Id
                 },
                 new Car
                 {
                     Price = 1400,
                     KilometersRan = 1000000,
                     YearOfProduction = 1997,
+                    DateOfCreation = DateTime.Now,
                     ManufacturerId = 3,
                     CarModelId = 7,
-                    EngineId = 4
+                    EngineId = 4,
+                    UserId = context.Users.FirstOrDefault(u => u.UserName == "pesho@pesho.com").Id
                 }
             };
         }

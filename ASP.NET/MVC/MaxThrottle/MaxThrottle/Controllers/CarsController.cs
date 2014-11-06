@@ -6,29 +6,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Security;
 
 namespace MaxThrottle.Controllers
 {
-    public class CarsController : Controller
+    public class CarsController : BaseController
     {
-        public ActionResult Index(string manufacturer, string carModel, string engine)
+        public ActionResult Index(string manId, string modelId, string engId)
         {
-            var db = new MaxThrottleData();
-
-            var cars = db.Cars.All();
-            if (!String.IsNullOrEmpty(manufacturer))
+            var cars = this.Data.Cars.All();
+            if (!String.IsNullOrEmpty(manId))
             {
-                var manufacturerId = int.Parse(manufacturer);
+                var manufacturerId = int.Parse(manId);
                 cars = cars.Where(c => c.ManufacturerId == manufacturerId);
 
-                if (!String.IsNullOrEmpty(carModel))
+                if (!String.IsNullOrEmpty(modelId))
                 {
-                    var carModelId = int.Parse(carModel);
+                    var carModelId = int.Parse(modelId);
                     cars = cars.Where(c => c.CarModelId == carModelId);
 
-                    if (!String.IsNullOrEmpty(engine))
+                    if (!String.IsNullOrEmpty(engId))
                     {
-                        var engineId = int.Parse(engine);
+                        var engineId = int.Parse(engId);
                         cars = cars.Where(c => c.EngineId == engineId);
                     }
                 }
@@ -47,10 +46,21 @@ namespace MaxThrottle.Controllers
             return View(carsToReturn);
         }
 
+        [HttpPost]
+        public ActionResult Index(CarSearchViewModel carSearch)
+        {
+            var manufacturerIdInput = carSearch.ManufacturerId;
+            var carModelIdInput = carSearch.CarModelId;
+            var engineIdInput = carSearch.EngineId;
+
+            return RedirectToAction("Index", new { manId = manufacturerIdInput, modelId = carModelIdInput, engineId = engineIdInput });
+        }
+
         public ActionResult Details(int id)
         {
-            var db = new MaxThrottleData();
-            var car = db.Cars.All().FirstOrDefault(c => c.Id == id);
+            var car = this.Data.Cars.All().FirstOrDefault(c => c.Id == id);
+            car.TimesVisited++;
+            this.Data.SaveChanges();
 
             var viewCar = new CarViewModel
             {
@@ -61,6 +71,7 @@ namespace MaxThrottle.Controllers
                 YearOfProduction = car.YearOfProduction,
                 KilometersRan = car.KilometersRan,
                 Price = car.Price,
+                TimesVisited = car.TimesVisited,
                 LeatherInterior = car.LeatherInterior,
                 AirConditioner = car.AirConditioner
             };
@@ -70,8 +81,7 @@ namespace MaxThrottle.Controllers
 
         public JsonResult GetModels(int manufacturerId)
         {
-            var db = new MaxThrottleData();
-            var carModels = db.CarModels.All()
+            var carModels = this.Data.CarModels.All()
                 .Where(cm => cm.ManufacturerId == manufacturerId)
                 .Select(cm => new CarModelViewModel
                 {
@@ -84,9 +94,7 @@ namespace MaxThrottle.Controllers
 
         public JsonResult GetEngines(int carModelId)
         {
-            var db = new MaxThrottleData();
-
-            var engines = db.Engines.All()
+            var engines = this.Data.Engines.All()
                 .Where(e => e.CarModels.FirstOrDefault(cm => cm.Id == carModelId) != null)
                 .Select(e => new EngineViewModel
                 {
@@ -99,110 +107,69 @@ namespace MaxThrottle.Controllers
 
         public ActionResult Create()
         {
-            var db = new MaxThrottleData();
-            var manufacturers = db.Manufacturers.All().OrderBy(m => m.Name)
-                .Select(m => new ManufacturerViewModel
-                {
-                    Id = m.Id,
-                    Name = m.Name
-                }).ToList();
-
-            ViewBag.Years = this.PopulateYears();
-
-            return View(manufacturers);
+            var manufacturers = this.Data.Manufacturers.All().OrderBy(m => m.Name).ToList();
+            ViewBag.ManufacturerId = new SelectList(manufacturers, "Id", "Name");
+            ViewBag.CarModelId = new SelectList(new List<CarModel>(), "Id", "Name");
+            ViewBag.EngineId = new SelectList(new List<Engine>(), "Id", "Name");
+            ViewBag.YearOfProduction = this.PopulateYears();
+            return View();
         }
 
         [HttpPost]
-        public ActionResult Create(CarViewModel inputCar, HttpPostedFileBase carPicture)
+        public ActionResult Create(CreateCarViewModel carViewModel, HttpPostedFileBase carPicture)
         {
-            var db = new MaxThrottleData();
-
-            var manufacturerId = int.Parse(inputCar.Manufacturer);
-            var carModelId = int.Parse(inputCar.CarModel);
-            var engineId = int.Parse(inputCar.Engine);
-
-            var manufacturer = db.Manufacturers.All().FirstOrDefault(m => m.Id == manufacturerId);
-            if (manufacturer == null)
+            if (ModelState.IsValid)
             {
-                throw new ArgumentException("Invalid manufacturer");
+                var car = new Car
+                {
+                    ManufacturerId = carViewModel.ManufacturerId,
+                    CarModelId = carViewModel.CarModelId,
+                    EngineId = carViewModel.EngineId,
+                    YearOfProduction = carViewModel.YearOfProduction,
+                    KilometersRan = carViewModel.KilometersRan,
+                    Price = carViewModel.Price,
+                    LeatherInterior = carViewModel.LeatherInterior,
+                    AirConditioner = carViewModel.AirConditioner,
+                    DateOfCreation = DateTime.Now,
+                    UserId = this.Data.Users.All().FirstOrDefault(u => u.UserName == User.Identity.Name).Id
+                };
+
+                this.Data.Cars.Add(car);
+                this.Data.SaveChanges();
+
+                if (carPicture != null)
+                {
+                    car.ImageUrl = "~/Content/CarImages/" + car.Id + ".jpg";
+                    carPicture.SaveAs(Server.MapPath(car.ImageUrl));
+                }
+
+                this.Data.SaveChanges();
+
+                return Redirect("~/Cars/" + car.Id);
             }
 
-            var carModel = db.CarModels.All().FirstOrDefault(cm => cm.Id == carModelId);
-            if (carModel == null)
-            {
-                throw new ArgumentException("Invalid car model");
-            }
+            var manufacturers = this.Data.Manufacturers.All().OrderBy(m => m.Name).ToList();
+            ViewBag.ManufacturerId = new SelectList(manufacturers, "Id", "Name", carViewModel.ManufacturerId);
+            ViewBag.CarModelId = new SelectList(new List<CarModel>(), "Id", "Name");
+            ViewBag.EngineId = new SelectList(new List<Engine>(), "Id", "Name");
+            ViewBag.YearOfProduction = this.PopulateYears();
 
-            var engine = db.Engines.All().FirstOrDefault(e => e.Id == engineId);
-            if (engine == null)
-            {
-                throw new ArgumentException("Invalid engine");
-            }
-
-            var yearOfProduction = inputCar.YearOfProduction;
-            var kilometersRan = inputCar.KilometersRan;
-            var price = inputCar.Price;
-
-            var leatherInterior = inputCar.LeatherInterior;
-            var airConditioner = inputCar.AirConditioner;
-
-            var imageUrl = inputCar.ImageUrl;
-
-            var car = new Car
-            {
-                ManufacturerId = manufacturerId,
-                CarModelId = carModelId,
-                EngineId = engineId,
-                YearOfProduction = yearOfProduction,
-                KilometersRan = kilometersRan,
-                Price = price,
-                LeatherInterior = leatherInterior,
-                AirConditioner = airConditioner,
-            };
-
-            db.Cars.Add(car);
-            db.SaveChanges();
-
-            if (carPicture != null)
-            {
-                car.ImageUrl = "~/Content/CarImages/" + car.Id + ".jpg";
-                carPicture.SaveAs(Server.MapPath(car.ImageUrl));
-                db.SaveChanges();
-            }
-            
-            return Redirect("~/Cars/Details?id=" + car.Id);
+            return View(carViewModel);
         }
 
         private SelectList PopulateYears()
         {
-            return new SelectList(new List<int>
+            const int YearInterval = 40;
+
+            var years = new List<int>();
+
+            var currentYear = DateTime.Now.Year;
+            for (int i = currentYear; i >= currentYear - YearInterval; i--)
             {
-                1990,
-                1991,
-                1992,
-                1993,
-                1994,
-                1995,
-                1996,
-                1997,
-                1998,
-                1999,
-                2000,
-                2001,
-                2002,
-                2003,
-                2004,
-                2005,
-                2006,
-                2007,
-                2008,
-                2009,
-                2010,
-                2011,
-                2012,
-                2013,
-                2014
-            });
+                years.Add(i);
+            }
+
+            return new SelectList(years);
         }
     }
 }

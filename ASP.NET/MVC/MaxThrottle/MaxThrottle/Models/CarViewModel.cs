@@ -1,7 +1,10 @@
-﻿using System;
+﻿using MaxThrottle.Model;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Web.Mvc;
 
 namespace MaxThrottle.Models
 {
@@ -26,5 +29,7 @@ namespace MaxThrottle.Models
         public bool LeatherInterior { get; set; }
 
         public bool AirConditioner { get; set; }
+
+        public int TimesVisited { get; set; }
     }
 }

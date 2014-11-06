@@ -56,6 +56,14 @@ namespace MaxThrottle.Data
             }
         }
 
+        public IGenericRepository<User> Users
+        {
+            get
+            {
+                return this.GetRepository<User>();
+            }
+        }
+
         private IGenericRepository<T> GetRepository<T>() where T : class
         {
             var typeOfModel = typeof(T);

@@ -11,6 +11,11 @@ namespace MaxThrottle.Model
 {
     public class User : IdentityUser
     {
+        public User()
+        {
+            this.Cars = new HashSet<Car>();
+        }
+
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<User> manager)
         {
             // Note the authenticationType must match the one defined in CookieAuthenticationOptions.AuthenticationType
@@ -18,5 +23,7 @@ namespace MaxThrottle.Model
             // Add custom user claims here
             return userIdentity;
         }
+
+        public virtual ICollection<Car> Cars { get; set; }
     }
 }

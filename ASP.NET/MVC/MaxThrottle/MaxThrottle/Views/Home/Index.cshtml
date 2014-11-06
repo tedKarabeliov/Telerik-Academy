@@ -1,26 +1,60 @@
-﻿@model List<MaxThrottle.Models.ManufacturerViewModel>
+﻿@model IEnumerable<MaxThrottle.Models.CarViewModel>
 @{
     ViewBag.Title = "Home Page";
 }
 
-<div class="jumbotron">
-    <h1>Car Search</h1>
-    <form class="search-form" action="Cars/Index" method="GET">
-        <select name="manufacturer" id="car-manufacturer">
-            <option value="">-</option>
-            @foreach (var manufacturer in Model)
-            {
-                <option value="@manufacturer.Id">@manufacturer.Name</option>
-            }
+<div>
+    <h2>Car Search</h2>
+    <form class="search-form jumbotron" action="~/Cars/Index" method="POST">
+        @Html.Label("Manufacturer", new { @for="car-manufacturer" })
+        @Html.DropDownList("ManufacturerId", null, "-", new { id = "car-manufacturer" })
+
+        <label for="car-model">Car Model</label>
+        <select name="carModelId" id="car-model">
+            <option value>-</option>
         </select>
-        <select name="carmodel" id="car-model">
-            <option value="">-</option>
-        </select>
-        <select name="engine" id="car-engine">
-            <option value="">-</option>
+
+        <label for="car-engine">Engine</label>
+        <select name="engineId" id="car-engine">
+            <option value>-</option>
         </select>
 
         <input type="submit" value="Search"/>
     </form>
+
+    <div class="jumbotron">
+        <div class="latest-cars" style="float: left">
+            <h2>Latest Cars Added</h2>
+            @foreach (var car in ViewBag.LatestCars)
+            {
+                <h3>
+                    <a href="~/Cars/@car.Id">
+                        <span>@car.Manufacturer</span>
+                        <span>@car.CarModel</span>
+                        <span>@car.Engine</span>
+                    </a>
+                </h3>
+                <img src="~/Content/CarImages/@car.ImageUrl" width="160" height="120" style="float: left" />
+                <div style="font-size: 18px; float: left; margin: 5px">
+                    <div>Price: @car.Price</div>
+                    <div>Year: @car.YearOfProduction</div>
+                    <div>Kilometers ran: @car.KilometersRan</div>
+                </div>
+            }
+
+        </div>
+        <div class="most-visited-cars" style="float: right">
+            <h2>Most popular cars</h2>
+            @foreach (var car in ViewBag.MostVisitedCars)
+            {
+                <div style="border: 1px solid blue">
+                    <span>@(ViewBag.MostVisitedCars.IndexOf(car) + 1)</span>
+                    <span>@car.Manufacturer</span>
+                    <span>@car.CarModel</span>
+                </div>
+            }
+        </div>
+        <div style="clear: both"></div>
+    </div>
 </div>
 @Scripts.Render("~/Scripts/SiteScripts/index.js")

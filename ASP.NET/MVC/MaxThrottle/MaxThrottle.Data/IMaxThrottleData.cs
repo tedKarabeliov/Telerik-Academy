@@ -17,5 +17,9 @@ namespace MaxThrottle.Data
         IGenericRepository<Engine> Engines { get; }
 
         IGenericRepository<Car> Cars { get; }
+
+        IGenericRepository<User> Users { get; }
+
+        int SaveChanges();
     }
 }

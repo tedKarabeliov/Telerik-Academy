@@ -1,35 +1,35 @@
-﻿@model List<MaxThrottle.Models.ManufacturerViewModel>
+﻿@model MaxThrottle.Models.CreateCarViewModel
 <div>
     <form class="create-form" method="POST" enctype="multipart/form-data">
         <div>
-            <select name="manufacturer" id="car-manufacturer">
-                <option>-</option>
-                @foreach (var manufacturer in Model)
-                {
-                    <option value="@manufacturer.Id">@manufacturer.Name</option>
-                }
-            </select>
+            @Html.LabelFor(m => m.ManufacturerId, "Manufacturer")
+            @Html.DropDownList("ManufacturerId", null, "-", new { id="car-manufacturer" })
+            @Html.ValidationMessageFor(m => m.ManufacturerId, null)
         </div>
         <div>
-            <select name="carmodel" id="car-model">
-                <option>-</option>
-            </select>
+            @Html.LabelFor(m => m.CarModelId, "Model")
+            @Html.DropDownList("CarModelId", null, "-", new { id = "car-model" })
+            @Html.ValidationMessageFor(m => m.CarModelId, null)
         </div>
         <div>
-            <select name="engine" id="car-engine">
-                <option>-</option>
-            </select>
+            @Html.LabelFor(m => m.EngineId, "Engine")
+            @Html.DropDownList("EngineId", null, "-", new { id = "car-engine" })
+            @Html.ValidationMessageFor(m => m.EngineId, null)
         </div>
         <div>
-            @Html.DropDownList("yearOfProduction", (SelectList)ViewBag.Years, "-");
+            @Html.LabelFor(m => m.YearOfProduction, "YearOfProduction")
+            @Html.DropDownList("YearOfProduction", null, "-")
+            @Html.ValidationMessageFor(m => m.YearOfProduction, null)
         </div>
         <div>
-            <label for="price">Price</label>
-            <input type="text" id="price" name="price" />
+            @Html.LabelFor(m => m.Price, "Price")
+            @Html.TextBoxFor(m => m.Price)
+            @Html.ValidationMessageFor(m => m.Price, null)
         </div>
         <div>
-            <label for="price">Kilometers ran</label>
-            <input type="text" id="kilometers-ran" name="kilometersRan" />
+            @Html.LabelFor(m => m.KilometersRan, "Kilometers ran")
+            @Html.TextBoxFor(m => m.KilometersRan)
+            @Html.ValidationMessageFor(m => m.KilometersRan, null)
         </div>
         <div>
             <label for="leather-interior">Leather interior</label>
