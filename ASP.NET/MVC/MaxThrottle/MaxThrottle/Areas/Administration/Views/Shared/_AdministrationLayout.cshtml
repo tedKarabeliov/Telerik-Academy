@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <ul class="admin-nav">
+        <li>
+            @Html.ActionLink("Manage Manufacturers", "Index", "Manufacturers", new { }, new { Area = "Administration" })
+        </li>
+        <li>
+            @Html.ActionLink("Manage Models", "Index", "CarModels", new { }, new { Area = "Administration" })
+        </li>
+        <li>
+            @Html.ActionLink("Manage Engines", "Index", "Engines", new { }, new { Area = "Administration" })
+        </li>
+    </ul>
+</div>
+
+@RenderBody()
+
+@Styles.Render("~/Content/Administration/administration.css")

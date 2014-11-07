@@ -105,6 +105,7 @@ namespace MaxThrottle.Controllers
             return Json(engines, JsonRequestBehavior.AllowGet);
         }
 
+        [Authorize]
         public ActionResult Create()
         {
             var manufacturers = this.Data.Manufacturers.All().OrderBy(m => m.Name).ToList();
@@ -115,6 +116,7 @@ namespace MaxThrottle.Controllers
             return View();
         }
 
+        [Authorize]
         [HttpPost]
         public ActionResult Create(CreateCarViewModel carViewModel, HttpPostedFileBase carPicture)
         {

@@ -20,4 +20,11 @@
         @Model.AirConditioner
         @Model.TimesVisited
     </div>
+
+    @if (this.User.IsInRole("admin"))
+    {
+        <div>
+            @Html.ActionLink("Edit", "", new { }, new { @class = "btn btn-default" })
+        </div>
+    }
 </div>

@@ -23,14 +23,14 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Cars", "Index", "Cars")</li>
+                    <li>@Html.ActionLink("Cars", "Index", "Cars", new { Area = "" }, null)</li>
                     @if (User.Identity.IsAuthenticated)
                     {
-                        <li>@Html.ActionLink("Create Car", "Create", "Cars")</li>
+                        <li>@Html.ActionLink("Create Car", "Create", "Cars", new { Area = "" }, null)</li>
                     }
                     @if (User.IsInRole("admin"))
                     {
-                        <li>@Html.ActionLink("Add manufacturer", "Index", "Manufacturers")</li>
+                        <li>@Html.ActionLink("Administration", "Index", "Administration", new { Area = "Administration" }, null)</li>
                     }
                 </ul>
                 @Html.Partial("_LoginPartial")
