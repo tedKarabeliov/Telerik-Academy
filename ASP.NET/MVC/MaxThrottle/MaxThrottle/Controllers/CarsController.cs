@@ -1,6 +1,8 @@
-﻿using MaxThrottle.Data;
+﻿using MaxThrottle.Constants;
+using MaxThrottle.Data;
 using MaxThrottle.Model;
 using MaxThrottle.Models;
+using MaxThrottle.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,7 +42,8 @@ namespace MaxThrottle.Controllers
                     CarModel = c.CarModel.Name,
                     Engine = c.Engine.Name,
                     YearOfProduction = c.YearOfProduction,
-                    Price = c.Price
+                    Price = c.Price,
+                    ImageUrl = c.ImageUrl != null ? c.ImageUrl : Globals.NoImageFoundPath
                 }).ToList();
 
             return View(carsToReturn);
@@ -72,6 +75,7 @@ namespace MaxThrottle.Controllers
                 KilometersRan = car.KilometersRan,
                 Price = car.Price,
                 TimesVisited = car.TimesVisited,
+                ImageUrl = car.ImageUrl != null ? car.ImageUrl : Globals.NoImageFoundPath,
                 LeatherInterior = car.LeatherInterior,
                 AirConditioner = car.AirConditioner
             };
@@ -99,7 +103,7 @@ namespace MaxThrottle.Controllers
                 .Select(e => new EngineViewModel
                 {
                     Id = e.Id,
-                    Name = e.Name
+                    Name = e.Name,
                 }).ToList();
 
             return Json(engines, JsonRequestBehavior.AllowGet);
@@ -112,7 +116,7 @@ namespace MaxThrottle.Controllers
             ViewBag.ManufacturerId = new SelectList(manufacturers, "Id", "Name");
             ViewBag.CarModelId = new SelectList(new List<CarModel>(), "Id", "Name");
             ViewBag.EngineId = new SelectList(new List<Engine>(), "Id", "Name");
-            ViewBag.YearOfProduction = this.PopulateYears();
+            ViewBag.YearOfProduction = SelectListDataGenerator.PopulateYears();
             return View();
         }
 
@@ -154,24 +158,9 @@ namespace MaxThrottle.Controllers
             ViewBag.ManufacturerId = new SelectList(manufacturers, "Id", "Name", carViewModel.ManufacturerId);
             ViewBag.CarModelId = new SelectList(new List<CarModel>(), "Id", "Name");
             ViewBag.EngineId = new SelectList(new List<Engine>(), "Id", "Name");
-            ViewBag.YearOfProduction = this.PopulateYears();
+            ViewBag.YearOfProduction = SelectListDataGenerator.PopulateYears();
 
             return View(carViewModel);
-        }
-
-        private SelectList PopulateYears()
-        {
-            const int YearInterval = 40;
-
-            var years = new List<int>();
-
-            var currentYear = DateTime.Now.Year;
-            for (int i = currentYear; i >= currentYear - YearInterval; i--)
-            {
-                years.Add(i);
-            }
-
-            return new SelectList(years);
         }
     }
 }

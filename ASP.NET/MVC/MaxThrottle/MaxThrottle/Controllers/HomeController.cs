@@ -1,4 +1,5 @@
-﻿using MaxThrottle.Data;
+﻿using MaxThrottle.Constants;
+using MaxThrottle.Data;
 using MaxThrottle.Models;
 using System;
 using System.Collections.Generic;
@@ -23,10 +24,11 @@ namespace MaxThrottle.Controllers
                     Id = c.Id,
                     Manufacturer = c.Manufacturer.Name,
                     CarModel = c.CarModel.Name,
+                    Engine = c.Engine.Name,
                     YearOfProduction = c.YearOfProduction,
                     KilometersRan = c.KilometersRan,
                     Price = c.Price,
-                    ImageUrl = c.ImageUrl
+                    ImageUrl = c.ImageUrl != null ? c.ImageUrl : Globals.NoImageFoundPath
                 })
                 .ToList();
 

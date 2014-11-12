@@ -1,30 +1,55 @@
 ﻿@model MaxThrottle.Models.CarViewModel
 <div>
-    <div>
-        <img src="~/Content/CarImages/@(Model.Id).jpg"
-             onerror="this.src = '../../Content/CarImages/No_image_available.png'"
-             width="240px" height="180px" />
-    </div>
-    <div>
+    <div class="head-info-container">
         <h2>
             <span>@Model.Manufacturer</span>
             <span>@Model.CarModel</span>
             <span>@Model.Engine</span>
         </h2>
     </div>
-    <div>
-        @Model.YearOfProduction
-        @Model.Price
-        @Model.KilometersRan
-        @Model.LeatherInterior
-        @Model.AirConditioner
-        @Model.TimesVisited
+    <div class="image-container well">
+        <img src="@Url.Content(Model.ImageUrl)"
+             width="240px" height="180px" />
     </div>
-
+    <div class="additional-info-container">
+        <div>
+            <b>Year of production:</b><i>@Model.YearOfProduction</i>
+        </div>
+        <div>
+            <b>Price:</b><i>@Model.Price</i>
+        </div>
+        <div>
+            <b>Kilometers ran:</b><i>@Model.KilometersRan</i>
+        </div>
+        <div>
+            <b>Times visited:</b><i>@Model.TimesVisited</i>
+        </div>
+        <div class="extras-container">
+            <h3>Additional extras</h3>
+            <ul>
+                @if (Model.LeatherInterior)
+                {
+                    <li>
+                        <b>Leather interior</b>
+                    </li>
+                }
+                @if (Model.AirConditioner)
+                {
+                    <li>
+                        <b>Air conditioner</b>
+                    </li>
+                }
+            </ul>
+            
+        </div>
+    </div>
+    <div style="clear: both"></div>
     @if (this.User.IsInRole("admin"))
     {
-        <div>
-            @Html.ActionLink("Edit", "", new { }, new { @class = "btn btn-default" })
+        <div class="admin-container">
+            @Html.ActionLink("Edit", "Edit", "Cars", new { Area = "Administration", id = Model.Id }, new { @class = "btn btn-default" })
+            @Html.ActionLink("Delete", "Delete", "Cars", new { Area = "Administration", id = Model.Id }, new { @class = "btn btn-default" })
         </div>
     }
 </div>
+@Styles.Render("~/Content/Cars/details.css")

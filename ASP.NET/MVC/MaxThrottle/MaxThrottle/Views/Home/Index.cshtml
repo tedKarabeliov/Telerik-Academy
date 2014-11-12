@@ -2,26 +2,21 @@
 @{
     ViewBag.Title = "Home Page";
 }
-
 <div>
     <h2>Car Search</h2>
     <form class="search-form jumbotron" action="~/Cars/Index" method="POST">
-        @Html.Label("Manufacturer", new { @for="car-manufacturer" })
+        @Html.Label("Manufacturer", new { @for = "car-manufacturer" })
         @Html.DropDownList("ManufacturerId", null, "-", new { id = "car-manufacturer" })
-
         <label for="car-model">Car Model</label>
         <select name="carModelId" id="car-model">
             <option value>-</option>
         </select>
-
         <label for="car-engine">Engine</label>
         <select name="engineId" id="car-engine">
             <option value>-</option>
         </select>
-
-        <input type="submit" value="Search"/>
+        <input type="submit" value="Search" />
     </form>
-
     <div class="jumbotron">
         <div class="latest-cars" style="float: left">
             <h2>Latest Cars Added</h2>
@@ -34,14 +29,15 @@
                         <span>@car.Engine</span>
                     </a>
                 </h3>
-                <img src="~/Content/CarImages/@car.ImageUrl" width="160" height="120" style="float: left" />
+                <img src="@Url.Content(car.ImageUrl)"
+                     
+                     width="160" height="120" style="float: left" />
                 <div style="font-size: 18px; float: left; margin: 5px">
                     <div>Price: @car.Price</div>
                     <div>Year: @car.YearOfProduction</div>
                     <div>Kilometers ran: @car.KilometersRan</div>
                 </div>
             }
-
         </div>
         <div class="most-visited-cars" style="float: right">
             <h2>Most popular cars</h2>
@@ -57,4 +53,5 @@
         <div style="clear: both"></div>
     </div>
 </div>
-@Scripts.Render("~/Scripts/SiteScripts/index.js")
+@Scripts.Render("~/Scripts/SiteScripts/httpRequester.js")
+@Scripts.Render("~/Scripts/SiteScripts/carSearch.js")

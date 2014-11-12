@@ -11,8 +11,8 @@
                 </a>
             </h2>
 
-            <img src="~/Content/CarImages/@(car.Id).jpg" alt="No image available"
-                 onerror="this.src = '../../Content/CarImages/No_image_available.png'"
+            <img src="@Url.Content(car.ImageUrl)"
+                 alt="No image available"
                  width="240px" height="180px" />
         </div>
     }

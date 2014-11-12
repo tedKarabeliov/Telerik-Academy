@@ -1,0 +1,34 @@
+﻿body {
+}
+    body .head-info-container {
+        margin: 10px;
+        border-bottom: 3px solid blue
+    }
+
+    body .image-container {
+        display: inline-block;
+        float: left;
+        width: 280px;
+        margin: 10px;
+    }
+
+    body .image-container > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border: 2px solid black
+    }
+
+    body .additional-info-container {
+        float: left;
+        margin: 10px;
+    }
+
+        body .additional-info-container > div {
+            font-size: 15px;
+            margin-bottom: 15px;
+        }
+
+            body .additional-info-container > div > b {
+                margin-right: 10px
+            }

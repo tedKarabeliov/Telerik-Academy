@@ -10,6 +10,10 @@ namespace MaxThrottle
 {
     public class MvcApplication : System.Web.HttpApplication
     {
+        public MvcApplication()
+        {
+        }
+
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();

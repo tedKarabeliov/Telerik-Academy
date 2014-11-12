@@ -198,7 +198,7 @@ namespace MaxThrottle.Data.Migrations
                     LeatherInterior = true,
                     YearOfProduction = 2000,
                     DateOfCreation = DateTime.Now,
-                    ImageUrl = "../CarImages/1.jpg",
+                    ImageUrl = "~/Content/CarImages/1.jpg",
                     ManufacturerId = 1,
                     CarModelId = 1,
                     EngineId = 2,

@@ -1,9 +1,13 @@
-﻿@model MaxThrottle.Models.CreateCarViewModel
+﻿@model MaxThrottle.Areas.Administration.Models.EditCarViewModel
+@{
+    Layout = "~/Areas/Administration/Views/Shared/_AdministrationLayout.cshtml";
+}
+
 <div>
-    <form class="create-form" method="POST" enctype="multipart/form-data">
+    <form class="edit-form" method="POST" enctype="multipart/form-data">
         <div>
             @Html.LabelFor(m => m.ManufacturerId, "Manufacturer")
-            @Html.DropDownList("ManufacturerId", null, "-", new { id="car-manufacturer" })
+            @Html.DropDownList("ManufacturerId", null, "-", new { id = "car-manufacturer" })
             @Html.ValidationMessageFor(m => m.ManufacturerId, null)
         </div>
         <div>
@@ -32,20 +36,20 @@
             @Html.ValidationMessageFor(m => m.KilometersRan, null)
         </div>
         <div>
-            <label for="leather-interior">Leather interior</label>
-            <input type="checkbox" id="leather-interior" name="leatherInterior" value="True"/>
-
-            <label for="air-conditioner">Air Conditioner</label>
-            <input type="checkbox" id="air-conditioner" name="airConditioner" value="True"/>
+            @Html.LabelFor(m => m.LeatherInterior, "Leather interior")
+            @Html.CheckBoxFor(m => m.LeatherInterior, new { id = "leather-interior", name = "leatherInterior", value="True" })
+            @Html.LabelFor(m => m.AirConditioner, "Air conditioner")
+            @Html.CheckBoxFor(m => m.AirConditioner, new { id = "air-conditioner", name = "airConditioner", value = "True" })
         </div>
         <div>
             <input type="file" id="car-picture" name="carPicture" />
-            <img src="@Url.Content(MaxThrottle.Constants.Globals.NoImageFoundPath)" id="preview-car-picture" alt="Your Image"
+            <img src="@Url.Content(Model.ImageUrl)" id="preview-car-picture" alt="Your Image"
                  width="240" height="180" />
+            <input type="hidden" name="imageUrl" value="@Model.ImageUrl" />
         </div>
-        <input type="submit" value="Create" />
+        <input type="submit" value="Edit" />
     </form>
 </div>
-@Scripts.Render("~/Scripts/SiteScripts/httpRequester.js")
 @Scripts.Render("~/Scripts/SiteScripts/createCar.js")
 @Scripts.Render("~/Scripts/SiteScripts/imagePreviewer.js")
+

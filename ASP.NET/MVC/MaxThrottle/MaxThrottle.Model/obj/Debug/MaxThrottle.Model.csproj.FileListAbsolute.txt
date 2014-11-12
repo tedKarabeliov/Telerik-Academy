@@ -12,3 +12,17 @@ c:\users\tedski\documents\visual studio 2013\Projects\MaxThrottle\MaxThrottle.Mo
 c:\users\tedski\documents\visual studio 2013\Projects\MaxThrottle\MaxThrottle.Model\obj\Debug\MaxThrottle.Model.dll
 c:\users\tedski\documents\visual studio 2013\Projects\MaxThrottle\MaxThrottle.Model\obj\Debug\MaxThrottle.Model.pdb
 C:\Users\Tedski\documents\visual studio 2013\Projects\MaxThrottle\MaxThrottle.Model\obj\Debug\MaxThrottle.Model.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\MaxThrottle.Model.dll.config
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\MaxThrottle.Model.dll
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\MaxThrottle.Model.pdb
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\EntityFramework.dll
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\EntityFramework.xml
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\obj\Debug\MaxThrottle.Model.csprojResolveAssemblyReference.cache
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\obj\Debug\MaxThrottle.Model.dll
+C:\Users\Dancho Notebook\Desktop\Telerik-Academy-master\ASP.NET\MVC\MaxThrottle\MaxThrottle.Model\obj\Debug\MaxThrottle.Model.pdb
